@@ -1,0 +1,35 @@
+/**
+ * Configuration file for the Maps Scraper
+ */
+
+module.exports = {
+  // Default search query (use + for spaces)
+  defaultSearchQuery: 'cabient+dentaire+atlas',
+  
+  // Request settings
+  requestSettings: {
+    timeout: 10000, // 10 seconds
+    delayBetweenRequests: 1, // 1 second delay
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+  },
+  
+  // Email filtering blacklist
+  emailBlacklist: ['no-reply', 'sentry', 'moofin', 'noreply', 'donotreply'],
+  
+  // Social media platforms to filter out
+  socialMediaFilters: ['instagram', 'wa.me', 'facebook', 'whatsapp', 'twitter', 'linkedin'],
+  
+  // Phone number regex for different countries
+  phoneRegex: {
+    morocco: /\b(?:\+212[\s\-]?|0)(5|6|7)(?:[\s\-]?\d){8}\b/g,
+    france: /\b(?:\+33|0)[1-9](?:[\s\-]?\d){8}\b/g,
+    international: /\b\+\d{1,3}[\s\-]?\d{1,4}[\s\-]?\d{1,4}[\s\-]?\d{1,9}\b/g
+  },
+  
+  // Output settings
+  output: {
+    saveToFile: true,
+    filename: 'results', // Will be appended with timestamp
+    format: 'json'
+  }
+};
