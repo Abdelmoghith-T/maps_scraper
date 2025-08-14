@@ -7,7 +7,8 @@
     "start": "node index.js",
     "run": "node run.js",
     "example": "node example.js",
-    "test": "node test.js"
+    "test": "node test.js",
+    "debug:addresses": "node debug-addresses.js"
   },
   "dependencies": {
     "axios": "^1.6.0",

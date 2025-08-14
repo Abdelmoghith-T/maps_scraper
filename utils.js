@@ -285,6 +285,73 @@ function extractGoogleMapsParts(html) {
 }
 
 /**
+ * Extract address candidates from HTML using a broad regex and return matches
+ * @param {string} html
+ * @returns {string[]} array of matched address strings
+ */
+function extractAdresse(html) {
+  if (!html || typeof html !== 'string') return [];
+  const regex = /\"([A-Za-zÀ-ÿ0-9\s'\-\.]+,\s*[A-Za-zÀ-ÿ0-9\s'\-\.]+,\s*[A-Za-zÀ-ÿ0-9\s'\-\.]+,\s*[A-Za-zÀ-ÿ0-9\s'\-\.]+)/g;
+  const matches = [];
+  let m;
+  while ((m = regex.exec(html)) !== null) {
+    if (m[1]) {
+      const candidate = m[1].replace(/\s+/g, ' ').trim();
+      if (candidate.length > 0) matches.push(candidate);
+    }
+  }
+  return matches;
+}
+
+/**
+ * Filter and rank address candidates to remove obvious non-address strings
+ * @param {string[]} candidates
+ * @param {string} [city]
+ * @returns {string[]} cleaned and ranked candidates
+ */
+function filterAddressCandidates(candidates, city = '') {
+  if (!Array.isArray(candidates)) return [];
+
+  const blacklistWords = [
+    'modifier', "l'adresse", 'horaires', 'etc', 'ajouter', 'signaler', 'avis',
+    'site web', 'itinéraire', 'partager', 'enregistrer', 'menu', 'call', 'ouvrir',
+    'photos', 'questions', 'suggest', 'update', 'edit'
+  ];
+
+  const hasBlacklisted = (s) => {
+    const lower = s.toLowerCase();
+    return blacklistWords.some(w => lower.includes(w));
+  };
+
+  const isNumericCsv = (s) => /^\s*\d+(?:\s*,\s*\d+)+\s*$/.test(s);
+
+  const hasStreetKeyword = (s) => /\b(rue|avenue|av\.?|bd|boulevard|route|quartier|place|lot|imm|res|rés|app)\b/i.test(s);
+
+  const normalizedCity = (city || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const containsCity = (s) => normalizedCity && s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').includes(normalizedCity);
+
+  const cleaned = Array.from(new Set(candidates.map(c => c.replace(/\s+/g, ' ').trim())))
+    .filter(c => c.length >= 10 && c.length <= 160)
+    .filter(c => c.includes(','))
+    .filter(c => /[A-Za-zÀ-ÿ]/.test(c))
+    .filter(c => !isNumericCsv(c))
+    .filter(c => !hasBlacklisted(c));
+
+  // Rank: city match first, then presence of street keyword, then length descending
+  const ranked = cleaned.sort((a, b) => {
+    const aCity = containsCity(a) ? 1 : 0;
+    const bCity = containsCity(b) ? 1 : 0;
+    if (aCity !== bCity) return bCity - aCity;
+    const aStreet = hasStreetKeyword(a) ? 1 : 0;
+    const bStreet = hasStreetKeyword(b) ? 1 : 0;
+    if (aStreet !== bStreet) return bStreet - aStreet;
+    return b.length - a.length;
+  });
+
+  return ranked;
+}
+
+/**
  * Filter parts to exclude social media and messaging platforms
  * @param {string[]} parts - Array of parts to filter
  * @returns {string[]} Filtered array of parts
@@ -468,5 +535,7 @@ module.exports = {
   combineNamesAndEmails,
   cleanUrl,
   isBusinessWebsite,
-  wait
+  wait,
+  extractAdresse,
+  filterAddressCandidates
 };

@@ -1,82 +1,47 @@
 {
   "metadata": {
-    "businessType": "Concepteur de sites web",
+    "businessType": "dentiste",
     "location": "fes",
-    "totalResults": 10,
-    "scrapedAt": "2025-08-13T20:02:22.507Z",
-    "scrapedAtLocal": "8/13/2025, 9:02:22 PM"
+    "totalResults": 5,
+    "scrapedAt": "2025-08-14T17:18:19.359Z",
+    "scrapedAtLocal": "8/14/2025, 6:18:19 PM"
   },
   "results": [
     {
-      "name": "Metagroup création site web fés",
-      "phone": "0708-023048",
-      "website": "https://metagroup.ma",
+      "name": "Dr. Serroukh Khalid, Chirurgien Dentiste Fes Dentiste Fès Pedodontiste & implantologie Fes",
+      "phone": "05356-03678",
+      "website": "",
       "emails": [],
-      "location": "fes"
+      "location": "Saada En dessus de carly, 24 avenue saint louis bureau meftaha, n13, Fès 31000"
     },
     {
-      "name": "Appbox",
-      "phone": "0690-402020",
+      "name": "Cabinet d'orthodontie Dr. Said TLEMCANI",
+      "phone": "05356-52080",
       "website": "",
       "emails": [],
       "location": "fes"
     },
     {
-      "name": "Création site web Maroc fés",
-      "phone": "0708-023048",
-      "website": "https://metagroup.ma",
-      "emails": [],
-      "location": "fes"
-    },
-    {
-      "name": "Webmarko",
-      "phone": "0661-511183",
-      "website": "",
-      "emails": [],
-      "location": "fes"
-    },
-    {
-      "name": "NassimSEO Création Site Web",
-      "phone": "0669-947515",
-      "website": "https://nassimseo.com/creation-site-web-maroc",
+      "name": "Cabinet dentaire Dr. kadri badr",
+      "phone": "0666-686646",
+      "website": "https://drbadrkadri.com",
       "emails": [
-        "contact@nassimseo.com"
+        "drkadribadr@gmail.com"
       ],
       "location": "fes"
     },
     {
-      "name": "isweb",
-      "phone": "0532-042566",
-      "website": "",
-      "emails": [],
-      "location": "fes"
-    },
-    {
-      "name": "Fesweb",
-      "phone": "05356-51358",
-      "website": "https://www.fesweb.net",
-      "emails": [],
-      "location": "fes"
-    },
-    {
-      "name": "Webeasy",
-      "phone": "",
-      "website": "",
-      "emails": [],
-      "location": "fes"
-    },
-    {
-      "name": "Inventis",
-      "phone": "05356-21314",
-      "website": "http://inventis.ma",
+      "name": "Dr Saad Debbagh Orthodontiste Fès",
+      "phone": "05359-60296",
+      "website": "https://debbaghdentalsmile.com",
       "emails": [
-        "contact@inventis.ma"
+        "contact@debbagh-dental.com"
       ],
       "location": "fes"
     },
     {
-      "name": "MyDigi",
-      "phone": "0663-446461",
+      "name": "Cabinet dentaire Dr. Meriem Dahhou",
+      "phone": "05387-27341",
       "website": "",
       "emails": [],
       "location": "fes"

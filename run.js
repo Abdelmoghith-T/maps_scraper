@@ -1,5 +1,104 @@
 const MapsScraper = require('./index.js');
 const fs = require('fs');
+const axios = require('axios');
+
+// Helper: Select best address candidate using Gemini generateContent API
+async function selectAddressWithGemini(candidates, businessName, location) {
+  try {
+    if (!Array.isArray(candidates) || candidates.length === 0) return '';
+
+    const apiKey = process.env.GEMINI_API_KEY || 'AIzaSyBkGk8FvU37dEp29MuXup1wU4yei7ta1TI';
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
+
+    const numbered = candidates.map((c, i) => `${i + 1}. ${c}`).join('\n');
+    const systemInstruction =  `You are given a numbered list of ADDRESS CANDIDATES extracted from Google Maps HTML for a single business.
+    Business: "${businessName}"
+    City / context: "${location}"
+    
+    TASK:
+    Select the single candidate that is the most likely FULL POSTAL ADDRESS for the business, and RESPOND WITH EXACTLY that candidate string from the list — NOTHING ELSE, no quotes, no extra words, no numbering, no explanation. If none of the candidates appears to be a full postal address, respond with an empty string (i.e. return nothing / a blank response).
+    
+    IMPORTANT HEURISTICS (use in roughly this order):
+    1) Prefer candidates that include a street number + street name (e.g. "12 Rue de ..."), or clear street indicators (Rue, Avenue, Av., Blvd, Rd, St, شارع, etc.).
+    2) Prefer candidates that include the CITY/context string or a plausible locality (city/neighborhood) or postal code.
+    3) Prefer candidates containing the business name (or a clear substring of it) if that indicates the candidate is the business's address.
+    4) Prefer candidates that look like full addresses (contain multiple address components separated by commas or line breaks: street, locality/city, postal code/country).
+    5) Penalize short fragments, UI text, review snippets, hours, phone numbers alone, photo/review captions, or "Open" / "Closed" labels.
+    
+    LANGUAGE NOTES:
+    - Addresses may be in French, Arabic, English, or mixed; handle diacritics and non-Latin scripts.
+    - Keep the original candidate text exactly as-is when returning (do not normalize or alter the returned string).
+    
+    STRICT OUTPUT RULES:
+    - Output exactly one line: the chosen candidate string exactly as it appears in the provided list.
+    - If no candidate is clearly a postal address, output nothing (an empty response).
+    - Do NOT add punctuation, brackets, comments, JSON, or any extra characters.
+    
+    EXAMPLES:
+    
+    Example A
+    Candidates:
+    1. "La Maison — Open daily, tel: +212……"
+    2. "12 Rue de la Liberté, Fès 30000, Morocco"
+    3. "Bakery - homemade pastries"
+    Business: "La Maison"
+    City: "Fès"
+    Correct model reply (exactly):
+    12 Rue de la Liberté, Fès 30000, Morocco
+    
+    Example B (no clear address)
+    Candidates:
+    1. "Open 9–5 — contact: +212…"
+    2. "Photos and reviews"
+    Business: "X"
+    City: "Rabat"
+    Correct model reply (exactly):
+    <empty response — i.e. return nothing>
+    
+    END OF INSTRUCTIONS.`;
+
+    const body = {
+      contents: [
+        {
+          role: 'user',
+          parts: [
+            { text: systemInstruction + `\n\nCandidates:\n${numbered}` }
+          ]
+        }
+      ]
+    };
+
+    const resp = await axios.post(endpoint, body, {
+      timeout: 20000,
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    });
+
+    const texts = ((resp && resp.data && resp.data.candidates && resp.data.candidates[0] && resp.data.candidates[0].content && resp.data.candidates[0].content.parts) || [])
+      .map(p => (p && p.text) ? String(p.text) : '')
+      .filter(Boolean);
+    const raw = texts.join(' ').trim();
+    if (!raw) return '';
+
+    // Normalize and try to map back to one of the candidates
+    const normalize = (s) => s.replace(/\s+/g, ' ').trim();
+    const normalizedRaw = normalize(raw);
+
+    // Exact match first
+    const exact = candidates.find(c => normalize(c) === normalizedRaw);
+    if (exact) return exact;
+
+    // Fuzzy containment
+    const contains = candidates.find(c => normalize(c).includes(normalizedRaw) || normalizedRaw.includes(normalize(c)));
+    if (contains) return contains;
+
+    // Fallback: choose the longest candidate
+    return candidates.reduce((a, b) => (b.length > a.length ? b : a), '');
+  } catch (e) {
+    return '';
+  }
+}
 
 class FlexibleBusinessScraper {
   constructor() {
@@ -100,6 +199,16 @@ class FlexibleBusinessScraper {
         console.log(`   ⚠️  No business names found, using search term`);
       }
 
+      // Extract address candidates and pick using Gemini
+      const rawAddressCandidates = require('./utils').extractAdresse(googleMapsData);
+      let address = '';
+      if (rawAddressCandidates.length > 0) {
+        console.log(`\n📍 ADDRESS CANDIDATES: ${rawAddressCandidates.length}`);
+        const bestByAI = await selectAddressWithGemini(rawAddressCandidates, bestBusinessName, location);
+        address = bestByAI || '';
+        console.log(`📍 ADDRESS (selected): ${address || 'None'}`);
+      }
+
       // Get the first phone number (most likely to be correct for individual search)
       const phoneNumber = phoneNumbers.length > 0 ? phoneNumbers[0] : '';
       console.log(`\n📞 SELECTED PHONE: ${phoneNumber || 'None found'}`);
@@ -159,6 +268,7 @@ class FlexibleBusinessScraper {
 
       console.log(`\n📋 FINAL RESULT:`);
       console.log(`   🏢 Business: ${bestBusinessName}`);
+      console.log(`   📍 Location: ${(address || location) || 'Not found'}`);
       console.log(`   📞 Phone: ${phoneNumber || 'Not found'}`);
       console.log(`   🌐 Website: ${website || 'Not found'}`);
       console.log(`   📧 Emails: ${emails.length > 0 ? emails.join(', ') : 'Not found'}`);
@@ -169,7 +279,7 @@ class FlexibleBusinessScraper {
         phone: phoneNumber,
         website: website,
         emails: emails,
-        location: location
+        location: address || location
       };
 
     } catch (error) {
@@ -312,6 +422,7 @@ class FlexibleBusinessScraper {
     results.forEach((business, index) => {
       console.log(`\n${index + 1}. ${'─'.repeat(70)}`);
       console.log(`🏢 BUSINESS: ${business.name}`);
+      console.log(`📍 LOCATION: ${business.location || '❌ Not available'}`);
       console.log(`📞 PHONE: ${business.phone || '❌ Not available'}`);
       console.log(`🌐 WEBSITE: ${business.website || '❌ Not available'}`);
       console.log(`📧 EMAILS: ${business.emails.length > 0 ? business.emails.join(', ') : '❌ Not available'}`);
