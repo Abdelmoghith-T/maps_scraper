@@ -38,5 +38,11 @@ module.exports = {
     saveToFile: true,
     filename: 'results', // Will be appended with timestamp
     format: 'json'
+  },
+
+  // Gemini API settings
+  gemini: {
+    apiKey: process.env.GEMINI_API_KEY || 'AIzaSyBLq9NEBbVcfRhRn9fTJcE1WtDEv6azKXo', // Replace with your actual key or set GEMINI_API_KEY env var
+    endpoint: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent'
   }
 };

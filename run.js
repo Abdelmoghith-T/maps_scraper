@@ -17,50 +17,14 @@ async function batchSelectAddressesWithGemini(businessDataArray) {
   try {
     if (!Array.isArray(businessDataArray) || businessDataArray.length === 0) return [];
 
-    const apiKey = process.env.GEMINI_API_KEY || 'AIzaSyA22X1Stw3W4oQ5yBgFOOPGtRLPSJmw4Ig';
-    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
+    const apiKey = process.env.GEMINI_API_KEY || config.gemini.apiKey; // Use config API key
+    const endpoint = config.gemini.endpoint; // Use config endpoint
 
-    let instruction = `You are an expert address extraction AI. Your task is to process a list of business data, each containing a business name, its location context (city), and a list of address candidates extracted from Google Maps HTML.
-
-GOAL: For EACH business entry, return the single candidate string that is MOST LIKELY to be the FULL POSTAL ADDRESS.
-
-STRICT RULES FOR EACH ADDRESS SELECTION:
-- Hard Exclusions (NEVER CHOOSE if a candidate contains any of these):
-  - Review/comment markers or first-person opinion text: "avis", "écrire un avis", "note", "commentaire", "réponse", "répondu", "J'ai", "Je recommande", "Très bon", "tbarkAllah", "merci", "expérience", "visité", "satisfait", "professionnel", emojis (⭐ 👍 ❤️)
-  - UI/controls: "Modifier le nom", "modifier l'adresse", "les horaires", "Suggérer une modification", "Signaler un problème", "Ajouter une photo", "Photos", "Voir les photos", "Directions", "Itinéraire", "Appeler", "Site Web", "Enregistrer", "Partager", "Questions-réponses", "Menu", "Ouvrir dans Google Maps"
-  - Status/metadata: "Ouvert", "Fermé", "Ferme à", "Horaires", "Heures", "Mis à jour", "il y a", "hier", "aujourd'hui", "mins", "heures", "jours"
-  - Arabic UI/reviews: "مفتوح", "مغلق", "اتجاهات", "موقع الويب", "اتصال", "مشاركة", "التعليقات", "المراجعات", "أضف صورة", "اقتراح تعديل", "زرت", "أنصح", "تجربة", "شكرا"
-  - Pure phone numbers, prices, categories only, single-word labels.
-
-- Positive Signals (a candidate is ADDRESS-LIKE if it satisfies BOTH):
-  A) Contains at least one address token, for example:
-     Rue, Avenue, Av., Blvd, Boulevard, Place, Lot, Lotissement, Résidence, Rés., Immeuble, Bloc, Appartement, App., Bureau, Zone, Route, Road, St, Rd, Quartier, Qrt, حي, شارع, إقامة, زنقة, رقم, n°/N°/No./n°, km
-  B) And at least one of:
-     - a street number (e.g., "12", "N° 5", "km 3"),
-     - the city/locality (match the provided context),
-     - a plausible 5-digit postal code (e.g., "30000", "10000"),
-     - country/region names (e.g., "Maroc", "Morocco").
-
-- Tie-Breaking / Partials:
-  - If one candidate has the street line and another has only city/postal, choose the STREET LINE (do NOT combine strings).
-  - Prefer candidates with multiple components separated by commas/newlines: street, locality/city, postal code, country.
-  - Prefer candidates that include a substring of the business name only if the string is still address-like per the rules above.
-  - Reject very short fragments (<12 chars) unless clearly a street+number.
-
-OUTPUT FORMAT:
-Return a JSON array where each element is the selected address string for the corresponding business, or an empty string if no plausible address is found.
-Example: ["123 Main St, City", "", "Another Address, 10000"]
-
-BUSINESS DATA TO PROCESS:
-`;
+    let instruction = `You are an expert address extraction AI. Your task is to process a list of business data, each containing a business name, its location context (city), and a list of address candidates extracted from Google Maps HTML.\n\nGOAL: For EACH business entry, return the single candidate string that is MOST LIKELY to be the FULL POSTAL ADDRESS.\n\nSTRICT RULES FOR EACH ADDRESS SELECTION:\n- Hard Exclusions (NEVER CHOOSE if a candidate contains any of these):\n  - Review/comment markers or first-person opinion text: "avis", "écrire un avis", "note", "commentaire", "réponse", "répondu", "J'ai", "Je recommande", "Très bon", "tbarkAllah", "merci", "expérience", "visité", "satisfait", "professionnel", emojis (⭐ 👍 ❤️)\n  - UI/controls: "Modifier le nom", "modifier l'adresse", "les horaires", "Suggérer une modification", "Signaler un problème", "Ajouter une photo", "Photos", "Voir les photos", "Directions", "Itinéraire", "Appeler", "Site Web", "Enregistrer", "Partager", "Questions-réponses", "Menu", "Ouvrir dans Google Maps"\n  - Status/metadata: "Ouvert", "Fermé", "Ferme à", "Horaires", "Heures", "Mis à jour", "il y a", "hier", "aujourd'hui", "mins", "heures", "jours"\n  - Arabic UI/reviews: "مفتوح", "مغلق", "اتجاهات", "موقع الويب", "اتصال", "مشاركة", "التعليقات", "المراجعات", "أضف صورة", "اقتراح تعديل", "زرت", "أنصح", "تجربة", "شكرا"\n  - Pure phone numbers, prices, categories only, single-word labels.\n\n- Positive Signals (a candidate is ADDRESS-LIKE if it satisfies BOTH):\n  A) Contains at least one address token, for example:\n     Rue, Avenue, Av., Blvd, Boulevard, Place, Lot, Lotissement, Résidence, Rés., Immeuble, Bloc, Appartement, App., Bureau, Zone, Route, Road, St, Rd, Quartier, Qrt, حي, شارع, إقامة, زنقة, رقم, n°/N°/No./n°, km\n  B) And at least one of:\n     - a street number (e.g., "12", "N° 5", "km 3"),\n     - the city/locality (match the provided context),\n     - a plausible 5-digit postal code (e.g., "30000", "10000"),\n     - country/region names (e.g., "Maroc", "Morocco").\n\n- Tie-Breaking / Partials:\n  - If one candidate has the street line and another has only city/postal, choose the STREET LINE (do NOT combine strings).\n  - Prefer candidates with multiple components separated by commas/newlines: street, locality/city, postal code, country.\n  - Prefer candidates that include a substring of the business name only if the string is still address-like per the rules above.\n  - Reject very short fragments (<12 chars) unless clearly a street+number.\n\nOUTPUT FORMAT:\nReturn a JSON array where each element is the selected address string for the corresponding business, or an empty string if no plausible address is found.\nExample: ["123 Main St, City", "", "Another Address, 10000"]\n\nBUSINESS DATA TO PROCESS:\n`;
 
     const businessesInput = businessDataArray.map((data, index) => {
       const numberedCandidates = data.candidates.map((c, i) => `${i + 1}. ${c}`).join('\n');
-      return `--- Business ${index + 1} ---
-Business Name: "${data.businessName}"
-City: "${data.location}"
-Candidates:
-${numberedCandidates}`;
+      return `--- Business ${index + 1} ---\nBusiness Name: "${data.businessName}"\nCity: "${data.location}"\nCandidates:\n${numberedCandidates}`;
     }).join('\n\n');
 
     const body = {
@@ -75,12 +39,13 @@ ${numberedCandidates}`;
     };
 
     // Add a delay before the API call to prevent rate limiting (429 errors)
-    await require('./utils').wait(1);
+    await require('./utils').wait(config.requestSettings.delayBetweenRequests); // Use config delay
 
     const resp = await axios.post(endpoint, body, {
-      timeout: 30000, // Increased timeout for potentially larger requests
+      timeout: config.requestSettings.timeout, // Use config timeout
       headers: {
-        'Content-Type': 'application/json'
+        'Content-Type': 'application/json',
+        'X-goog-api-key': apiKey // Corrected header: removed Bearer
       }
     });
 
@@ -101,12 +66,140 @@ ${numberedCandidates}`;
     } catch (parseError) {
       console.error('Failed to parse Gemini batch address response as JSON:', parseError.message);
       // Fallback: If parsing fails, try to extract lines as individual addresses
-      return textResponse.split('\n').map(line => line.trim()).filter(Boolean);
+      return cleanedResponse.split('\n').map(line => line.trim()).filter(Boolean);
     }
 
     return []; // Return empty array if no valid response
   } catch (e) {
     console.error('Error in batchSelectAddressesWithGemini:', e.message);
+    return [];
+  }
+}
+
+// Helper: Generate main search queries using Gemini
+async function generateMainQueriesWithGemini(userQuery, locationContext) {
+  try {
+    const apiKey = process.env.GEMINI_API_KEY || config.gemini.apiKey;
+    const endpoint = config.gemini.endpoint;
+
+    const prompt = `You are a helpful AI assistant. Given a user's search query for a business type and location (e.g., "dentist in fes"), your task is to generate 5 diverse and unique search queries that are highly likely to find more results for that business type in or around the specified location. 
+
+If the location is in Morocco (e.g., Fes, Casablanca, Rabat), generate queries primarily in French, using common French terms for business types if appropriate. If the location is not Moroccan, use the original language or English.
+
+Focus on varying the terminology, including common synonyms or related terms, and slightly different geographical scopes (e.g., nearby areas, general city search). Do NOT generate queries that are too specific to a single address or very obscure.
+
+Return the 5 queries as a JSON array of strings, like this: ["query 1", "query 2", "query 3", "query 4", "query 5"]. Do NOT include any extra text, explanations, or markdown fences outside the JSON array.
+
+User Query: "${userQuery}"
+Location Context: "${locationContext}"
+
+Generated Queries:`;
+
+    const body = {
+      contents: [
+        {
+          role: 'user',
+          parts: [
+            { text: prompt }
+          ]
+        }
+      ]
+    };
+
+    await require('./utils').wait(config.requestSettings.delayBetweenRequests);
+
+    const resp = await axios.post(endpoint, body, {
+      timeout: config.requestSettings.timeout,
+      headers: {
+        'Content-Type': 'application/json',
+        'X-goog-api-key': apiKey // Corrected header: removed Bearer
+      }
+    });
+
+    const textResponse = ((resp && resp.data && resp.data.candidates && resp.data.candidates[0] && resp.data.candidates[0].content && resp.data.candidates[0].content.parts) || [])
+      .map(p => (p && p.text) ? String(p.text) : '')
+      .filter(Boolean)
+      .join(' ');
+    
+    // Attempt to parse the JSON array. Gemini sometimes wraps it in markdown.
+    const cleanedResponse = textResponse.replace(/^```json\n/g, '').replace(/\n```$/g, '').trim();
+
+    try {
+      const parsed = JSON.parse(cleanedResponse);
+      if (Array.isArray(parsed) && parsed.every(item => typeof item === 'string')) {
+        return parsed.slice(0, 5); // Ensure exactly 5 queries
+      }
+    } catch (parseError) {
+      console.error('Failed to parse Gemini main queries response as JSON:', parseError.message);
+    }
+
+    return []; // Return empty array if parsing fails or invalid format
+
+  } catch (e) {
+    console.error('Error in generateMainQueriesWithGemini:', e.message);
+    return [];
+  }
+}
+
+// Helper: Generate sub-queries (neighborhoods/sub-cities) using Gemini
+async function generateSubQueriesWithGemini(mainQuery, locationContext) {
+  try {
+    const apiKey = 'AIzaSyBLq9NEBbVcfRhRn9fTJcE1WtDEv6azKXo';
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
+
+    const prompt = `You are a helpful AI assistant. Given a general business search query (e.g., "cabinet dentaire fes") and a location context (e.g., "Fes"), your task is to generate 10 highly specific sub-queries. Each sub-query should target a major neighborhood or a well-known smaller area within the given city/country, related to the business type.
+
+If the location is in Morocco (e.g., Fes, Casablanca, Rabat), generate queries primarily in French, using common French terms for neighborhoods if appropriate. If the location is not Moroccan, use the original language or English.
+
+Ensure the sub-queries are distinct and cover significant parts of the city/area. Do NOT include redundant queries or queries that are too broad.
+
+Return the 10 sub-queries as a JSON array of strings, like this: ["sub-query 1", "sub-query 2", ..., "sub-query 10"]. Do NOT include any extra text, explanations, or markdown fences outside the JSON array.
+
+Main Query: "${mainQuery}"
+Location Context: "${locationContext}"
+
+Generated Sub-Queries:`;
+
+    const body = {
+      contents: [
+        {
+          role: 'user',
+          parts: [
+            { text: prompt }
+          ]
+        }
+      ]
+    };
+
+    await require('./utils').wait(config.requestSettings.delayBetweenRequests);
+
+    const resp = await axios.post(endpoint, body, {
+      timeout: config.requestSettings.timeout,
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    });
+
+    const textResponse = ((resp && resp.data && resp.data.candidates && resp.data.candidates[0] && resp.data.candidates[0].content && resp.data.candidates[0].content.parts) || [])
+      .map(p => (p && p.text) ? String(p.text) : '')
+      .filter(Boolean)
+      .join(' ');
+    
+    const cleanedResponse = textResponse.replace(/^```json\n/g, '').replace(/\n```$/g, '').trim();
+
+    try {
+      const parsed = JSON.parse(cleanedResponse);
+      if (Array.isArray(parsed) && parsed.every(item => typeof item === 'string')) {
+        return parsed.slice(0, 10); // Ensure exactly 10 queries
+      }
+    } catch (parseError) {
+      console.error('Failed to parse Gemini sub-queries response as JSON:', parseError.message);
+    }
+
+    return [];
+
+  } catch (e) {
+    console.error('Error in generateSubQueriesWithGemini:', e.message);
     return [];
   }
 }
@@ -568,36 +661,105 @@ async function main() {
   const args = process.argv.slice(2);
 
   if (args.length === 0) {
-    console.log(`🚀 Flexible Business Scraper\n\nUsage: node run.js "<query>" [max_results]\n\nExamples:\n  node run.js "dentiste fes"\n  node run.js "restaurant casablanca"\n  node run.js "avocat rabat" 15\n  node run.js "Concepteur de sites web fes"\n  node run.js "plombier marrakech" 10\n  node run.js "pharmacie agadir"\n\nParameters:\n  query        - Business type and location in one query (required)\n  max_results  - Maximum number of businesses to find (default: 100)\n\nNote: If no city is specified in the query, defaults to "fes"\n    `);
+    console.log(`🚀 Flexible Business Scraper (Enhanced)\n\nUsage: node run.js "<business_type_and_location_query>" [max_results_per_subquery]\n\nExamples:\n  node run.js "dentiste fes"\n  node run.js "restaurant casablanca" 5\n  node run.js "lawyer new york" 8\n\nParameters:\n  query - A general query including business type and location (required, e.g., "dentiste fes")\n  max_results_per_subquery - Maximum number of businesses to find per generated sub-query (default: 100)\n    `);
     process.exit(1);
   }
 
-  const query = args[0];
-  const maxResults = parseInt(args[1]) || 100;
+  const userQuery = args[0];
+  const maxResultsPerSubQuery = parseInt(args[1]) || 100;
 
-  // Parse the query to extract business type and location
-  const { businessType, location } = parseQuery(query);
+  await orchestrateScraping(userQuery, maxResultsPerSubQuery);
+}
 
-  console.log(`🔍 Parsed query: "${query}"`);
-  console.log(`📋 Business type: "${businessType}"`);
-  console.log(`📍 Location: "${location}"`);
-  console.log(`🎯 Max results: ${maxResults}\n`);
+// New orchestration function to manage query generation and scraping
+async function orchestrateScraping(userQuery, maxResultsPerSubQuery) {
+  console.log(`\n🚀 Orchestrating enhanced scraping for: "${userQuery}"`);
+  console.log(`🎯 Max results per sub-query: ${maxResultsPerSubQuery}\n`);
 
   const scraper = new FlexibleBusinessScraper();
+  let allCombinedResults = [];
 
   try {
-    const results = await scraper.scrapeBusinesses(businessType, location, maxResults);
+    const { businessType, location } = parseQuery(userQuery);
+    console.log(`Initial parsed business type: "${businessType}", location: "${location}"`);
 
-    scraper.displayResults(results, businessType, location);
-    const filename = scraper.saveResults(results, businessType, location);
+    // STEP 1: Generate Main Queries
+    console.log(`\n${'▓'.repeat(60)}`);
+    console.log(`🤖 STEP 1: GENERATING MAIN SEARCH QUERIES WITH GEMINI`);
+    console.log(`${'▓'.repeat(60)}`);
 
-    console.log(`\n🎉 SCRAPING COMPLETED SUCCESSFULLY!`);
+    const mainQueries = await generateMainQueriesWithGemini(userQuery, location);
+    if (mainQueries.length === 0) {
+      console.log(`❌ No main queries generated. Exiting.`);
+      return;
+    }
+    console.log(`✅ Generated ${mainQueries.length} main queries:`, mainQueries);
+
+    // STEP 2: Iterate through main queries and generate sub-queries
+    for (let i = 0; i < mainQueries.length; i++) {
+      const mainQuery = mainQueries[i];
+      console.log(`\n${'▓'.repeat(60)}`);
+      console.log(`🤖 STEP 2: GENERATING SUB-QUERIES FOR MAIN QUERY [${i + 1}/${mainQueries.length}]: "${mainQuery}"`);
+      console.log(`${'▓'.repeat(60)}`);
+
+      const subQueries = await generateSubQueriesWithGemini(mainQuery, location);
+      if (subQueries.length === 0) {
+        console.log(`❌ No sub-queries generated for "${mainQuery}". Skipping.`);
+        continue;
+      }
+      console.log(`✅ Generated ${subQueries.length} sub-queries:`, subQueries);
+
+      // STEP 3: Scrape for each sub-query
+      for (let j = 0; j < subQueries.length; j++) {
+        const subQuery = subQueries[j];
+        console.log(`\n${'─'.repeat(80)}`);
+        console.log(`🔍 SCRAPING SUB-QUERY [${j + 1}/${subQueries.length}] for "${mainQuery}": "${subQuery}"`);
+        console.log(`${'─'.repeat(80)}`);
+
+        try {
+          const resultsForSubQuery = await scraper.scrapeBusinesses(subQuery, location, maxResultsPerSubQuery);
+          if (resultsForSubQuery.length > 0) {
+            allCombinedResults.push(...resultsForSubQuery);
+            console.log(`📊 Added ${resultsForSubQuery.length} results from sub-query. Total so far: ${allCombinedResults.length}`);
+          } else {
+            console.log(`⚠️ No results found for sub-query: "${subQuery}"`);
+          }
+        } catch (subQueryError) {
+          console.log(`❌ Error scraping sub-query "${subQuery}": ${subQueryError.message}`);
+        }
+      }
+    }
+
+    // Final display and save of all combined results
+    console.log(`\n${'▓'.repeat(80)}`);
+    console.log(`✅ ALL SCRAPING ROUNDS COMPLETED`);
+    console.log(`${'▓'.repeat(80)}`);
+    console.log(`📊 TOTAL UNIQUE BUSINESSES FOUND: ${allCombinedResults.length}`);
+
+    // Deduplicate final results (assuming 'name' and 'phone' make a business unique enough)
+    const uniqueResults = [];
+    const seenBusinesses = new Set();
+
+    allCombinedResults.forEach(business => {
+      const identifier = `${business.name}-${business.phone}`; // Or any other unique identifier
+      if (!seenBusinesses.has(identifier)) {
+        seenBusinesses.add(identifier);
+        uniqueResults.push(business);
+      }
+    });
+
+    console.log(`📊 TOTAL DEDUPLICATED BUSINESSES: ${uniqueResults.length}`);
+
+    scraper.displayResults(uniqueResults, businessType, location);
+    const filename = scraper.saveResults(uniqueResults, businessType, location);
+
+    console.log(`\n🎉 ENHANCED SCRAPING COMPLETED SUCCESSFULLY!`);
     console.log(`💾 Results saved to: ${filename}`);
-    console.log(`📊 Total businesses processed: ${results.length}`);
+    console.log(`📊 Total unique businesses processed: ${uniqueResults.length}`);
     console.log(`⏱️  Scraping session completed at: ${new Date().toLocaleString()}\n`);
 
   } catch (error) {
-    console.log(`\n❌ SCRAPING FAILED`);
+    console.log(`\n❌ ENHANCED SCRAPING FAILED`);
     console.log(`💥 Error: ${error.message}`);
     console.log(`⏱️  Failed at: ${new Date().toLocaleString()}\n`);
     process.exit(1);
