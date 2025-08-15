@@ -1,12 +1,47 @@
 {
   "metadata": {
     "businessType": "dentiste",
-    "location": "casablanca",
-    "totalResults": 304,
-    "scrapedAt": "2025-08-15T04:07:34.200Z",
-    "scrapedAtLocal": "8/15/2025, 5:07:34 AM"
+    "location": "maroc",
+    "totalResults": 379,
+    "scrapedAt": "2025-08-15T15:22:48.104Z",
+    "scrapedAtLocal": "8/15/2025, 4:22:48 PM"
   },
   "results": [
+    {
+      "name": "Dr Abbassi Kamal - Orthodontiste Casablanca I Implant dentaire I Facette dentaire I Soins dentaires I Invisalign Casablanca",
+      "phone": "0620-727300",
+      "website": "https://www.drabbassikamal.ma",
+      "emails": [
+        "contact@drabbassikamal.ma"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Casablanca - Dr Benchekroun Salma | Dentiste Maarif",
+      "phone": "05222-36921",
+      "website": "http://benchekroundentalclinic.com",
+      "emails": [
+        "cabinetdrsalmabenchekroun@gmail.com",
+        "medizco@gmail.com"
+      ],
+      "location": "6, rue des Hôpitaux, Résidence du Parc, Casablanca 20000"
+    },
+    {
+      "name": "Cabinet Dentaire IBNOUSSINA",
+      "phone": "0663-449278",
+      "website": "",
+      "emails": [],
+      "location": "1er etage, Residence Zahia, 21 Rue Socrate, Casablanca 20100"
+    },
+    {
+      "name": "𝐃𝐫 𝐃𝐨𝐮𝐧𝐢𝐚 𝐊𝐚𝐦𝐚𝐥 - 𝐃𝐞𝐧𝐭𝐢𝐬𝐭𝐞 - Casablanca",
+      "phone": "0520-515441",
+      "website": "https://drdouniakamal.com",
+      "emails": [
+        "bnihya.souf@live.fr"
+      ],
+      "location": "2eme etage, 98 Angle Rue Ibrahim Nakhai et, Rue Kaid al Achtar, Casablanca 20000"
+    },
     {
       "name": "Centre Dentaire Maarif - Docteur Wafaa MAANANI & Dr Mly Ismail AFIF -Yacoub Mansour-Casablanca",
       "phone": "05222-55051",
@@ -15,65 +50,7 @@
         "contact@mondentiste.ma",
         "moulayismailafif@gmail.com"
       ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire IBNOUSSINA",
-      "phone": "0520-845474",
-      "website": "",
-      "emails": [],
-      "location": "1er etage, Residence Zahia, 21 Rue Socrate, Casablanca 20100"
-    },
-    {
-      "name": "Sbaï Dentaire (Centre Dentaire à Casablanca)",
-      "phone": "05222-36921",
-      "website": "https://sbaidentaire.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr ELHISSEN Meriam - Cabinet dentaire a Maarif",
-      "phone": "05222-51481",
-      "website": "https://centredentaire-afifi.com",
-      "emails": [
-        "contact@centredentaire-afifi.com"
-      ],
-      "location": "30, Rue Du Marché, Maarif, 3 Résidence BenSaid"
-    },
-    {
-      "name": "Centre Dentaire Casablanca - Dr Benchekroun Salma | Dentiste Maarif",
-      "phone": "0669212009",
-      "website": "http://benchekroundentalclinic.com",
-      "emails": [
-        "cabinetdrsalmabenchekroun@gmail.com",
-        "medizco@gmail.com"
-      ],
-      "location": "3ème étage, Résidence Sorour, 93 Bd Al Massira Al Khadra, Casablanca 20100"
-    },
-    {
-      "name": "Cabinet Dentaire Dr. Merieme Alafifi - Maârif Casablanca",
-      "phone": "05229-83091",
-      "website": "https://centredentaire-afifi.com",
-      "emails": [
-        "contact@centredentaire-afifi.com"
-      ],
-      "location": "30, Rue Du Marché, Maarif, 3 Résidence BenSaid"
-    },
-    {
-      "name": "Clinique Dentaire Palmiers",
-      "phone": "05229-80807",
-      "website": "https://cliniquedentairepalmiers.ma",
-      "emails": [
-        "cdpbennouna@gmail.com"
-      ],
-      "location": "Clinique Dentaire Palmiers, Rés. Palmiers du Sud, 12 Boulevard Mohamed Abdou, Casablanca 20100"
-    },
-    {
-      "name": "Dentiste Maarif - My Smile Dental Center",
-      "phone": "05222-36437",
-      "website": "https://my-smile.ma",
-      "emails": [],
-      "location": "Angle Rue Cadi Iass et Rue Saad Bnou Zarara, Imm EL WASSIA, étg 2, n3 Au dessus de McDonald's"
+      "location": "maroc"
     },
     {
       "name": "Dr Leila Garti dentiste à Maarif Casablanca",
@@ -86,68 +63,13 @@
       "location": "1ére etage, Dr Leila Garti dentiste à Maarif Casablanca, APT 2, 69 Rue Assad Ibn Zorara"
     },
     {
-      "name": "DENTAL CLINIC",
-      "phone": "0661-983333",
-      "website": "https://dentalclinic.ma",
+      "name": "SWISS DENTAL CLINIC MOROCCO - CLINIQUE DENTAIRE SUISSE",
+      "phone": "05227-87575",
+      "website": "https://cliniquedentairedumaroc.com",
       "emails": [
-        "dentalclinic394@gmail.com"
+        "cliniquedentairedumaroc@gmail.com"
       ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire Valfleuri By Dr Khatouri Reda",
-      "phone": "05222-36666",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Lahlou – Casablanca : Soins – Blanchiment – Facettes Dentaire – Urgences",
-      "phone": "0722-399234",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "𝐃𝐫 𝐃𝐨𝐮𝐧𝐢𝐚 𝐊𝐚𝐦𝐚𝐥 - 𝐃𝐞𝐧𝐭𝐢𝐬𝐭𝐞 - Casablanca",
-      "phone": "0520-515441",
-      "website": "https://drdouniakamal.com",
-      "emails": [
-        "bnihya.souf@live.fr"
-      ],
-      "location": "2eme etage, 98 Angle Rue Ibrahim Nakhai et, Rue Kaid al Achtar, Casablanca 20000"
-    },
-    {
-      "name": "Cabinet Dentaire: DR. Houda LYOUSFI WAGAS",
-      "phone": "05222-57644",
-      "website": "https://cabinetdentairelyousfi.ma",
-      "emails": [
-        "contact@cdl.ma"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire les Fleurs à Casablanca .Docteur Barich Meryem",
-      "phone": "05228-63931",
-      "website": "https://lesfleursdental.wixsite.com/acceuil",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire DR Hicham DEMNI",
-      "phone": "0520-590076",
-      "website": "",
-      "emails": [],
-      "location": "2éme étage Appartement 3, porte droite, 48 Rue Socrate, Casablanca 20370"
-    },
-    {
-      "name": "Clinique Stendhal Dentaire",
-      "phone": "05229-80198",
-      "website": "https://csdentaire.ma",
-      "emails": [
-        "dentaire@cliniquestendhal.com"
-      ],
-      "location": "casablanca"
+      "location": "CLINIQUE DENTAIRE Casablanca, El khattabi, 16 Boulevard Abdelkrim Al Khattabi, Casablanca 20250"
     },
     {
       "name": "MyDentist -dentiste casablanca-implant-hollywood smile-orthodontiste-pédodontiste",
@@ -157,1023 +79,7 @@
         "contact@mydentist.ma",
         "conatct@mydentist.ma"
       ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet d'Orthodontie Maarif Casablanca - Dr Hind et Ali Mchachti -invisalign-Maarif-Zerktouni-Bagues-Gouttières-Orthodontie",
-      "phone": "0520-506166",
-      "website": "https://ortho-casa.ma",
-      "emails": [],
-      "location": "Cabinet d'Orthodontie Maarif Casablanca - Dr Hind et Ali Mchachti -invisalign-Maarif-Zerktouni-Bagues-Gouttières-Orthodontie, en face du Marché, 44 Rue Abou Abdellah Nafii, Casablanca 20330"
-    },
-    {
-      "name": "Cabinet dentaire Dr. REZKI Salwa",
-      "phone": "05222-34231",
-      "website": "",
-      "emails": [],
-      "location": "1er etage, Cabinet dentaire Dr. REZKI Salwa, 22 Rue Attabari, Casablanca 20370"
-    },
-    {
-      "name": "Dr Jalal Eddine Hadir - Dentiste Casablanca Roches Noires",
-      "phone": "0666-753133",
-      "website": "http://drjalaleddine.com",
-      "emails": [],
-      "location": "bureau 10, étage, 01 Bd Moulay Ismaïl, Casablanca 20250"
-    },
-    {
-      "name": "Centre Dentaire Abouakil - Dentiste Casablanca Oulfa",
-      "phone": "0520-845474",
-      "website": "https://drabouakilchaimae.com",
-      "emails": [
-        "chaimaeabouakil@gmail.com"
-      ],
-      "location": "N 6 2 éme etage plateau N 9, 2JI Office, Ave Mohamed Taieb Naciri, Casablanca 20220"
-    },
-    {
-      "name": "Clinique Dentaire Longchamp Casablanca - Esthétique dentaire, Implants, facettes et blanchiment dentaire",
-      "phone": "0661-419595",
-      "website": "https://cliniquedentairelongchamp.ma",
-      "emails": [],
-      "location": "Clinique Dentaire Longchamp Casablanca - Esthétique dentaire, Implants, facettes et blanchiment dentaire, 12 Rue de Hassan"
-    },
-    {
-      "name": "CLINIQUE DENTAIRE Casablanca",
-      "phone": "0520-845474",
-      "website": "http://cdc.ma",
-      "emails": [
-        "contact@cdc.ma"
-      ],
-      "location": "CLINIQUE DENTAIRE Casablanca, El khattabi, 16 Boulevard Abdelkrim Al Khattabi, Casablanca 20250"
-    },
-    {
-      "name": "Ks dental",
-      "phone": "0622-225387",
-      "website": "https://ksdental.ma",
-      "emails": [
-        "ksdental2024@gmail.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Bennani Hassan Siham (Dentiste)",
-      "phone": "05229-87601",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Alya Faris",
-      "phone": "05229-32157",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire nadi",
-      "phone": "05223-56613",
-      "website": "",
-      "emails": [],
-      "location": "appartement 5, Centre dentaire nadi, 19 Bd Chefchaouni, Casablanca 20580"
-    },
-    {
-      "name": "Centre Dentaire Val D'Anfa",
-      "phone": "05223-98060",
-      "website": "https://drnouazzani.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Clinique Dentaire AMRANI",
-      "phone": "05222-00215",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Clinique Dentaire Casa City Smile",
-      "phone": "0661-188018",
-      "website": "https://casacitysmile.com",
-      "emails": [
-        "elhad@casacitysmile.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "URGENCE DENTAIRE CASABLANCA 24H/24 Dentiste Casablanca - Dr. Abdelmalek Chraibi - Chirurgien Orthodontiste",
-      "phone": "0666-753133",
-      "website": "https://calismile-casablanca.com/urgence-dentaires",
-      "emails": [],
-      "location": "Clinique Longchamps Casablanca, 4 Boulevard ghandi, Bd Ghandi, Casablanca 20250"
-    },
-    {
-      "name": "Clinique Dentaire Ghandi Casablanca - Maroc",
-      "phone": "05229-83333",
-      "website": "https://dentairemaroc.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire IBNOUSSINA",
-      "phone": "0666-753133",
-      "website": "https://dentairecasablanca.ma",
-      "emails": [
-        "no@themedraft.com",
-        "replay@themedraft.com",
-        "info@themedraft.net",
-        "no@themedraft.net",
-        "replay@themedraft.net"
-      ],
-      "location": "1er etage, Residence Zahia, 21 Rue Socrate, Casablanca 20100"
-    },
-    {
-      "name": "Esthétique dentaire, Orthodontie, Endodontie, Pédodontie , Implantologie.",
-      "phone": "0689-531119",
-      "website": "https://www.drchraibi.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "𝘿𝙧 𝙀𝙇 𝘼𝙡𝙟 𝙃𝙖𝙨𝙨𝙖𝙣- 𝘿𝙚𝙣𝙩𝙞𝙨𝙩𝙚 -𝘾𝙖𝙨𝙖𝙗𝙡𝙖𝙣𝙘𝙖 -𝘾𝙞𝙡 - 𝙄𝙢𝙥𝙡𝙖𝙣𝙩 𝙙𝙚𝙣𝙩𝙖𝙞𝙧𝙚 -𝙊𝙧𝙩𝙝𝙤𝙙𝙤𝙣𝙩𝙞𝙚 -𝙐𝙧𝙜𝙚𝙣𝙘𝙚 𝙙𝙚𝙣𝙩𝙖𝙞𝙧𝙚 -𝙁𝙖𝙘𝙚𝙩𝙩𝙚𝙨 -𝘽𝙡𝙖𝙣𝙘𝙝𝙞𝙢𝙚𝙣𝙩 𝙙𝙚𝙣𝙩𝙖𝙞𝙧𝙚",
-      "phone": "0708-838687",
-      "website": "https://aljclinic.com",
-      "emails": [
-        "contact@aljclinic.com",
-        "Contact@aljclinic.ma"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "ME DENTAL CLINIC - Dr MOHAMMED EDDAIF",
-      "phone": "0663-095471",
-      "website": "https://medentalclinic.ma",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Clinique Dentaire CIL",
-      "phone": "05229-46574",
-      "website": "http://clinicdentairecil.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "مركز طب الأسنان الدار البيضاء Centre Dentaire Casablanca",
-      "phone": "",
-      "website": "https://dents.ma",
-      "emails": [
-        "contact@dents.ma"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "CLINIQUE DENTAIRE Casablanca",
-      "phone": "0669-901664",
-      "website": "http://cdc.ma",
-      "emails": [
-        "contact@cdc.ma"
-      ],
-      "location": "CLINIQUE DENTAIRE Casablanca, El khattabi, 16 Boulevard Abdelkrim Al Khattabi, Casablanca 20250"
-    },
-    {
-      "name": "Clinique Dentaire Du Maroc",
-      "phone": "05227-87575",
-      "website": "https://cliniquedentairedumaroc.com",
-      "emails": [
-        "cliniquedentairedumaroc@gmail.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr. BENAZZOUZ Amal (Clinique dentaire Vitalya)",
-      "phone": "05229-15811",
-      "website": "",
-      "emails": [],
-      "location": "RDC Appt. 3, Cité des Jeunes, 1 Rue De Jabal Saghrou, Casablanca 20220"
-    },
-    {
-      "name": "CABINET DENTAIRE RAMDANI",
-      "phone": "0520-006130",
-      "website": "",
-      "emails": [],
-      "location": "g7, 2éme étage, 112 Rue Abou Al Wakt Khalaf, Casablanca 20000"
-    },
-    {
-      "name": "Centre Dentaire El Farabi",
-      "phone": "",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire Moulay Youssef - Docteur Aida Bousselham - Orthodontiste Casablanca Bourgogne - dentiste casablanca",
-      "phone": "0520-666671",
-      "website": "https://dentairecasablanca.ma",
-      "emails": [
-        "no@themedraft.com",
-        "replay@themedraft.com",
-        "info@themedraft.net",
-        "no@themedraft.net",
-        "replay@themedraft.net"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Ahmed BOUTAKKA",
-      "phone": "0520-424040",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire Badr, Dr Belhouji Hanane",
-      "phone": "05222-70667",
-      "website": "https://hananebelhouji.mondentiste.ma",
-      "emails": [
-        "Drbelhouji@gmail.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "𝘿𝙧 𝙎𝙖𝙡𝙜𝙝𝙞 𝙈𝙤𝙝𝙖𝙢𝙢𝙚𝙙-𝘿𝙚𝙣𝙩𝙞𝙨𝙩𝙚 -𝘾𝙖𝙨𝙖𝙗𝙡𝙖𝙣𝙘𝙖 -𝘽𝙤𝙪𝙧𝙜𝙤𝙜𝙣𝙚 -𝙀𝙣𝙙𝙤𝙙𝙤𝙣𝙩𝙞𝙨𝙩𝙚 -𝙁𝙖𝙘𝙚𝙩𝙩𝙚𝙨 -𝘽𝙡𝙖𝙣𝙘𝙝𝙞𝙢𝙚𝙣𝙩- 𝙐𝙧𝙜𝙚𝙣𝙘𝙚 𝙙𝙚𝙣𝙩𝙖𝙞𝙧𝙚",
-      "phone": "",
-      "website": "https://dentistebourgone-drsalghi.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "𝐂𝐚𝐛𝐢𝐧𝐞𝐭 𝐃𝐞𝐧𝐭𝐚𝐢𝐫𝐞 -𝐃𝐫 𝐋𝐚𝐢𝐥𝐚 𝐁𝐞𝐫𝐫𝐚𝐝𝐚-𝐁𝐝 𝐓𝐚𝐧𝐭𝐚𝐧 -𝐁𝐨𝐮𝐫𝐠𝐨𝐠𝐧𝐞-𝐂𝐚𝐬𝐚𝐛𝐥𝐚𝐧𝐜𝐚-𝐎𝐫𝐭𝐡𝐨𝐝𝐨𝐧𝐭𝐢𝐞- 𝐈𝐦𝐩𝐥𝐚𝐧𝐭𝐨𝐥𝐨𝐠𝐢𝐞 - 𝐞𝐧𝐝𝐨𝐝𝐨𝐧𝐭𝐢𝐞 -𝐔𝐫𝐠𝐞𝐧𝐜𝐞 𝐝𝐞𝐧𝐭𝐚𝐢𝐫𝐞",
-      "phone": "05229-40404",
-      "website": "https://dr-lailaberrada.ma",
-      "emails": [
-        "info@dr-lailaberrada.ma"
-      ],
-      "location": "180 Angle Bd Sijlmassi Et Bd. Tantan-Bourgone- appt 2, Au dessus de, Little Mama et a proximité de Anfa - Racine, La corniche - Ziraoui"
-    },
-    {
-      "name": "Centre dentaire CHAIB",
-      "phone": "0520-552627",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire AL HAMD Dr. Lina ZIZI",
-      "phone": "05222-00103",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Docteur Chraibi Mohamed Ali",
-      "phone": "05224-91109",
-      "website": "https://www.drchraibiali.ma",
-      "emails": [
-        "contact@drchraibiali.ma"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire Dr. Benjelloun Nissrine",
-      "phone": "05224-91067",
-      "website": "",
-      "emails": [],
-      "location": "Cabinet dentaire Dr. Benjelloun Nissrine, al ayoubi, 35 Rue Moussa Al Kadim, Casablanca 20250"
-    },
-    {
-      "name": "Dentiste - Dr AGUNAOU Houda - Chirurgien Dentiste Casablanca",
-      "phone": "0664-523241",
-      "website": "",
-      "emails": [],
-      "location": "A , 2ème Etage, Résidence Lisstikrar, 408 Bd Mohamed Zerktouni"
-    },
-    {
-      "name": "Centre Dentaire ML . DR Moukel Lina",
-      "phone": "05229-43497",
-      "website": "",
-      "emails": [],
-      "location": "1er étage, Centre Dentaire ML . DR Moukel Lina, 18 Boulevard Tan Tan, Casablanca 20250"
-    },
-    {
-      "name": "Cabinet Dentaire Docteur Mohamed Kadi- Bourgogne-Casablanca",
-      "phone": "0520-506168",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire badr",
-      "phone": "05222-70667",
-      "website": "https://hananebelhouji.mondentiste.ma",
-      "emails": [
-        "Drbelhouji@gmail.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Justsmile dental clinic",
-      "phone": "05228-96456",
-      "website": "http://justsmile.ma",
-      "emails": [],
-      "location": "Justsmile dental clinic, résidence Odeon, 6 Bd Aïn Taoujtate, Casablanca 20000"
-    },
-    {
-      "name": "Centre dentaire AAZAZI",
-      "phone": "05222-95579",
-      "website": "",
-      "emails": [],
-      "location": "Etage 1 Numéro 1, et Rue Beni Amir, Résidence Haidar Jassim 1, Angle Rue Goulmima"
-    },
-    {
-      "name": "Laraki Youssef (Dentiste)",
-      "phone": "05222-00014",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "BE DENTAL CENTER",
-      "phone": "0520-787762",
-      "website": "https://www.bedentalcenter.com",
-      "emails": [],
-      "location": "Résidence Zeroual, Rue Ibnou Jahir, Av. TanTan, Casablanca 20050"
-    },
-    {
-      "name": "Gauthier Smile Care",
-      "phone": "0694-437195",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire Khattabi",
-      "phone": "05222-69311",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "El Khattabi Hassan (Dentiste)",
-      "phone": "05222-22867",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire Galilée Dr CHERIF.Z",
-      "phone": "0673-030104",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Docteur Mouna Nakkouch - Chirurgien Dentiste - Urgences - Gauthier Casablanca",
-      "phone": "05224-87721",
-      "website": "",
-      "emails": [],
-      "location": "Cabinet Dentaire Docteur Mouna Nakkouch - Chirurgien Dentiste - Urgences - Gauthier Casablanca, Résidence Chateaubriand, 11 Rue Hafid Ibrahim, Casablanca 20000"
-    },
-    {
-      "name": "Centre Dentaire Rais By Dr Nisrine Rais_ Casablanca Maarif_ chirurgien dentiste Endodontie_ Orthodontie_ Invisalign_ Bagues dentaires_ Blanchiment Dentaire_ implantologie_ Facettes dentaires_ Hollywood smile Casablanca_ soin Dentaire",
-      "phone": "0632-745501",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Gauthier Ortho Dental Clinic / Dr Sliman Mohamed",
-      "phone": "0661-322257",
-      "website": "https://gauthierorthodentalclinic.ma",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire CHIGUER | مركز طب الفم و الأسنان شيگر | CHIGUER Dental Center",
-      "phone": "0520-069695",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Pinto Karen",
-      "phone": "05222-02612",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Omar BENCHEKROUN",
-      "phone": "05222-93563",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr. Sara BARKAOUI",
-      "phone": "05224-84969",
-      "website": "",
-      "emails": [],
-      "location": "1er Etage App 3, ex Chateaubriand, 28 Rue Hafid Ibrahim, Casablanca 20060"
-    },
-    {
-      "name": "Cabinet Dentaire Dr Ouhaddou Othmane: Chirurgien Implantologiste, Dentisterie Esthétique, Blanchiment, Facettes & Invisalign",
-      "phone": "05222-16266",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "MonDentiste.ma, plateforme de mise en relation entre dentistes et patients",
-      "phone": "0520-506165",
-      "website": "https://www.mondentiste.ma",
-      "emails": [
-        "contact@mondentiste.ma"
-      ],
-      "location": "MonDentiste.ma, plateforme de mise en relation entre dentistes et patients, 203 Bd Mohammed Zerktouni, Casablanca 21000"
-    },
-    {
-      "name": "Cabinet Dr LEKNIZI Sofia",
-      "phone": "05222-61606",
-      "website": "",
-      "emails": [],
-      "location": "Quartier Gauthier. N2 Rue Abou Faid Al Masri, 1er étage à gauche, N B1, Casablanca 20250"
-    },
-    {
-      "name": "Espace Dentaire Gauthier Sarl (Madih Naima)",
-      "phone": "05224-73368",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Palmiers",
-      "phone": "",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Maryam chikhaoui Dental Center",
-      "phone": "0520-191238",
-      "website": "",
-      "emails": [],
-      "location": "1, Rue Racine, Immeuble Racine, Rez-de-chaussée"
-    },
-    {
-      "name": "Cabinet d'Implant et d'Esthétique Dentaire - Dr. Mohamed Benchekroun",
-      "phone": "05222-59147",
-      "website": "https://dentistemaroc.com",
-      "emails": [],
-      "location": "3ème étage, Résidence Sorour, 93 Bd Al Massira Al Khadra, Casablanca 20100"
-    },
-    {
-      "name": "Dr Benkassem Temsamani Dina",
-      "phone": "05223-99360",
-      "website": "",
-      "emails": [],
-      "location": "Rue Ahmed Charci, Residence du Palais I, Racine, Casablanca 20020"
-    },
-    {
-      "name": "Dr Chafai Benyahia Malika - Chirurgien Dentiste",
-      "phone": "05223-67913",
-      "website": "",
-      "emails": [],
-      "location": "ONOMO à 2mn à la marche, 31 Rue Jalal Eddine Sayouti Place des iris, RDC Racine, Casablanca PARKING"
-    },
-    {
-      "name": "Centre Dentaire Racine",
-      "phone": "05229-51117",
-      "website": "",
-      "emails": [],
-      "location": "33, Bd Abdellatif Ben Kaddour, R"
-    },
-    {
-      "name": "Centre Dentaire Ville Verte - Les Iris",
-      "phone": "0663-446800",
-      "website": "https://dentiste-bouskoura-ville-verte.ma",
-      "emails": [],
-      "location": "Centre Dentaire Ville Verte - Les Iris, Ville Verte, Res One Hill Iris-E, Imm 15 N"
-    },
-    {
-      "name": "Centre Dentaire Sidi Maarouf",
-      "phone": "05229-75353",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dentiste Sidi Maarouf Casablanca - Dr. Sara Choukarah",
-      "phone": "0664-968448",
-      "website": "https://sara-choukarah-chirurgien-dentiste.ma",
-      "emails": [],
-      "location": "Lot Al Moustakbal, Appt 3 GH42, Imm 375, Casablanca 20270"
-    },
-    {
-      "name": "Clinique Dentaire La Colline - Dentiste Casablanca | Implant Dentaire, Facette , Blanchiment | Orthodontiste Casablanca",
-      "phone": "05227-84444",
-      "website": "https://cliniquelacolline.com",
-      "emails": [
-        "info@cdlc.ma"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire Dr Fatine Benhayoun",
-      "phone": "05227-80138",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Touiti",
-      "phone": "05222-31887",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire Afifi Ibtissam",
-      "phone": "0664-696994",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire Casanearshore",
-      "phone": "0708-303302",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "CABINET DENTAIRE Dr.Meriem El BAGHDADI",
-      "phone": "05225-80863",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Leila Assis",
-      "phone": "05225-81656",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Sidi maarouf :Docteur LAHBY Imane عيادة طب الاسنان : د.إيمان لهبي",
-      "phone": "05227-84302",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "𝐂𝐞𝐧𝐭𝐫𝐞 𝐝𝐞𝐧𝐭𝐚𝐢𝐫𝐞 𝐒𝐦𝐢𝐥𝐞 𝐄𝐱𝐩𝐞𝐫𝐭𝐬 -𝐃𝐫 𝐁𝐨𝐮𝐜𝐡𝐚𝐦𝐚 𝐀𝐝𝐢𝐥- 𝐝𝐞𝐧𝐭𝐢𝐬𝐭𝐞-𝐂𝐚𝐬𝐚𝐛𝐥𝐚𝐧𝐜𝐚 - 𝐈𝐦𝐩𝐥𝐚𝐧𝐭 𝐝𝐞𝐧𝐭𝐚𝐢𝐫𝐞 -𝐏𝐫𝐨𝐭𝐡è𝐬𝐞 - 𝐅𝐚𝐜𝐞𝐭𝐭𝐞 -𝐈𝐦𝐩𝐥𝐚𝐧𝐭𝐨𝐥𝐨𝐠𝐢𝐞",
-      "phone": "0520-257322",
-      "website": "https://www.smilexpertsclinic.com",
-      "emails": [
-        "contact@smilexperts.info"
-      ],
-      "location": "Avenue Abou Bakr el Kadiri ,résidence Naim, immeuble 5,1e étage appartement 3"
-    },
-    {
-      "name": "Cabinet Dentaire Docteur Sanaa Benjelloun - Sidi Maarouf Casablanca",
-      "phone": "0621-326767",
-      "website": "https://ledentiste.ma",
-      "emails": [],
-      "location": "N 2, Cabinet Dentaire Docteur Sanaa Benjelloun - Sidi Maarouf Casablanca, Avenue Aboubakr Elkadiri - Residence Bachkou - Imm 65 - RDC, Casablanca 20100"
-    },
-    {
-      "name": "CENTRE DENTAIRE DR WISSAL SNOUSSI",
-      "phone": "0634-752676",
-      "website": "https://snoussidentalcente.wixsite.com/acceuil",
-      "emails": [
-        "centredentairesnoussi@gmail.com"
-      ],
-      "location": "IMM A2 1er étage appt 12, Res mawlid, Rue 40, Casablanca 20190"
-    },
-    {
-      "name": "Cabinet dentaire Dr DAHIRI",
-      "phone": "05221-03625",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire PANORAMA",
-      "phone": "0520-126586",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "DENTISTE ZINEB SLAOUI sidi maarouf",
-      "phone": "05228-74036",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire Almoustakbal",
-      "phone": "0666-753133",
-      "website": "",
-      "emails": [],
-      "location": "bureau 10, étage, 01 Boulevard Moulay Ismaïl, Casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Dr. DRIBA Oumayma",
-      "phone": "0779-731200",
-      "website": "",
-      "emails": [],
-      "location": "N 81, Cabinet Dentaire Dr. DRIBA Oumayma, Lot el othmania, Casablanca 20000"
-    },
-    {
-      "name": "Oasis Dental Clinic (Pr Laalou Younes)",
-      "phone": "05229-85134",
-      "website": "https://oasisdentalclinic.ma",
-      "emails": [
-        "medizco@gmail.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Dr Ghita Benkiran",
-      "phone": "05222-54266",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire FILALI - DR Btissam Filali Anssari",
-      "phone": "05222-52503",
-      "website": "",
-      "emails": [],
-      "location": "Cabinet dentaire FILALI - DR Btissam Filali Anssari, Résidence au oasis rue rouissi bloc a étage 2 appt 9, angle R. des Courlis, Casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Au'Smile",
-      "phone": "05227-36749",
-      "website": "",
-      "emails": [],
-      "location": "Softcity Oasis, Angle rue abou dahbi, Rte de l'Oasis, Casablanca"
-    },
-    {
-      "name": "Cabinet du Docteur A. Jalal Temsamani M. de Dentisterie Esthétique et D’Implantologie",
-      "phone": "05222-52537",
-      "website": "",
-      "emails": [],
-      "location": "Rez-de-chaussée, 2, 5 Oasis Rue Mohamed Taha, Casablanca 20410"
-    },
-    {
-      "name": "Art’s Clinic Dr Tajmouati",
-      "phone": "05222-58484",
-      "website": "https://artsclinic.com",
-      "emails": [
-        "m.tajmouati@artsclinic.com",
-        "a.tajmouati@artsclinic.com",
-        "h.louizi@artsclinic.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Clinique Dentaire 32",
-      "phone": "05222-54747",
-      "website": "",
-      "emails": [],
-      "location": "Clinique Dentaire 32, 14, Rue des Papillons, Casablanca"
-    },
-    {
-      "name": "Art’s Clinic",
-      "phone": "05222-58484",
-      "website": "https://artsclinic.com",
-      "emails": [
-        "m.tajmouati@artsclinic.com",
-        "a.tajmouati@artsclinic.com",
-        "h.louizi@artsclinic.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Oralya Dental Clinic | Cabinet dentaire Casablanca",
-      "phone": "0663-446800",
-      "website": "http://cdc.ma",
-      "emails": [
-        "contact@cdc.ma"
-      ],
-      "location": "N 6 2 éme etage plateau N 9, 2JI Office, Avenue Mohamed Taieb Naciri, Casablanca 20220"
-    },
-    {
-      "name": "Dr Alboug Malika Cabinet Dentaire",
-      "phone": "05229-03787",
-      "website": "",
-      "emails": [],
-      "location": "hay Hassani, lotiss. Saad Elkheir n 49,1 er etage, Casablanca 20230"
-    },
-    {
-      "name": "Centre dentaire Dr Ellaky Fatima Zahra",
-      "phone": "05229-08858",
-      "website": "",
-      "emails": [],
-      "location": "Chez Centre Dentaire Dr. ellaky Fatima Zahra, nous offrons des soins dentaires complets pour un sourire sain et éclatant. Orthodontie, implantologie, blanchiment des dents et plus encore"
-    },
-    {
-      "name": "Cabinet dentaire Dr Nagid Hind",
-      "phone": "0520-522001",
-      "website": "",
-      "emails": [],
-      "location": "1er étage, Res le dôme de Marjane, Boulevard Oued Laou, Missimi"
-    },
-    {
-      "name": "CENTRE DENTAIRE DR ELHARCHI AMINE",
-      "phone": "05228-99702",
-      "website": "",
-      "emails": [],
-      "location": "CENTRE DENTAIRE DR ELHARCHI AMINE, KASBA ENTREE D N 9 2 EME ETAGE, Bd Ibnou Sina, Casablanca 22000"
-    },
-    {
-      "name": "Cabinet Dentaire Dr.Koukab Insaf",
-      "phone": "",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Docteur Omar Slaoui - Dentiste Centre Ville Casablanca",
-      "phone": "0666-753133",
-      "website": "https://casacitysmile.com",
-      "emails": [
-        "elhad@casacitysmile.com"
-      ],
-      "location": "2 , appartement B4, Résidence hajjaj, Casablanca 24010"
-    },
-    {
-      "name": "Centre dentaire SKELLIA Oulfa - Dr El Machouri Houda",
-      "phone": "0703-274138",
-      "website": "",
-      "emails": [],
-      "location": "Hay Hassani dior nasrani, Rue 15, lotissemen sikilia, 20200"
-    },
-    {
-      "name": "Cabinet Dentaire et d'Orthodontie DR Yakoubi",
-      "phone": "05229-35055",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Imane Sif ( Sky Dental Center )",
-      "phone": "0520-845474",
-      "website": "https://casablancare.ma",
-      "emails": [],
-      "location": "Gh9.1 appt 2, Jnane el Alia, 113 Rte Moulay Thami, Casablanca 20230"
-    },
-    {
-      "name": "Belmokadem Elayoubi Hind (Dentiste)",
-      "phone": "05229-30103",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "El Rakka Waïl (Dentiste)",
-      "phone": "05229-09502",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire Oulfa Dr Zerhouni Ilham ( chirurgien dentiste spécialisé)",
-      "phone": "05229-09003",
-      "website": "https://drzerhouni.ma",
-      "emails": [],
-      "location": "Rond point George.141 ROUTE MOULAY THAMI , Boulevard HH24, ETAG, Casablanca 20240"
-    },
-    {
-      "name": "Bennani Lamia (Dentiste)",
-      "phone": "05229-33776",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire du Dr hassani idrissi driss",
-      "phone": "05224-87569",
-      "website": "",
-      "emails": [],
-      "location": "21, place Louis pasteur, résidence pasteur, 4eme étage"
-    },
-    {
-      "name": "Cabinet dentaire Dr Elboustani Naoual - Dentiste à Oulfa",
-      "phone": "05229-01932",
-      "website": "",
-      "emails": [],
-      "location": "Cabinet dentaire Dr Elboustani Naoual - Dentiste à Oulfa, 383 Bd Oued Sebou, Casablanca, Morocco"
-    },
-    {
-      "name": "Chirurgien Dentiste L'MRANI TALBI Hanane",
-      "phone": "05229-11261",
-      "website": "",
-      "emails": [],
-      "location": "1er étage Appt, OP Baraka, GH 12, Bd Ibnou Sina"
-    },
-    {
-      "name": "Centre dentaire 35",
-      "phone": "05229-02910",
-      "website": "https://dentaire35.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire BELVÉDÈRE (Dentiste BOUKHRIS Sara)",
-      "phone": "0633-918391",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire BELVEDERE Dr ALAMI Hajar",
-      "phone": "05224-00246",
-      "website": "",
-      "emails": [],
-      "location": "1er étage 102, Belvedere, en face de la gare casa voyageur Res zin almahaba B, 20250 Boulevard Mohamed V"
-    },
-    {
-      "name": "Centre Dentaire Les IRIS Belvédère Roches noirs blanchiment Implantologie Invisalign-Orthodontie-Hollywood smile",
-      "phone": "0771-826328",
-      "website": "https://www.mondentiste.ma/44/centre-dentaire-les-iris/maroc",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Chirurgien Dentiste Belvédère Dr Lakhdar Amina",
-      "phone": "05222-46653",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Benhaddou Amine - Chirurgien Dentiste",
-      "phone": "0644-106479",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Panoramique Dentaire Belvédère Casablanca ( radio ATM, et radio Sinus)",
-      "phone": "0633-918391",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dr. Birouaine Miloud",
-      "phone": "05228-21229",
-      "website": "https://birouainedentaire.ma",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Badre BERRADA",
-      "phone": "05222-80900",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire MOUJIB EL IDRISSI Hamza",
-      "phone": "0697-271462",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaires Rida",
-      "phone": "0666-753133",
-      "website": "",
-      "emails": [],
-      "location": "bureau 10, étage, 01 Boulevard Moulay Ismaïl, Casablanca"
-    },
-    {
-      "name": "Dr El miloudi Amal ( chirurgien dentiste - soins dentaires , blanchiment des dents,implantologie. ) - Casablanca -",
-      "phone": "05228-29772",
-      "website": "https://ledentiste.ma/cabinet-dentaire-au-maroc/el-miloudi",
-      "emails": [],
-      "location": "2ème étage, 694, BD EL FIDA - AMAL I, Casablanca 20100"
-    },
-    {
-      "name": "Bouhlal Adil (Dentiste)",
-      "phone": "05228-36373",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire Haiba Hanane",
-      "phone": "05228-51520",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr edderai fatima ezzahra",
-      "phone": "05222-82801",
-      "website": "",
-      "emails": [],
-      "location": "Dr edderai fatima ezzahra, 655 boulevard el fida, derb kabir, Casablanca"
-    },
-    {
-      "name": "Centre Dentaire Panoramique",
-      "phone": "0724-535274",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire Al Fida Dr MIFTAH Anas",
-      "phone": "05228-02125",
-      "website": "",
-      "emails": [],
-      "location": "n, Al fida center étage 3, 10 Bd Mohammed VI, Casablanca 20553"
-    },
-    {
-      "name": "cabinet dentaire Sidi othman ( dr Boukid aymen )",
-      "phone": "05225-52569",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Chraibi Dental Clinic - Clinique multi spécialité Casa",
-      "phone": "0689-531119",
-      "website": "https://www.drchraibi.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Docteur Ouenza Youssef",
-      "phone": "05228-00912",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dentiste Benjelloun Mohamed, 184 Avenue 2 mars en face de boulevard fida cabinet dentaire churirgie et esthétique",
-      "phone": "05228-33978",
-      "website": "",
-      "emails": [],
-      "location": "1er étage, en face, Résidence la PERLA, 184 Avenue 2 Mars"
-    },
-    {
-      "name": "Dr. Barakat Amine (Dentiste)",
-      "phone": "05223-83580",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr. ABIDINE Zouhair Dental Clinic 2 Mars Casablanca",
-      "phone": "05228-05806",
-      "website": "https://dentalclinic2mars.com",
-      "emails": [
-        "contact@dentalclinic2mars.com",
-        "info@dentalclinic2mars.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Dr SAHBANI Aziz",
-      "phone": "05228-29107",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire Dr Daoudi Yassamine",
-      "phone": "05222-94968",
-      "website": "https://dentiste-yassaminedaoudi.com",
-      "emails": [],
-      "location": "2ème étage, Hay al Masjid, 429 Av. 2 Mars, Casablanca"
-    },
-    {
-      "name": "Centre dentaire El Masjid",
-      "phone": "05228-04849",
-      "website": "",
-      "emails": [],
-      "location": "n 293, Centre dentaire El Masjid, Bd Abou chouaib Doukkali Hay El Masjid, Casablanca 20550"
-    },
-    {
-      "name": "Dr Hicham Benchoukroun",
-      "phone": "05222-56760",
-      "website": "https://dentalclinic.ma",
-      "emails": [
-        "dentalclinic394@gmail.com"
-      ],
-      "location": "4e étage, près du centre Benomar, Espace bureaux Clarence, 13 Rue Al Kassar"
-    },
-    {
-      "name": "Cabinet dentaire Dr Zryouil bd Abdelmoumen Casablanca",
-      "phone": "05222-29174",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
       "name": "Centre dentaire Roudani Smile - Dr. Rim Abdessadak",
@@ -1186,11 +92,31 @@
       "location": "4eme étage n 39, résidence B, 125 Bd Brahim Roudani, Casablanca 20350"
     },
     {
-      "name": "Centre Dentaire Dr. Doha Al afifi - Val Fleuri Casablanca",
-      "phone": "0520-640368",
-      "website": "",
-      "emails": [],
-      "location": "étage1, appt 3, résidence Moulay Idriss, 139 Av. Stendhal"
+      "name": "Centre dentaire Dr. Ibtissem Belaziz - Maarif Casablanca",
+      "phone": "0660-353020",
+      "website": "https://centredentairebelaziz.com",
+      "emails": [
+        "Dribtissembelaziz@gmail.com"
+      ],
+      "location": "etg 2, espace Massena, 59 Rue Aziz BELLAL, Casablanca 20330"
+    },
+    {
+      "name": "Cabinet Dentaire: DR. Houda LYOUSFI WAGAS",
+      "phone": "05222-57644",
+      "website": "https://cabinetdentairelyousfi.ma",
+      "emails": [
+        "contact@cdl.ma"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Abdelmoumen",
+      "phone": "05228-63700",
+      "website": "https://cda.ma",
+      "emails": [
+        "Contact@cda.ma"
+      ],
+      "location": "maroc"
     },
     {
       "name": "Dr Mirali Ilham - Dentiste Casablanca Abdelmoumen I Implant dentaire I Facette dentaire et Soins dentaires",
@@ -1202,45 +128,11 @@
       "location": "Appt 54-A 5eme étage, résidence la Koutoubia, 76 Bd Abdelmoumen, Casablanca 20340"
     },
     {
-      "name": "Centre Dentaire - Dr Berrada Fatima-Zahra - Chirurgien dentiste",
-      "phone": "05229-58070",
-      "website": "",
+      "name": "Sbaï Dentaire (Centre Dentaire à Casablanca)",
+      "phone": "05222-36921",
+      "website": "https://sbaidentaire.com",
       "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Abbassi Kamal - Orthodontiste Casablanca I Implant dentaire I Facette dentaire I Soins dentaires I Invisalign Casablanca",
-      "phone": "0620-727300",
-      "website": "https://www.drabbassikamal.ma",
-      "emails": [
-        "contact@drabbassikamal.ma"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "CLINIQUE DENTAIRE Casablanca",
-      "phone": "0666-753133",
-      "website": "http://cdc.ma",
-      "emails": [
-        "contact@cdc.ma"
-      ],
-      "location": "CLINIQUE DENTAIRE Casablanca, El khattabi, 16 Boulevard Abdelkrim Al Khattabi, Casablanca 20250"
-    },
-    {
-      "name": "Art Dental Clinic – Dr. Alia Bencheikh",
-      "phone": "05222-53610",
-      "website": "http://draliabencheikh.ma",
-      "emails": [
-        "dr.aliabencheikh@gmail.com"
-      ],
-      "location": "4ème étage, Résidence Auteuil, porte 22, 158 Bd d'Anfa"
-    },
-    {
-      "name": "Cabinet dentaire Dr GOUMRI MOHAMMED",
-      "phone": "",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
       "name": "Centre Dentaire Sarfi Casablanca",
@@ -1252,235 +144,1802 @@
       "location": "2eme étage , app4, 15 Bd Aïn Taoujtate, Casablanca 20040"
     },
     {
+      "name": "Centre Dentaire Espace Roudani",
+      "phone": "05222-32363",
+      "website": "https://www.e-rdv.ma/rendez-vous-avec/centre-dentaire-espace-roudani/3308433/148384.html",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "DR SAIH YASSINE",
+      "phone": "0660-348787",
+      "website": "",
+      "emails": [],
+      "location": "1er étage appt N 2, DR SAIH YASSINE, 95 Boulevard Bir Anzarane, Casablanca 20520"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Merieme Alafifi - Maârif Casablanca",
+      "phone": "05229-83091",
+      "website": "https://centredentaire-afifi.com",
+      "emails": [
+        "contact@centredentaire-afifi.com"
+      ],
+      "location": "30, Rue Du Marché, Maarif, 3 Résidence BenSaid"
+    },
+    {
+      "name": "Chraibi Dental Clinic - Clinique multi spécialité Casa",
+      "phone": "0689-531119",
+      "website": "https://www.drchraibi.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Valfleuri By Dr Khatouri Reda",
+      "phone": "05222-36666",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr Zryouil bd Abdelmoumen Casablanca",
+      "phone": "05222-29174",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique Dentaire Rabat Bô Sourire agdal - Orthodontie - invisalign - implants",
+      "phone": "05377-74646",
+      "website": "https://cliniquedentairerabatbosourire.ma",
+      "emails": [
+        "bosourire.agdal@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "So Smile cabinet dentaire (dr rhourri omar/dr fathi safae)- implantologue et orthodontiste a rabat",
+      "phone": "05372-60607",
+      "website": "https://smilerabat.com",
+      "emails": [
+        "nn0864772@gmail.com",
+        "sosmile@gmail.com",
+        "contact@sosmile.com",
+        "contact@smilerabat.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire - Dr Adil Guelzim",
+      "phone": "05377-74646",
+      "website": "https://orthodontiste-rabat.com",
+      "emails": [
+        "contact@centre-dentaire-agdal.com",
+        "cda.dentiste.rabat@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "𝗗r : TAHRI ABDELHAMID 𝗖𝗵𝗶𝗿𝘂𝗿𝗴𝗶𝗲𝗻 𝗗𝗲𝗻𝘁𝗶𝘀𝘁𝗲 - URGENCE DENTAIRE RABAT 24H/24",
+      "phone": "0696-036981",
+      "website": "https://www.drtahriabdelhamid.ma",
+      "emails": [],
+      "location": "1 er étage , Appartement 2, 54 Av. Oqba Ibn Naafi, Rabat 10000"
+    },
+    {
+      "name": "Cabinet Dentaire BELGHITI Yousra",
+      "phone": "05376-75608",
+      "website": "",
+      "emails": [],
+      "location": "appartement 1, Cabinet Dentaire BELGHITI Yousra, 59 Av. Ibn Sina, Rabat 10080"
+    },
+    {
+      "name": "Cabinet Dentaire Spécialisé: Dr Mohammed Oujidi",
+      "phone": "05376-86814",
+      "website": "",
+      "emails": [],
+      "location": "appt 3 , Etage 1, 32,avenue Omar Ibn Khattab"
+    },
+    {
+      "name": "Centre Dentaire We Smile",
+      "phone": "05377-37377",
+      "website": "",
+      "emails": [],
+      "location": "1er etage appt 6, centre dentaire we smile, route essaouira dr iziki operation amal2 imm b, Marrakech 44000"
+    },
+    {
+      "name": "Dr Aya Malki - Dentiste Rabat Agdal",
+      "phone": "0607-499591",
+      "website": "http://drayamalki.com",
+      "emails": [
+        "contact@drayamalki.com",
+        "Contact@drayamalki.com"
+      ],
+      "location": "étage 1, Appartement 3, 13 Rue Al Achaari, Rabat 10080"
+    },
+    {
+      "name": "Dr KHAMLICH - Dentiste Pluridisciplinaire - Clinique dentaire Arribat - Rabat Agdal",
+      "phone": "0611-381111",
+      "website": "https://drkhamlich.com",
+      "emails": [
+        "khamlich.khadouj@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Al Balssame - Dr Balssame Kabbaj",
+      "phone": "05376-82837",
+      "website": "https://www.dabadoc.com/ma/dentiste/rabat/balssame-kabbaj",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "COI - Dr Line Sawas Nabhan - Cabinet dentaire Agdal",
+      "phone": "0628-623270",
+      "website": "https://drlinesawas.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr Sallahi Amine",
+      "phone": "05376-75505",
+      "website": "",
+      "emails": [],
+      "location": "Appt.1, Cabinet Dentaire Dr Sallahi Amine, 8 bis Rue Oum Errabia, Rabat"
+    },
+    {
+      "name": "Centre Dentaire Agdal Smile Rabat - Professeur Berrada Fathi Idriss",
+      "phone": "05376-83939",
+      "website": "https://www.centredentairesmile.ma",
+      "emails": [
+        "contact@centredentairesmile.ma"
+      ],
+      "location": "3eme étage, appartement, 59 Av. Fal Ould Oumeir, Rabat"
+    },
+    {
+      "name": "Centre dentaire Dr HELLI Maria (Pedo Dentiste)",
+      "phone": "05376-81057",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire ST' Art Dental Care Dr . Sara Tazi - Dentiste et Orthodontiste - Rabat.",
+      "phone": "0530-201684",
+      "website": "https://drsaratazi.wixsite.com/acceuil",
+      "emails": [
+        "drtazisara@gmail.com"
+      ],
+      "location": "1er étage Appt 2, Cabinet dentaire ST' Art Dental Care Dr . Sara Tazi - Dentiste et Orthodontiste - Rabat., 35 Avenue Al Amir, Avenue Fal Ould Oumeir"
+    },
+    {
+      "name": "COI - Dr Muadh Bouhajra - Cabinet dentaire Agdal",
+      "phone": "05377-77944",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet d'Orthodontie - Dr Benchekroun Abiyya (chirurgien dentiste et orthodontiste) RABAT-AGDAL",
+      "phone": "05376-72332",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "CENTRE DENTAIRE CLINADENT ( Dr Benlaatmania Mohamed Reda)",
+      "phone": "05377-71717",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Docteur Mouna RAHMOUNE",
+      "phone": "05376-83450",
+      "website": "https://www.cabinetdentairemounarahmoune.ma",
+      "emails": [
+        "contact@cabinetdentairemounarahmoune.ma",
+        "contact@www.cabinetdentairemounarahmoune.ma"
+      ],
+      "location": "53 appartement, Avenue de France immeuble, 12 Rue Oued Moulouya, Rabat 10000"
+    },
+    {
+      "name": "Agdal Dental Clinic",
+      "phone": "05377-31383",
+      "website": "https://orthodontiste-rabat.com",
+      "emails": [
+        "contact@centre-dentaire-agdal.com",
+        "cda.dentiste.rabat@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Lahlali Nawal (Chirurgien dentiste/Orthodontie)",
+      "phone": "05393-83460",
+      "website": "https://dentistetanger.ma",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr Soukaina El Matoui chirurgien dentiste tanger",
+      "phone": "05393-82460",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Tanger Ville | Dr. Adil ABBASSAT",
+      "phone": "05394-21212",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Le Grand Boulevard Tanger / Dr.Baaddi",
+      "phone": "0624-050302",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr. Lotfi Lazrak",
+      "phone": "05393-70707",
+      "website": "http://dentiste-lazrak.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Tasnim - Dentiste Tanger",
+      "phone": "05393-20203",
+      "website": "https://centredentairetasnim.ma",
+      "emails": [],
+      "location": "2eme Etage , N25, Tasnim Plaza, Angle Avenue Abdellah Guennoun et"
+    },
+    {
+      "name": "Dr. Haitham Boutaib - Dentiste Tanger - طبيب أسنان طنجة - Tanger Bay dental center",
+      "phone": "0660-022263",
+      "website": "https://www.tangerbay.ma",
+      "emails": [],
+      "location": "3, Etage 5, App 197, Bork Khalij Tanger"
+    },
+    {
+      "name": "Centre Dentaire Amrani tanger - Dr Hanchi Amrani Rajae",
+      "phone": "0664-649658",
+      "website": "",
+      "emails": [],
+      "location": "1ere étage numéro 1, Arabia saoudia-lot laayoun, lot 25 Av. Al Iqbal, Tanger"
+    },
+    {
+      "name": "Cabinet dentaire Dr FASSI FIHRI Saad",
+      "phone": "0660-000856",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, Cabinet dentaire Dr FASSI FIHRI Saad, Clinique Dentaire Alfihri Bureaux Shiraz, 31 Rue Mohamed Abdou"
+    },
+    {
+      "name": "Centre Dentaire Aura",
+      "phone": "0620-655455",
+      "website": "https://auradental.org",
+      "emails": [
+        "yassaqboub@gmail.com",
+        "dental@aura.com"
+      ],
+      "location": "4ème ETAGE, En face de Carrefour, résidence HAMDOULLAH, Av. Moulay Youssef"
+    },
+    {
+      "name": "Centre dentaire Dentavida - Dr. Maftah Hajar - Dentiste Tanger",
+      "phone": "0531-155845",
+      "website": "https://www.centre-dentaire-tanger.ma",
+      "emails": [],
+      "location": "Dr Hajar Maftah, Rés lina, Av La Marche Verte Cabinet dentaire, Tanger 90020"
+    },
+    {
+      "name": "Centre Dentaire Walili - Dr. Ismaail Talmenssour",
+      "phone": "0663-490661",
+      "website": "https://tanger-dentiste.com",
+      "emails": [
+        "walili.dentiste@gmail.com"
+      ],
+      "location": "49 Boulevard Moulay Ismail, Résidence Volubilis A, 1er étage, No. 38"
+    },
+    {
+      "name": "Dr. El Mehdi Boumchita - Dentiste Tanger - Cabinet dentaire à Tanger",
+      "phone": "0531-160721",
+      "website": "",
+      "emails": [],
+      "location": "Dr. El Mehdi Boumchita - Dentiste Tanger - Cabinet dentaire à Tanger, Almas business center, Avenue tarik ibn zyad, Tangier 90000"
+    },
+    {
+      "name": "Centre Dentaire Dr. Asmae El Bakkali Ettaheri",
+      "phone": "05393-56784",
+      "website": "",
+      "emails": [],
+      "location": "L7 2eme étage, Numéro 3-4, Colegio internado, Rte de Tetouan"
+    },
+    {
+      "name": "Clinique Dentaire Lafayette | Dr Kandoussi Soumia",
+      "phone": "0531-218511",
+      "website": "",
+      "emails": [],
+      "location": "2ème étage, N 2, Résidence Annasr, 30 Rue Lafayette"
+    },
+    {
+      "name": "Cabinet Dentaire Al Majd عيادة طب الأسنان المجد Dr HANNAOUI RANIA MEDECIN DENTISTE TANGER",
+      "phone": "05393-67535",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dentiste Tanger, Dr LAKHDAR FATINE- Cabinet MySmile (Blanchiment, Orthodontie, Urgences)",
+      "phone": "0663-774490",
+      "website": "https://mysmile.ma",
+      "emails": [
+        "drfatinelakhdar@mySmile.ma",
+        "contact@mysmile.ma"
+      ],
+      "location": "plaza de Toros À côté de hôtel star, 2 eme étage, bureau numéro 11, Nice center"
+    },
+    {
+      "name": "Dr Majd Zade (dentiste tanger : طبيب أسنان طنجة)",
+      "phone": "0774-767832",
+      "website": "https://tanger-dentiste.ma",
+      "emails": [
+        "majdzade@hotmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique dentaire Estheticaplus",
+      "phone": "0691-400809",
+      "website": "https://estheticaplus.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Opal",
+      "phone": "05399-57770",
+      "website": "",
+      "emails": [],
+      "location": "Et 1 Apt 2, Centre Dentaire Opal, Res 3 Av. Al Qods, Tanger 90080"
+    },
+    {
+      "name": "Dr GDANI Mohamed clinique Dentaire CHIFAE",
+      "phone": "05393-82382",
+      "website": "https://cabinet-dentaire-dr-gdani.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr. Serroukh Khalid, Chirurgien Dentiste Fes Dentiste Fès Pedodontiste & implantologie Fes",
+      "phone": "05356-03678",
+      "website": "",
+      "emails": [],
+      "location": "Saada En dessus de carly, 24 avenue saint louis bureau meftaha, n13, Fès 31000"
+    },
+    {
+      "name": "Centre dentaire Premium 7j/7 ( sur rendez-vous)",
+      "phone": "0624-806584",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Kenza Moukhlesse Dentiste Fes",
+      "phone": "05356-53531",
+      "website": "https://drkenzamoukhlesse.godoc.ma",
+      "emails": [],
+      "location": "3 ème étage, Plaza, Rue Al Kandar avenue Al Hoceima immeuble Health, Fès 30000"
+    },
+    {
+      "name": "Dr. Hinchi Islah IH DENTAL CENTER الدكتورة حنشي إصلاح",
+      "phone": "0532-135656",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire dr hicham ben maajouz",
+      "phone": "0661-384805",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Mejbar",
+      "phone": "0624-244546",
+      "website": "",
+      "emails": [],
+      "location": "Appartement 13, 2 ème étage, Résidence Badr, 62 Boulevard Med V"
+    },
+    {
+      "name": "Cabinet dentaire Dr benhammou fatima-ezzahra",
+      "phone": "0617-050663",
+      "website": "",
+      "emails": [],
+      "location": "Bureaux, yassine, Ave Moulay Rachid, Fès 30050"
+    },
+    {
+      "name": "Dentiste Dr. Mouad Benslimane | Cabinet du Docteur Chirurgien Dentiste à Fès",
+      "phone": "05356-24287",
+      "website": "https://dentistefes.com",
+      "emails": [],
+      "location": "4ème Etage, sur la devanture du café Paul, Espace officex, Immeuble Café Maison H"
+    },
+    {
+      "name": "Cabinet Dentaire - Dr CHERRATE El Mehdi",
+      "phone": "05356-95447",
+      "website": "",
+      "emails": [],
+      "location": "Près de Mosquée Attakoua, N 1, Lotissement Bahij, Ain chkf"
+    },
+    {
+      "name": "Centre Dentaire Chefchaouni Dr Tariq FLIS",
+      "phone": "05356-42154",
+      "website": "",
+      "emails": [],
+      "location": "N, Centre Dentaire Chefchaouni Dr Tariq FLIS, 59 Bd Abdellah Chafchaouni, Fès 30050"
+    },
+    {
+      "name": "Docteur Chirurgien Dentiste Fadili Souad (Cabinet)",
+      "phone": "05359-32261",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Moon : Dr. Chaïmae Bouchâala",
+      "phone": "05359-43671",
+      "website": "",
+      "emails": [],
+      "location": "5ème étage, Espace Mehdaoui, 27,rue brahim Roudani"
+    },
+    {
+      "name": "Centre Dentaire Dr. Tazi Omar || Fès",
+      "phone": "05357-48979",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet d'orthodontie Dr. Said TLEMCANI",
+      "phone": "05356-52080",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Fez City Smile",
+      "phone": "05356-44067",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Florence Fès Dr Yahya Raid",
+      "phone": "05356-53545",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Fatima Zahra Chraibi ,Centre Dentaire Chraibi",
+      "phone": "0702-171757",
+      "website": "",
+      "emails": [],
+      "location": "3ème étage, Bureaux Al Abrar, Boulevard Abdellah Chafchaouni , Bureau N'14"
+    },
+    {
+      "name": "Cabinet dentaire et d’esthétique IBN ATTYA ABDELLATIF",
+      "phone": "05356-25639",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "cabinet dentaire Dr.Sara BCHI",
+      "phone": "0603-710593",
+      "website": "",
+      "emails": [],
+      "location": "1, 1 er étage , bureau 2, bureaux Abdeljalil"
+    },
+    {
+      "name": "CLINIQUE DENTAIRE ZANZIBAR",
+      "phone": "05359-41530",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr.Kenza ACHIR",
+      "phone": "0532-070270",
+      "website": "https://dentisto.ma/rendez-vous/docteurs/dr-kenza-achir-1715",
+      "emails": [],
+      "location": "11 Boulevard Allal Ben Abdallah Num. 9 , étage 5 , VN, Meknès 50000"
+    },
+    {
+      "name": "Cabinet dentaire Dr.Mernissi Othmane (Dentiste Meknes)",
+      "phone": "0532-074007",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire La Fayette Dr Boukachmire Iliass dentiste meknes",
+      "phone": "05355-23056",
+      "website": "",
+      "emails": [],
+      "location": "N23 VN, Bureaux Idrissi, 20 Rue de Tarfaya, Meknès 50000"
+    },
+    {
+      "name": "Centre Dentaire Nice Smile ( DENTISTE MEKNES) عيادة طب و جراحة الاسنان نايس سمايل",
+      "phone": "05355-26991",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, 5 rue la voûte, app 7, Meknès 50000"
+    },
+    {
+      "name": "Docteur Chirurgien Dentiste Maghraoui Mohammed (Cabinet)",
+      "phone": "05355-14740",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Dounia Jaoui - Dentiste Meknès",
+      "phone": "05355-14927",
+      "website": "",
+      "emails": [],
+      "location": "Bienvenue au Cabinet Dentaire du Dr Dounia Jaoui, situé à Avenue des FAR, Entre la Grande Gare Ferroviaire et la mosquée Iran, à côté de la station TOTAL"
+    },
+    {
+      "name": "Dr Jihane BOUZAFOUR (Chirurgien-dentiste)",
+      "phone": "0612-415160",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "dental center nia happiness",
+      "phone": "05355-20064",
+      "website": "",
+      "emails": [],
+      "location": "dental center nia happiness, Angle avenue allal bn abdellah, Rue Taroudant, Meknès 50000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. ALLALI Nouhaila",
+      "phone": "0648-589841",
+      "website": "",
+      "emails": [],
+      "location": "1er étage ,appt, en face taxi bassatine, 4 Ave Idriss II"
+    },
+    {
+      "name": "Dr. Wissame Benakka",
+      "phone": "05354-01712",
+      "website": "https://drwissamebenakka.ma",
+      "emails": [],
+      "location": "2ème étage bureau N6, Residence Al wafaa, N12 Bd Yacoub El Mansour, Meknès 50000"
+    },
+    {
+      "name": "Centre dentaire Dr Hazzaz",
+      "phone": "05355-22827",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Docteur Chirurgien Dentiste Moussaid El Hadi (Cabinet)",
+      "phone": "05355-14899",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre dentaire DR. ALAE ZEAMARI",
+      "phone": "05355-11920",
+      "website": "",
+      "emails": [],
+      "location": "Bureau 9, Centre dentaire DR. ALAE ZEAMARI, i20 Bd Amir Moulay Abdallah, Meknès 50000"
+    },
+    {
+      "name": "Centre dentaire spécialisé docteur boucetta madiha",
+      "phone": "05355-16344",
+      "website": "",
+      "emails": [],
+      "location": "1 ème étage, Bureaux amine, Rue de Tarfaya, Meknès 50000"
+    },
+    {
+      "name": "Dr. Harbouze Younes (Dentiste)",
+      "phone": "05355-22640",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr EL BALQUI Zineb",
+      "phone": "0667-307616",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Gallouj Laila Chirurgien Dentiste",
+      "phone": "05355-20009",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "chamlal dental center Dr imane chamlal",
+      "phone": "05355-24040",
+      "website": "",
+      "emails": [],
+      "location": "1er étage , VN, res plateaux bureaux reda, 2 rue de benzert"
+    },
+    {
+      "name": "Cabinet Dentaire Dr.Nassiri Asmae",
+      "phone": "0532-181305",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr. Chirurgien Dentiste Mokrini Taoufik",
+      "phone": "05355-27764",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Moqadem Youssef",
+      "phone": "05282-13926",
+      "website": "",
+      "emails": [],
+      "location": "Imm.7 App.3, Av. Haj Masaoud wafkaoui, Agadir 80000, Morocco"
+    },
+    {
+      "name": "Centre Dentaire Dr Imane Agadir",
+      "phone": "05288-40436",
+      "website": "https://imanedentalcenter.ma",
+      "emails": [],
+      "location": "N16, 4ème étage, Immeuble jamal, rue hôtel de ville"
+    },
+    {
+      "name": "Dr. Khadija ELMOUSAID (centre dentaire)",
+      "phone": "0525-179753",
+      "website": "",
+      "emails": [],
+      "location": "Agadir Bay, Bloc E, EB208, Technopole 2"
+    },
+    {
+      "name": "Centre Dentaire Sonaba - Dr Chaimaa Aboulhassan ( dentiste agadir )",
+      "phone": "05282-26396",
+      "website": "https://centredentairesonaba-agadir.com",
+      "emails": [],
+      "location": "immeuble 8, étage 1, résidence khalij nakhil, Founty sonaba"
+    },
+    {
+      "name": "Dr.Ghita TLEMSANI BENHATTAL - Chirurgien Dentiste Agadir",
+      "phone": "05288-41233",
+      "website": "https://www.cabinetdentairetlemsani.com",
+      "emails": [
+        "contact@cabinetdentairetlemsani.com"
+      ],
+      "location": "Avenue Hassan II, rue Tarablous, immeuble Ait Baamrane, 2 ème étage Ait Baamrane"
+    },
+    {
+      "name": "Amzil Dental Center",
+      "phone": "+212 6 60 60 55 10",
+      "website": "",
+      "emails": [],
+      "location": "Immeuble des forces auxiliaires, Avenue Mohamed V, Agadir, Maroc"
+    },
+    {
+      "name": "Centre dentaire Okhsane (Dr BAJJOUK) AGADIR",
+      "phone": "0708-278048",
+      "website": "https://centredentaireokhsane.com",
+      "emails": [
+        "cdokhsane@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Golden Smile Dr. SARA LAOUINA (Dentiste Agadir)",
+      "phone": "05288-22589",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Dr. Bentouda Souad - مركز طب الاسنان، الدكتورة سعاد بن تودة",
+      "phone": "05282-81818",
+      "website": "",
+      "emails": [],
+      "location": "Technopole 1 Bloc B, Etage 3 Agadir bay, Agadir 80000, Morocco"
+    },
+    {
+      "name": "Clinique dentaire Le Sourire Dr Alami Younssi Amal Dentiste Agadir",
+      "phone": "",
+      "website": "https://cliniquedentairelesourire.com",
+      "emails": [
+        "Alamiamal05@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Marhaba Dental Center Agadir",
+      "phone": "0528821978",
+      "website": "https://agadirmarhabadentalcenter.ma",
+      "emails": [
+        "contact@agadirmarhabadentalcenter.ma"
+      ],
+      "location": "5 ème étage, Immeuble Marhaba, Av. Cheikh Saadi Ang. Bd. 29 Fevrier, Souss-Massa-Drâa"
+    },
+    {
+      "name": "Centre Dentaire Founty",
+      "phone": "05282-82851",
+      "website": "https://www.centredentairefounty.ma",
+      "emails": [
+        "contact@centredentairefounty.ma"
+      ],
+      "location": "1er étage, Bureau B103, Imm Maison Avocat 2, Agadir 80000"
+    },
+    {
+      "name": "Centre Dentaire Oumlil Smile AGADIR",
+      "phone": "05288-26434",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre dentaire AMLAL",
+      "phone": "0528827500",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre dentaire labzour",
+      "phone": "05288-26060",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, près de carrefour, Immeuble Fouzia, Av. Hassan II Au Dessus d'orange"
+    },
+    {
+      "name": "Centre Dentaire Amsernat",
+      "phone": "05282-01415",
+      "website": "",
+      "emails": [],
+      "location": "Ilot-G, Centre Dentaire Amsernat, 68 Rue 2 Mars, Agadir 80000"
+    },
+    {
+      "name": "Cabinet dentaire Dr. Wafae boughaleb",
+      "phone": "0521-125059",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet dentaire Dr. Wafae boughaleb, bloc12N1, Rue de Marrakech, Agadir 80000"
+    },
+    {
+      "name": "Centre dentaire AMIRAL (Docteur HASNAOUI Naoual)",
+      "phone": "05282-25890",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, Devant Aswak Assalam et Carrefour, Borj Ennour, Rue Yacoub El Mansour"
+    },
+    {
+      "name": "Centre dentaire BAROUDI - AGADIR - Dr Khadija Baroudi طبيب الاسنان",
+      "phone": "05282-20302",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Mourad Gamani cabinet Dentaire spécialisé, agadir implants dentaire , esthetique dentaire smile design",
+      "phone": "05288-28440",
+      "website": "",
+      "emails": [],
+      "location": "4eme étage, 37, Immeuble Ifrane 3 Av. Hassan II, Agadir 80000"
+    },
+    {
+      "name": "Centre Dentaire Arganier Agadir",
+      "phone": "05288-28272",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Mohammed Mabrouki  Chirurgie et Implantologie orale",
+      "phone": "0671-802007",
+      "website": "https://drmabrouki-dentiste.ma",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Oujda Dr. Amine Motaib Implantologiste, Parodontologiste, Orthodontiste",
+      "phone": "05366-86534",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Nahid Haddar Chirurgien Dentiste",
+      "phone": "05367-05131",
+      "website": "https://drhaddarnahid.wordpress.com",
+      "emails": [
+        "Dr.Haddarnahid@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Mohammed Taha Zarrouki",
+      "phone": "05367-01060",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet Dentaire Dr. Mohammed Taha Zarrouki, Boulevard hassan II Hay Zangout Imm Badr 2eme Etage, N 13, Oujda 60050"
+    },
+    {
+      "name": "Dentiste oujda Dr. Oussama Alla Chirurgien Dentiste & Pluridisciplinaire",
+      "phone": "05365-36732",
+      "website": "",
+      "emails": [],
+      "location": "2éme etage, N31, Bd Oum Rabie Lotissement Les iris, Oujda"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Fatima Omari Chirurgien Dentiste",
+      "phone": "05365-33952",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Meryem Zeriouli Chirurgien Dentiste",
+      "phone": "05365-50459",
+      "website": "",
+      "emails": [],
+      "location": "1ér Etage, Cabinet Dentaire Dr. Meryem Zeriouli Chirurgien Dentiste, Nr 237 Boulevard Abou Bakr El Kadiri, Oujda 60020"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Imane Ben Osmane Chirurgien Dentiste",
+      "phone": "05365-20566",
+      "website": "",
+      "emails": [],
+      "location": "2 ème étage, Hay Koulouche, 69 Boulevard Mansour Dahbi, Oujda"
+    },
+    {
+      "name": "Dr. Sanae QUORTOBI Médecin Dentiste Oujda Cabinet Dentaire, Parodontologie, Implantologie & Dentisterie Ésthetique",
+      "phone": "05366-80650",
+      "website": "https://cabinetdentairequortobi.ma",
+      "emails": [],
+      "location": "1er étage, Dr. Sanae QUORTOBI Médecin Dentiste Oujda Cabinet Dentaire, Parodontologie, Implantologie"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Zakaria Corty Chirurgien Dentiste",
+      "phone": "05366-86193",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique Dentaire Ennour",
+      "phone": "05365-33032",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre dentaire IBTISSAMA , Dr Sara Mokhtari",
+      "phone": "05365-32534",
+      "website": "",
+      "emails": [],
+      "location": "Pôle médical, Étage 1, Appartement 1, Oujda 60000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Najib Azzimani Chirurgien Dentiste Généraliste",
+      "phone": "05366-81599",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet Dentaire Dr. Najib Azzimani Chirurgien Dentiste Généraliste, Avenue Moulay Slimane, 187 Av. Moulay Sliman, Oujda"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Adnane Touzani Chirurgien Dentiste",
+      "phone": "05365-08060",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet Dentaire Dr. Adnane Touzani Chirurgien Dentiste, Imm Nakhil, Boulevard Al Maqdis, Oujda 60000"
+    },
+    {
+      "name": "Centre dentaire DAISY Dr.Manal Rabhi",
+      "phone": "05365-48689",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Mohammed YOUSFI Chirurgien Dentiste implantologie ,parodontologie ..",
+      "phone": "0625-850367",
+      "website": "",
+      "emails": [],
+      "location": "Dr Mohammed YOUSFI Chirurgien Dentiste implantologie ,parodontologie .., Rue Chouhada, Oujda"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Mohammed Meqqadmi Chirurgien Dentiste",
+      "phone": "0643-293065",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Taoufik Jmahri Chirurgien Dentiste",
+      "phone": "05367-00055",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet Dentaire Dr. Taoufik Jmahri Chirurgien Dentiste, 1 Angle Boulevard El Fetouaki Et Rue Lavoisier, Oujda, Oujda 60000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Mouad Zerrouki Chirurgien Dentiste-Orthodontiste",
+      "phone": "05365-07350",
+      "website": "",
+      "emails": [],
+      "location": "Apprt 3, Cabinet Dentaire Dr. Mouad Zerrouki Chirurgien Dentiste-Orthodontiste, Hay El Qods Bd Al Makdis Lot6, Oujda 60000"
+    },
+    {
+      "name": "Centre Dentaire Elite Smile Dr. Houssam-Eddine Rhlid Chirurgien Dentiste Spécialisé",
+      "phone": "05366-84858",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Abdelaziz El Maimouni",
+      "phone": "05399-63411",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet Dentaire Dr. Abdelaziz El Maimouni, 134 Av. Hassan II, Martil 93150, Morocco"
+    },
+    {
+      "name": "Centre Dentaire MARTIL",
+      "phone": "0772-022244",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "PERFECT SMILE MARTIL",
+      "phone": "0643-624643",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet de chirurgie dentaire Dr FADEL",
+      "phone": "05396-88966",
+      "website": "",
+      "emails": [],
+      "location": "immeuble 192, Cabinet de chirurgie dentaire Dr FADEL, Avenue Miramar, Martil 93150"
+    },
+    {
+      "name": "Dr. Ayoub Zouaki",
+      "phone": "0772-022244",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dentica Clinic Dentiste tetouan -Centre dentaire tetouan- clinique dentaire tetouan - dentiste Tetouan -facettes -implant-FAR",
+      "phone": "05399-93456",
+      "website": "",
+      "emails": [],
+      "location": "Dentica Clinic Dentiste tetouan -Centre dentaire tetouan- clinique dentaire tetouan - dentiste Tetouan -facettes -implant-FAR, Avenue des FAR , Résidence Messrour, Burreau N"
+    },
+    {
+      "name": "Clinique Dentaire Tétouan",
+      "phone": "05397-24242",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dentiste Tetouan Dr Chiguer Redouane دكتور شيكر رضوان - طبيب أسنان تطوان",
+      "phone": "0663-073426",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, 11 avenue Alourouba, n1, Tétouan 93000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Naoufal Smiri",
+      "phone": "0531-078880",
+      "website": "",
+      "emails": [],
+      "location": "etage 1 appart 3, Résidence 218, Av. des FAR, Tétouan 93000"
+    },
+    {
+      "name": "Centre dentaire Ouazzani - dentiste tetouan",
+      "phone": "05399-91977",
+      "website": "https://centredentaireouazzani.com",
+      "emails": [
+        "dr.soukainaouazzani@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Smile Dental Tétouan",
+      "phone": "05399-72267",
+      "website": "",
+      "emails": [],
+      "location": "Lot Finanbar, Villa 28, Av. Abdelkhalek Torres, Tetouan 93000"
+    },
+    {
+      "name": "Prothésiste dentaire guzouli",
+      "phone": "0678-323620",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "cabinet dentaire dr Gaouz Rim - Tetouan -",
+      "phone": "05397-26215",
+      "website": "",
+      "emails": [],
+      "location": "cabinet dentaire dr Gaouz Rim - Tetouan -, résidence Nezha, Avenue Mohamed Kharraz, Ruelle 2"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Tarik Saidi",
+      "phone": "05397-10252",
+      "website": "",
+      "emails": [],
+      "location": "2ème étage, Cabinet Dentaire Dr. Tarik Saidi, 21, N"
+    },
+    {
+      "name": "Dr. Amezian Hamza : Clinique dentaire Amezian ( Chirurgien dentiste Tetouan )",
+      "phone": "05399-60700",
+      "website": "https://ameziandental.ma",
+      "emails": [],
+      "location": "Etage 1, appartement 1, 62 Av. Ghourghiz, Tétouan"
+    },
+    {
+      "name": "Cabinet dr El Allali Soukaina",
+      "phone": "05397-16652",
+      "website": "",
+      "emails": [],
+      "location": "résidence Hania 2, N4, Av. des Forces Armées Royales, Tetouan"
+    },
+    {
+      "name": "CENTRE DENTAIRE LA COLOMBE (Dentiste Tétouan)",
+      "phone": "0531-128934",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr.AZOUAGH Aiman Chirurgien Dentiste Tétouan",
+      "phone": "0531-078191",
+      "website": "",
+      "emails": [],
+      "location": "1er étage N 03, Résidence Zainab, Av. des FAR, Tétouan 93000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr Basma Rezki",
+      "phone": "05397-03669",
+      "website": "",
+      "emails": [],
+      "location": "Apt AE5, Résidence Al Ismailia à l'entre-sol, 33 Av. des FAR, Tétouan"
+    },
+    {
+      "name": "Cabinet dentaire kenitra (urgence 24h/24)",
+      "phone": "0646-506929",
+      "website": "https://drbouhout.ma",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dentiste Kénitra - Dr. Sara NAIMI - Centre Dentaire Polyvalent - Invisalign Provider",
+      "phone": "0667-363616",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Multidisciplinaire Dr. Abdelmalek Lahlali Chirurgien Dentiste",
+      "phone": "05356-74738",
+      "website": "",
+      "emails": [],
+      "location": "98, Rue De Fès, Taza-Bas, Taza"
+    },
+    {
+      "name": "Dentiste Kenitra - Dr. Zoubair BAROUD - Centre Dentaire Maamora",
+      "phone": "0621-990994",
+      "website": "https://dentiste-kenitra.ma",
+      "emails": [],
+      "location": "Bureau 3, Résidence OUMAIMA, 36 Av. Tariq Ibn Ziad, Kénitra 14000"
+    },
+    {
+      "name": "Dentiste Kenitra - Centre dentaire Arsalane Kenitra - Dr BOUATLAOUI Hamza",
+      "phone": "0636-830000",
+      "website": "",
+      "emails": [],
+      "location": "bureau 1, résidence Latifa, 24 Av. Chakib Arsalane, Kenitra 14000"
+    },
+    {
+      "name": "Cabinet Dentaire MAGNOLIA (dr.Aithaddou)",
+      "phone": "",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire du Dr.elkasri redouane",
+      "phone": "05373-94782",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet dentaire du Dr.elkasri redouane, angle avenue mohamed dirouri, Rue Idriss Al Akbar, Kenitra 14000"
+    },
+    {
+      "name": "Dr. Maha Abdelali - Cabinet Dentaire Val Fleury",
+      "phone": "",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Docteur El Yaaqoubi Abdallah",
+      "phone": "05373-76730",
+      "website": "http://centredentairekenitra.ma",
+      "emails": [
+        "Contact@centredentairekenitra.ma",
+        "contact@centredentairekenitra.ma"
+      ],
+      "location": "Docteur El Yaaqoubi Abdallah, Bureau n 4, Angle Rue Hassan II Et, Rue Mohamed Abdou"
+    },
+    {
+      "name": "Dentiste kenitra - Centre dentaire Dr.Ayoub Elaid",
+      "phone": "05373-97581",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Kenitra city smile - Docteur Er-rabhi Hicham",
+      "phone": "0707-747373",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, Cabinet dentaire Kenitra city smile - Docteur Er-rabhi Hicham, Maghreb Arabi D 181, Kénitra 14000"
+    },
+    {
+      "name": "Dentiste Kenitra -Centre Dentaire Dentocristal - Dr. Oussama OUCHBEL (chirurgien dentiste)",
+      "phone": "0663-480264",
+      "website": "",
+      "emails": [],
+      "location": "Bureau 5, Imm Oued Eddahab, Rue Moulay Abdelhafid x, Avenue Imam Ali"
+    },
+    {
+      "name": "CENTRE DENTAIRE BELGHAZI",
+      "phone": "0650-909250",
+      "website": "https://drbelghazi.com",
+      "emails": [],
+      "location": "1er étage, à coté de la station total, Résidence BH2 Business center, Bureau n"
+    },
+    {
+      "name": "Dentiste kénitra - SMILE PLUS Dental Center - Dr Zahraoui Narjiss Dentiste à kenitra",
+      "phone": "",
+      "website": "https://smilepluscenter.com",
+      "emails": [
+        "dr.smileplusdent@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Dentiste Kenitra - Cabinet Mondentiste - Dr Sabrine TAMENT",
+      "phone": "0530-700092",
+      "website": "https://mon-dentiste.ma",
+      "emails": [
+        "tamentsabrine@gmail.com"
+      ],
+      "location": "bureau n3, Résidence la tendance, Rue hommane el fetouaki, Kénitra 14000"
+    },
+    {
+      "name": "Dentiste Kénitra - Dr. Hind BELLAMINE - Centre Dentaire",
+      "phone": "05373-63405",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre dentaire Elite: Dr Imad Barmoussa",
+      "phone": "0530-245808",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire ANOUAL : Dr. Ilias EL KHATTABI / Dr. Lamyae BOUHI",
+      "phone": "0530-550770",
+      "website": "",
+      "emails": [],
+      "location": "2, Ag. Rue Tarik Ibn Ziad et Abou Bakr Seddik, Bureau n 7, 1er étage"
+    },
+    {
+      "name": "Dr.Hiba GUELIDA : pristine dental center ( dentiste kenitra)",
+      "phone": "0530-220071",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, bureau 2, angle maamoura, N 46"
+    },
+    {
+      "name": "Infinity Dental Center - Dr Zineb MOUHIE-EDDINE",
+      "phone": "05373-63470",
+      "website": "",
+      "emails": [],
+      "location": "Résidence Chaimae, B 02, Angle Boulevard Moulay Ismail et Rue Idriss Al Akbar, Kénitra 14020"
+    },
+    {
+      "name": "Cabinet Dentaire IBNOUSSINA",
+      "phone": "0520-845474",
+      "website": "",
+      "emails": [],
+      "location": "1er etage, Residence Zahia, 21 Rue Socrate, Casablanca 20100"
+    },
+    {
+      "name": "Esthétique dentaire, Orthodontie, Endodontie, Pédodontie , Implantologie.",
+      "phone": "0689-531119",
+      "website": "https://www.drchraibi.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "SWISS DENTAL CLINIC MOROCCO - CLINIQUE DENTAIRE SUISSE",
+      "phone": "05352-82143",
+      "website": "https://cliniquedentairedumaroc.com",
+      "emails": [
+        "cliniquedentairedumaroc@gmail.com"
+      ],
+      "location": "CLINIQUE DENTAIRE Casablanca, El khattabi, 16 Boulevard Abdelkrim Al Khattabi, Casablanca 20250"
+    },
+    {
+      "name": "Centre Dentaire - Dr Berrada Fatima-Zahra - Chirurgien dentiste",
+      "phone": "05229-58070",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique Dentaire Palmiers",
+      "phone": "05229-80807",
+      "website": "https://cliniquedentairepalmiers.ma",
+      "emails": [
+        "cdpbennouna@gmail.com"
+      ],
+      "location": "Clinique Dentaire Palmiers, Rés. Palmiers du Sud, 12 Boulevard Mohamed Abdou, Casablanca 20100"
+    },
+    {
+      "name": "Cabinet dentaire du Dr Ilyas Assakhen",
+      "phone": "05229-87201",
+      "website": "https://casablancasmilecenter.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
       "name": "Dentis Clinic - Dr Marouane Raiss Chirurgien Dentiste à Maarif Casablanca",
       "phone": "05222-50384",
       "website": "https://dentisclinic.ma",
-      "emails": [
-        "contact@dentisclinic.ma"
-      ],
-      "location": "casablanca"
+      "emails": [],
+      "location": "maroc"
     },
     {
-      "name": "Centre Dentaire Massira",
-      "phone": "05229-89846",
-      "website": "http://centredentairemassira.com",
-      "emails": [
-        "centredentairemassira@gmail.com",
-        "contact@centredentairemassira.com"
-      ],
-      "location": "Centre Dentaire Massira, 75, Bd Massira El Khadra -Ex Camille, Casablanca 20100"
-    },
-    {
-      "name": "Docteur Squalli Hamzaoui Jaouhar chirurgien dentiste orthodontiste",
-      "phone": "05229-42841",
+      "name": "Dr Pinto Karen",
+      "phone": "05222-02612",
       "website": "",
       "emails": [],
-      "location": "Docteur Squalli Hamzaoui Jaouhar chirurgien dentiste orthodontiste, 164 Boulevard D'Anfa, Angle Rue Molière, Casablanca 20100"
+      "location": "maroc"
     },
     {
-      "name": "Dentist à Casablanca - Dr Alaoui Ahmed",
-      "phone": "0520-918413",
-      "website": "https://dralaouiahmed.com",
+      "name": "Boukhal Dental Clinic - Centre dentaire Rabat - Dentiste Rabat",
+      "phone": "05377-31383",
+      "website": "https://boukhaldentalclinic.ma",
+      "emails": [
+        "contact@boukhaldentalclinic.ma",
+        "info@boukhaldentalclinic.ma"
+      ],
+      "location": "ll appartement 32, 4ème étage, avenue hassan, rabat 10060"
+    },
+    {
+      "name": "Chirurgien dentiste Rabat - Dr. Abdellah Laenser",
+      "phone": "05376-74343",
+      "website": "https://dentistelaenser.ma",
       "emails": [],
-      "location": "Dentist à Casablanca - Dr Alaoui Ahmed, Residence la tulipe, 3 rue abou bakr mohammed ibn zaher, Casablanca 20350"
+      "location": "maroc"
     },
     {
-      "name": "URGENCE DENTAIRE CASABLANCA 24H/24 Dentiste Casablanca - Dr. Abdelmalek Chraibi - Chirurgien Orthodontiste",
-      "phone": "0520-845474",
-      "website": "https://calismile-casablanca.com/urgence-dentaires",
+      "name": "Dr. El Assili Rachid Chirurgien Dentiste & Implantologiste",
+      "phone": "05376-70707",
+      "website": "",
       "emails": [],
-      "location": "N 6 2 éme etage plateau N 9, 2JI Office, Avenue Mohamed Taieb Naciri, Casablanca 20220"
+      "location": "maroc"
     },
     {
-      "name": "Dr ELAMRANI Saida",
+      "name": "Agdal Dental Clinic",
+      "phone": "0762-732882",
+      "website": "https://orthodontiste-rabat.com",
+      "emails": [
+        "contact@centre-dentaire-agdal.com",
+        "cda.dentiste.rabat@gmail.com"
+      ],
+      "location": "ll appartement 32, 4ème étage, avenue hassan, rabat 10060"
+    },
+    {
+      "name": "LA CLINIQUE DENTAIRE DES NATIONS UNIES RABAT",
+      "phone": "05376-70660",
+      "website": "https://cliniquedentairedesspecialitesrabat.com/nos-services",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Walali Loudiyi Adil Artisan du sourire",
+      "phone": "05376-71216",
+      "website": "https://www.lesartisansdusourire.com",
+      "emails": [
+        "orthorabat@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Anas El Jabri : Smile Ortho Dental Clinic",
+      "phone": "05376-70376",
+      "website": "https://orthodontiste-rabat.ma",
+      "emails": [
+        "ahmed@azynius.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr. AARAB - Centre Dentaire EDEN",
+      "phone": "0525-521152",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, apt N2, Immeuble Ghalia, N59 Bd el Mansour Eddahbi"
+    },
+    {
+      "name": "Aura dental center",
+      "phone": "0525-277776",
+      "website": "https://auradentalcenter.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique dentaire Moqadem Hafça Hollywood smile, Implant, prothèse, Facette, Blanchiment urgence dentaire, dentiste Marrakech",
+      "phone": "05244-37470",
+      "website": "https://esthetiquedentairemarrakech.com",
+      "emails": [],
+      "location": "2éme étage, Madani Plaza, 180 Bd Abdelkrim Al Khattabi, Marrakech 40000"
+    },
+    {
+      "name": "𝗗𝗼𝗰𝘁𝗲𝘂𝗿 𝗖𝗵𝗶𝗿𝘂𝗿𝗴𝗶𝗲𝗻 𝗗𝗲𝗻𝘁𝗶𝘀𝘁𝗲 𝗖𝗛𝗔𝗥𝗔𝗙 𝗜𝗺𝗮𝗻𝗲 - 𝗗𝗲𝗻𝘁𝗶𝘀𝘁𝗲 𝗠𝗮𝗿𝗿𝗮𝗸𝗲𝗰𝗵",
+      "phone": "05243-89622",
+      "website": "https://www.e-rdv.ma/rendez-vous-avec/centre-dentaire-la-geoconda-dr-imane-charaf/3125886/567649.html",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Davinci Dental Clinic - Dentiste à Gueliz Marrakech",
+      "phone": "05244-22172",
+      "website": "https://davincidental.ma",
+      "emails": [
+        "webmaster@davincidental.ma"
+      ],
+      "location": "2 N3, Miramas, Bd Abdelkrim Al Khattabi, Marrakech 40000"
+    },
+    {
+      "name": "Docteur Chirurgien Dentiste El Merini Adnane (Harmony clinic)",
+      "phone": "0525-090909",
+      "website": "http://harmonyclinic.ma",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Plaza Docteur Nadour Aicha",
+      "phone": "05244-23358",
+      "website": "http://centredentaireplaza.ma",
+      "emails": [],
+      "location": "immeuble D1, 3 ème étage, bureau 6 Pl. 16 Novembre, Marrakesh 40000"
+    },
+    {
+      "name": "Cabinet dentaire Dr. Benabad Yassine",
+      "phone": "05244-57090",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, 82 Avenue Hassan 2, Gueliz marrakech, Marrakesh 40000"
+    },
+    {
+      "name": "Centre dentaire Ocre (DR FAHD IDRISSI AATOUF)Esthétique dentaire",
+      "phone": "0669-338224",
+      "website": "https://ocredentalcenter.ma",
+      "emails": [],
+      "location": "M, App 2, Immeuble, Rue Errouda"
+    },
+    {
+      "name": "Marrakech dentist (Dr. CHAD Younes)",
+      "phone": "05244-21962",
+      "website": "",
+      "emails": [],
+      "location": "angle Avenue Yacoub El Mansour et, Rue Loubnane, Marrakesh 40000, Morocco"
+    },
+    {
+      "name": "Dr. El Mohtarim Sara- chirurgien dentiste",
+      "phone": "05244-21924",
+      "website": "https://www.dabadoc.com/ma/dentiste/marrakech/sara-el-mohrarim",
+      "emails": [],
+      "location": "1 ÉTAGE, RÉS. AL OUSRA APPART, 1 Bd Mohamed VI, Marrakech 40000"
+    },
+    {
+      "name": "CENTRE DENTAIRE INTERNATIONAL DE MARRAKECH",
+      "phone": "05244-20975",
+      "website": "https://www.centre-dentaire-marrakech.com",
+      "emails": [],
+      "location": "Centre affaire taleeb 120 avenue Mohamed V 4 éme etage, 120 Av. Mohammed V, Marrakech 40000, Morocco"
+    },
+    {
+      "name": "KOUTOUBIA DENTAL CLINIC DR OULD NANA NADA",
+      "phone": "05244-58205",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Salim : Dr Salim Ilalen - Dentiste à Marrakech guéliz - Urgence - Blanchiment - Implant - Orthodontie...",
+      "phone": "0525-891798",
+      "website": "https://dentistemarrakechgueliz.com",
+      "emails": [],
+      "location": "4ème étage, Centre d affaire hajja latifa, Bureau 26 Av. Yacoub El Mansour, Marrakech 40000"
+    },
+    {
+      "name": "Cabinet Dentaire Multidisciplinaire Dr. Abdelaziz Mekouar Chirurgien Dentiste",
+      "phone": "05244-20242",
+      "website": "https://drmekouarchirurgiendentiste.com",
+      "emails": [
+        "marrakechdentiste.mekouar@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Rajouani Nabila ",
+      "phone": "0700-097616",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Maroc",
       "phone": "",
-      "website": "https://www.mondentiste.ma/elamrani-saida-4913.htm",
+      "website": "https://maroc.ma",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr fadoua iklimi marrakech",
+      "phone": "0525-147766",
+      "website": "https://dentistmarrakech.com",
       "emails": [
-        "contact@mondentiste.ma",
-        "Contact@cliniquedentaireamrani.com"
+        "contact@dentistmarrakech.com"
       ],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Dr. Diaa Habzi",
-      "phone": "05226-62855",
-      "website": "",
+      "name": "Docteur Chirurgien Dentiste TAOUFIK LAHLOU",
+      "phone": "05244-39120",
+      "website": "https://drlahloutaoufik.com",
       "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Dr Saoussane Mellouk Pédodontiste",
-      "phone": "05222-32727",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire IKBAL",
-      "phone": "05223-53510",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dentiste Ain Sebaa - Dr Besri Lamia",
-      "phone": "0520-191930",
-      "website": "https://drbesrilamia.ma",
+      "name": "Docteur Chirurgien Dentiste Youbi Amine",
+      "phone": "0662-372609",
+      "website": "https://amineyoubi.com",
       "emails": [
-        "lamiabesri@hotmail.com"
+        "Amineyoubi123@gmail.com"
       ],
-      "location": "Dentiste Ain Sebaa - Dr Besri Lamia, Boulevard Mohamed Jamal Addorra Résidence Al-Hamd, Imm Br 1 A, Appt n"
+      "location": "maroc"
     },
     {
-      "name": "𝐂𝐚𝐛𝐢𝐧𝐞𝐭 𝐃𝐞𝐧𝐭𝐚𝐢𝐫𝐞 -𝐃𝐫 𝐋𝐚𝐢𝐥𝐚 𝐁𝐞𝐫𝐫𝐚𝐝𝐚-𝐁𝐝 𝐓𝐚𝐧𝐭𝐚𝐧 -𝐁𝐨𝐮𝐫𝐠𝐨𝐠𝐧𝐞-𝐂𝐚𝐬𝐚𝐛𝐥𝐚𝐧𝐜𝐚-𝐎𝐫𝐭𝐡𝐨𝐝𝐨𝐧𝐭𝐢𝐞- 𝐈𝐦𝐩𝐥𝐚𝐧𝐭𝐨𝐥𝐨𝐠𝐢𝐞 - 𝐞𝐧𝐝𝐨𝐝𝐨𝐧𝐭𝐢𝐞 -𝐔𝐫𝐠𝐞𝐧𝐜𝐞 𝐝𝐞𝐧𝐭𝐚𝐢𝐫𝐞",
-      "phone": "05223-98569",
-      "website": "https://dr-lailaberrada.ma",
+      "name": "CABINET Dr CHKILI Fethallah",
+      "phone": "05244-47711",
+      "website": "https://dentiste-marrakech.net",
       "emails": [
-        "info@dr-lailaberrada.ma"
+        "marrakechdentiste@gmail.com"
       ],
-      "location": "180 Angle Bd Sijlmassi Et Bd. Tantan-Bourgone- appt 2, Au dessus de, Little Mama et a proximité de Anfa - Racine, La corniche - Ziraoui"
+      "location": "maroc"
     },
     {
-      "name": "dr Berrada Elhassan (dentiste)",
-      "phone": "05222-06952",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "🎀 𝐃𝐫 𝐋𝐚𝐢𝐥𝐚 𝐁𝐞𝐫𝐫𝐚𝐝𝐚 𝐃𝐞𝐧𝐭𝐢𝐬𝐭𝐞 -𝐂𝐚𝐬𝐚𝐛𝐥𝐚𝐧𝐜𝐚-𝐁𝐨𝐮𝐫𝐠𝐨𝐠𝐧𝐞 ✓𝐈𝐦𝐩𝐥𝐚𝐧𝐭 𝐃𝐞𝐧𝐭𝐚𝐢𝐫𝐞 - 𝐅𝐚𝐜𝐞𝐭𝐭𝐞𝐬 - 𝐁𝐥𝐚𝐧𝐜𝐡𝐢𝐦𝐞𝐧𝐭 - 𝐎𝐫𝐭𝐡𝐨𝐝𝐨𝐧𝐭𝐢𝐬𝐭𝐞 - 𝐈𝐧𝐯𝐢𝐬𝐚𝐥𝐢𝐠𝐧",
-      "phone": "05223-98569",
-      "website": "https://dr-lailaberrada.ma",
+      "name": "Cabinet dentaire Dr Meriem Aboud",
+      "phone": "0698-307272",
+      "website": "https://drmeriemaboud.com",
       "emails": [
-        "info@dr-lailaberrada.ma"
+        "cabinetdentaireaboud@gmail.com"
       ],
-      "location": "180 Angle Bd Sijlmassi Et Bd. Tantan-Bourgone- appt 2, Au dessus de, Little Mama et a proximité de Anfa - Racine, La corniche - Ziraoui"
+      "location": "Cabinet dentaire Dr Meriem Aboud, imm Adam Plaza, 48 Rue Yougoslavie, Marrakech 40000"
     },
     {
-      "name": "Dr Karim Mamdouhe",
-      "phone": "05222-75574",
-      "website": "https://www.hesyresmile.com",
+      "name": "Centre Dentaire Gueliz- Marrakech.",
+      "phone": "05244-32987",
+      "website": "https://www.mondentiste.ma",
       "emails": [
-        "contact@hesyresmile.com",
-        "info@mysite.com"
+        "contact@mondentiste.ma"
       ],
-      "location": "5è Etage, Dr Karim Mamdouhe, 320 Bd Mohammed Zerktouni, Casablanca 20050"
+      "location": "Centre Dentaire Gueliz- Marrakech., 220 Av. Mohammed V, Marrakech 40000, Morocco"
     },
     {
-      "name": "Dr Benkirane Amine - Chirurgien dentiste à Casablanca",
-      "phone": "05222-74498",
-      "website": "",
-      "emails": [],
-      "location": "2ème étage, Dr Benkirane Amine - Chirurgien dentiste à Casablanca, 127 Bd d'Anfa, Casablanca 20100"
-    },
-    {
-      "name": "Centre Dentaire Gauthier",
-      "phone": "05229-40404",
-      "website": "",
-      "emails": [],
-      "location": "Centre Dentaire Gauthier, 4 rue Badr Assayab, Angle Moussa Ibn Noussair, Casablanca 20600"
-    },
-    {
-      "name": "Docteur Zouba Abdessamad Chirurgien Dentiste ; Orthodontiste",
-      "phone": "05223-21132",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dr. BENBRAHIM Anass",
-      "phone": "05225-81941",
-      "website": "",
-      "emails": [],
-      "location": "Cabinet Dr. BENBRAHIM Anass, Gh 19 .Imm 154 Appt 4 Cité d'Almostakbal, Sidimaârouf, Casablanca 20280"
-    },
-    {
-      "name": "Docteur Omar Khalid (white smile dental center)",
-      "phone": "05225-81976",
-      "website": "https://dentistesidimaarouf.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire Adarissa / Docteur Ambari Mouna",
-      "phone": "0663-446800",
-      "website": "https://centredentaireadarissa.ma",
+      "name": "Cabinet dentaire Dr Soukaina El Matoui chirurgien dentiste tanger",
+      "phone": "05393-15116",
+      "website": "https://drbadrour.ma",
       "emails": [
-        "contact@adarissadentaire.ma"
+        "info@drbadrour.ma"
       ],
-      "location": "numéro 1, Centre Dentaire Al adarissa Sidi moumen, Bd Al Adarissa, Casablanca 20402"
+      "location": "1er étage, près du rond-point Trial Atlas, 6 Av. des Lauriers, Tanger 90000"
     },
     {
-      "name": "Oralya Dental Clinic | Cabinet dentaire Casablanca",
-      "phone": "0666-753133",
-      "website": "https://www.drabbassikamal.ma",
+      "name": "Centre dentaire la résistance",
+      "phone": "0531-149840",
+      "website": "",
+      "emails": [],
+      "location": "1ére étage, app.2, 72 immeuble FARAJ, Avenue de la Résistance"
+    },
+    {
+      "name": "Dentist orthodontiste Dr bouchikhi safaeطبيب اسنان طنجة",
+      "phone": "05393-73707",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr. kadri badr",
+      "phone": "0666-686646",
+      "website": "https://drbadrkadri.com",
       "emails": [
-        "contact@drabbassikamal.ma"
+        "drkadribadr@gmail.com"
       ],
-      "location": "Résidence Zeroual, Rue Ibnou Jahir, Av. TanTan, Casablanca 20050"
+      "location": "maroc"
     },
     {
-      "name": "Dr Touijar Rachid",
-      "phone": "05229-09835",
+      "name": "Docteur Chirurgien Dentiste Tarik Ahmed (Cabinet)",
+      "phone": "05359-40100",
       "website": "",
       "emails": [],
-      "location": "Dr Touijar Rachid, Angle Bd Sidi ABDERRAHMANE, Bd Abdelhadi Boutaleb, Casablanca 20230"
+      "location": "maroc"
     },
     {
-      "name": "Imane serhhini",
-      "phone": "05228-94200",
+      "name": "Dr Saad Debbagh Orthodontiste Fès",
+      "phone": "05359-60296",
+      "website": "https://debbaghdentalsmile.com",
+      "emails": [
+        "contact@debbagh-dental.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Rais : Dr Rais Samir - Dr Rais Yassine - Dr Sebti Zakia -Dr Rais Kamar",
+      "phone": "",
       "website": "",
       "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Chirurgien dentaire à la mutuelle d'ODEP",
-      "phone": "05229-30103",
+      "name": "Cabinet Dentaire Dr. Taibi",
+      "phone": "0668-621724",
       "website": "",
       "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Benhammou Mohammadi (Dentiste)",
-      "phone": "05229-01604",
+      "name": "Dental Center Meknès - Dr El Alami Abdellatif",
+      "phone": "05355-02344",
       "website": "",
       "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Cabinet Dr. Faysal Mouak",
-      "phone": "05228-91976",
+      "name": "Cabinet Dentaire Dr. Yassir Houari",
+      "phone": "05355-24585",
       "website": "",
       "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Centre dentaire Dr.Fdil Kawtar- dentiste casablanca",
-      "phone": "0662-201427",
-      "website": "https://fdildentalcenter.com",
-      "emails": [],
-      "location": "B9, étage 2, Apprt 14, 285 Bd Brahim Roudani"
-    },
-    {
-      "name": "Centre Dentaire BARDAG – Abdelmoumen – Dr Bardag Yazid – Implantologie – Esthétique Dentaire",
-      "phone": "0520-771321",
-      "website": "https://centredentairebardag.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Beriah Fathi",
-      "phone": "05224-00065",
+      "name": "Dentiste chirurgien Anouar saoud",
+      "phone": "05355-54985",
       "website": "",
       "emails": [],
-      "location": "casablanca"
+      "location": "premier étage, 72, Dentiste chirurgien Anouar saoud, Meknès"
     },
     {
-      "name": "Benabderrazik Youssef",
-      "phone": "05222-48584",
+      "name": "Centre dentaire Dr.Imad Debbarh",
+      "phone": "0532-646151",
       "website": "",
       "emails": [],
-      "location": "Benabderrazik Youssef, 80, Rue De Sijilmassa, 1"
+      "location": "maroc"
+    },
+    {
+      "name": "Dr. LISS Smile Studio | Réhabilitation & Esthétique du sourire | Agadir",
+      "phone": "05288-40436",
+      "website": "https://drliss.com/reservation",
+      "emails": [],
+      "location": "2ème Étage, Suite 204, Imm. Sinwan, Agadir 80000"
+    },
+    {
+      "name": "Cabinet dentaire Oulhous leila - soins dentaires - dentiste agadir - blanchiment - implantologie",
+      "phone": "05288-41366",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr. HAFIDI Sultana",
+      "phone": "05288-28182",
+      "website": "",
+      "emails": [],
+      "location": "2eme étage, Immeuble Igoudar, 19 Av. Des Forces Armees Royales, Agadir 80000"
+    },
+    {
+      "name": "Dr.FAIQ RAJA - Centre Dentaire",
+      "phone": "05288-42667",
+      "website": "http://drfaiqraja.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr.Hassan Seddiki Spécialiste en Orthopédie Dento-Facial et Orthodontie",
+      "phone": "05288-44243",
+      "website": "",
+      "emails": [],
+      "location": "Tafarnout, N 26,Av Hassan2 Imm Tigouramin eau dessus Café, Agadir 80000"
+    },
+    {
+      "name": "Centre Dentaire Dr. El Houcine Ayyadi Chirurgien Dentiste Spécialisé en Dentisterie ésthétique & implantologie",
+      "phone": "05365-12952",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Docteur Orthodontiste Lamjoun Abderrahim (Cabinet)",
+      "phone": "05367-12293",
+      "website": "",
+      "emails": [],
+      "location": "café Le Flore, Résdence Al Mourabitine, Angle Bd Idriss Al Akbar et rue Arrazi 3ème étage au-dessus de, Oujda 60000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Chirurgien Dentiste Noura Et-taouil",
+      "phone": "05365-14643",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet Dentaire Dr. Chirurgien Dentiste Noura Et-taouil, 4 Rue B1 Hay El Jouhara, Oujda, Oujda 60000"
+    },
+    {
+      "name": "Cabinet Dr BEKKALI chirurgien dentiste",
+      "phone": "0672-798780",
+      "website": "",
+      "emails": [],
+      "location": "étage 02 appt 02, Cabinet Dr BEKKALI chirurgien dentiste, 05 Av Méditerranée, Martil"
+    },
+    {
+      "name": "Dr. Riahi Iman. Médecine générale et esthétique",
+      "phone": "05399-79996",
+      "website": "",
+      "emails": [],
+      "location": "N, Rez-de-chaussée, 175 Av. Moulay Rachid, Martil"
+    },
+    {
+      "name": "Clinique dentaire Moqadem Hafça Hollywood smile, Implant, prothèse, Facette, Blanchiment urgence dentaire, dentiste Marrakech",
+      "phone": "05222-56176",
+      "website": "https://esthetiquedentairemarrakech.com",
+      "emails": [],
+      "location": "69, LOT ALMASSAR, Rte de Safi, Marrakech 40100"
+    },
+    {
+      "name": "Martil",
+      "phone": "",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Ali Laamarti",
+      "phone": "05397-18300",
+      "website": "",
+      "emails": [],
+      "location": "Avenue Mohamed Daoud, residence Daoud, App 1, Tetouan 39000"
+    },
+    {
+      "name": "Cabinet Dentaire et médecine esthétique Safir",
+      "phone": "05399-99955",
+      "website": "",
+      "emails": [],
+      "location": "Entre-Etage, Cabinet Dentaire et médecine esthétique Safir, Résidence Jawhara, N"
+    },
+    {
+      "name": "Docteur Jebbor Lahcen Chirurgien Dentiste (Cabinet)",
+      "phone": "05397-03309",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Laboratoire de prothese dentaire",
+      "phone": "05222-56176",
+      "website": "https://esthetiquedentairemarrakech.com",
+      "emails": [],
+      "location": "2éme étage, Madani Plaza, 180 Bd Abdelkrim Al Khattabi, Marrakech 40000"
+    },
+    {
+      "name": "Cabinet Dentaire Multidisciplinaire Dr. Abdelmalek Lahlali Chirurgien Dentiste",
+      "phone": "05356-72322",
+      "website": "",
+      "emails": [],
+      "location": "98, Rue De Fès, Taza-Bas, Taza"
+    },
+    {
+      "name": "Cabinet dentaire Dr.Aoutnil El Idrissi Ilias",
+      "phone": "0530-044466",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire La Ville Haute - Dr. ALAOUI ILHAM",
+      "phone": "0530-303338",
+      "website": "",
+      "emails": [],
+      "location": "Bureau 01, Résidence Nachat 1, 34 Rue Hamman el Fatouki, Kénitra 14020"
+    },
+    {
+      "name": "Cabinet Dr SEGHIR Anass",
+      "phone": "0701-020023",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "DENTAL premium by Dr FARHI samia invisalign provider",
+      "phone": "05373-78880",
+      "website": "",
+      "emails": [],
+      "location": "DENTAL premium by Dr FARHI samia invisalign provider, Résidence Ghita, 27 Rue Ahmed Chaouki, Kénitra 14000"
+    },
+    {
+      "name": "Docteur Chirurgien Dentiste Mehdaoui Yasmina (Cabinet)",
+      "phone": "05373-76520",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Zaouri Meriem",
+      "phone": "05373-72006",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr ELHISSEN Meriam - Cabinet dentaire a Maarif",
+      "phone": "05222-51481",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Casablanca - Dr Benchekroun Salma | Dentiste Maarif",
+      "phone": "05222-01116",
+      "website": "http://benchekroundentalclinic.com",
+      "emails": [
+        "cabinetdrsalmabenchekroun@gmail.com",
+        "medizco@gmail.com"
+      ],
+      "location": "2eme étage , app4, 15 Boulevard Aïn Taoujtate, Casablanca 20040"
+    },
+    {
+      "name": "Clinique Stendhal Dentaire",
+      "phone": "05229-80198",
+      "website": "https://csdentaire.ma",
+      "emails": [
+        "dentaire@cliniquestendhal.com"
+      ],
+      "location": "maroc"
     },
     {
       "name": "Clinique Dentaire Bennani",
@@ -1490,823 +1949,927 @@
         "contact@maroc-implants.com",
         "Contact@maroc-implants.com"
       ],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Cabinet Dentaire IBNOUSSINA",
-      "phone": "05222-30012",
+      "name": "Cabinet dentaire du Dr hassani idrissi driss",
+      "phone": "05224-87569",
       "website": "",
       "emails": [],
-      "location": "1er etage, Residence Zahia, 21 Rue Socrate, Casablanca 20100"
+      "location": "21, place Louis pasteur, résidence pasteur, 4eme étage"
     },
     {
-      "name": "Centre Dentaire Espace Roudani",
-      "phone": "05222-32363",
-      "website": "https://www.e-rdv.ma/rendez-vous-avec/centre-dentaire-espace-roudani/3308433/148384.html",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire CMIM",
-      "phone": "05223-93654",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire Zerktouni Prof Said DHAIMY",
-      "phone": "0606-988988",
-      "website": "https://dentalcasablanca.com",
+      "name": "Boukhal Dental Clinic - Centre dentaire Rabat - Dentiste Rabat",
+      "phone": "0762-732882",
+      "website": "https://boukhaldentalclinic.ma",
       "emails": [
-        "zerktounidentalcenter@gmail.com"
+        "contact@boukhaldentalclinic.ma",
+        "info@boukhaldentalclinic.ma"
       ],
-      "location": "2 éme étage Appartement 4, Centre Dentaire Zerktouni Prof Said DHAIMY, 298 Bd Mohammed Zerktouni, Casablanca 20050"
+      "location": "1er Étage , 569, Hay Al Massira, Amal 5"
     },
     {
-      "name": "Alj clinic - Clinique dentaire à casablanca",
-      "phone": "05229-40404",
-      "website": "https://www.aljclinic.com",
+      "name": "centre dentaire we smile",
+      "phone": "0607-635431",
+      "website": "",
+      "emails": [],
+      "location": "1er etage appt 6, route essaouira dr iziki operation amal2 imm b, Marrakech 44000, Morocco"
+    },
+    {
+      "name": "Clinique dentaire arribat / Urgence",
+      "phone": "0762-732882",
+      "website": "https://cliniquedentairearribat.com",
       "emails": [
-        "contact@aljclinic.com",
-        "Contact@aljclinic.ma"
+        "john@doe.com"
       ],
-      "location": "casablanca"
+      "location": "ll appartement 32, 4ème étage, avenue hassan, rabat 10060"
     },
     {
-      "name": "Faculté de Médecine Dentaire de Casablanca",
-      "phone": "05222-73130",
-      "website": "https://www.fmd-uh2c.ac.ma",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dental Care Triangle d’Or ( Bourgogne )",
-      "phone": "0666-826937",
+      "name": "Cabinet dentaire (Benabdeljalil imane)",
+      "phone": "05377-75252",
       "website": "",
       "emails": [],
-      "location": "Sanaani -Ag, 13 Rue, Rue Ain El Ati, Casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Centre de soin dentaire de l'UM6SS",
-      "phone": "05290-89102",
-      "website": "",
+      "name": "URGENCE DENTAIRE MARRAKECH 24/24 7/7",
+      "phone": "0525-521152",
+      "website": "http://urgencedentairemarrakech.com",
       "emails": [],
-      "location": "casablanca"
+      "location": "imm chourouk apt 03 etage 02, Hay CHARAF , 554, Marrakech 40000"
     },
     {
-      "name": "𝗗𝗿 𝗔𝗼𝘂𝘁𝗻𝗶𝗹 𝗠𝗼𝘂𝗻𝗶𝗿 (𝗢𝗿𝘁𝗵𝗼𝗱𝗼𝗻𝘁𝗶𝘀𝘁𝗲) 𝗜𝗻𝘃𝗶𝘀𝗮𝗹𝗶𝗴𝗻-𝗗𝗮𝗺𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺-𝗕𝗮𝗴𝘂𝗲𝘀 𝗱𝗲𝗻𝘁𝗮𝗶𝗿𝗲𝘀-𝗕𝗹𝗮𝗻𝗰𝗵𝗶𝗺𝗲𝗻𝘁 𝗱𝗲𝘀 𝗱𝗲𝗻𝘁𝘀-𝗔𝗽𝗽𝗮𝗿𝗲𝗶𝗹𝘀 𝗱𝗲𝗻𝘁𝗮𝗶𝗿𝗲𝘀",
-      "phone": "0615-617171",
-      "website": "https://drmounir.net",
+      "name": "Clinique dentaire Moqadem Hafça Hollywood smile, Implant, prothèse, Facette, Blanchiment urgence dentaire, dentiste Marrakech",
+      "phone": "0525-521152",
+      "website": "https://esthetiquedentairemarrakech.com",
+      "emails": [],
+      "location": "2éme étage, Madani Plaza, 180 Bd Abdelkrim Al Khattabi, Marrakech 40000"
+    },
+    {
+      "name": "Marrakech Dental Clinic",
+      "phone": "05244-30984",
+      "website": "http://marrakechdentalclinic.com",
       "emails": [
-        "mounirdds@gmail.com",
-        "contact@drmounir.net"
+        "marrakechdentalclinic@gmail.com",
+        "mdc.casablanca@gmail.com"
       ],
-      "location": "6, Rue Oulad Tayma -Ex Suffren, Grand Casablanca, 20000"
+      "location": "maroc"
     },
     {
-      "name": "Clinique dentaire panoramic dental smile",
-      "phone": "0631-328480",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Ortho Smile Maroc - Dr Majdoub Abdelaziz",
-      "phone": "0622-016315",
-      "website": "https://orthosmile.ma",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire l’Hermitage CDH Invisalign provider",
-      "phone": "0520-665323",
-      "website": "https://centredentairehermitage.com",
+      "name": "Centre Dentaire SMILE WELL Marrakech",
+      "phone": "0628-384601",
+      "website": "https://smilewell.ma",
       "emails": [
-        "contact@centredentairehermitage.com"
+        "cdsmilewell@gmail.com"
       ],
-      "location": "casablanca"
+      "location": "2ème étage, bureau 7, Centre Dentaire SMILE WELL Marrakech, centre d"
     },
     {
-      "name": "Centre Social de Soins Dentaires",
-      "phone": "05228-62929",
+      "name": "Docteur Chirurgien Dentiste Saadi Mouad (Cabinet)",
+      "phone": "05244-57901",
       "website": "",
       "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Centre Dentaire Dr.Laslami Narjisse Orthodontiste Casablanca",
-      "phone": "05228-62322",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Docteur Anas Labzour",
-      "phone": "05222-80079",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr LAAMIRI Siham Casablanca",
-      "phone": "0767-896691",
-      "website": "",
-      "emails": [],
-      "location": "numéro 17, derb al foukara, Boulvard el fida, angle rue 1 et Rue 5"
-    },
-    {
-      "name": "Centre Dentaire Dr.Rania JAMAL",
-      "phone": "0627-273977",
-      "website": "",
-      "emails": [],
-      "location": "1er Etage Num 1, résidence sifaw, Angle 2 Mars et rue 30 -derb Fokara 283, Casablanca 20550"
-    },
-    {
-      "name": "Centre Dentaire Almoustakbal",
-      "phone": "05227-80054",
-      "website": "",
-      "emails": [],
-      "location": "IMM 283,APPT 6, GH32, Casablanca"
-    },
-    {
-      "name": "clinique dentaire le pôle",
-      "phone": "05229-75801",
-      "website": "https://cliniquedentairelepole.ma",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Dr. Hind Dakir",
-      "phone": "05229-73212",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire Dental Eden",
-      "phone": "05229-35993",
-      "website": "",
-      "emails": [],
-      "location": "2e étage, Avenue Abou Bakr el Kadiri Résidence Naïm 6, appt 4, Casablanca 20520"
-    },
-    {
-      "name": "Cabinet Dentaire Dr Aksar Khadija",
-      "phone": "05226-16717",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire youssef chraibi",
-      "phone": "05226-01071",
-      "website": "",
-      "emails": [],
-      "location": "1er etage, Cabinet dentaire youssef chraibi, 6 Bd la grande ceinture lot Nadia, Casablanca 20000"
-    },
-    {
-      "name": "Centre Dentaire La Villette Dr Meriem IGNANE",
-      "phone": "05226-26102",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr. Fouad Bousfiha",
-      "phone": "05226-21816",
-      "website": "",
-      "emails": [],
-      "location": "Dr. Fouad Bousfiha, 7, Bd. Chouhada, 1"
-    },
-    {
-      "name": "Centre Dentaire ZARDKHANE",
-      "phone": "0675-573315",
-      "website": "",
-      "emails": [],
-      "location": "etg 1, Centre Dentaire ZARDKHANE, N154 bd chouhada, Casablanca 20000"
-    },
-    {
-      "name": "Bensaid Imane (Dentiste)",
-      "phone": "05226-21765",
-      "website": "",
-      "emails": [],
-      "location": "200, Bd. Chouhada, Bloc 5, 20560 Quartier"
-    },
-    {
-      "name": "CENTRE DENTAIRE BENNANI- RB DENTAL",
-      "phone": "05226-01682",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire AZZOUZI",
-      "phone": "05226-03036",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire Elfaid",
-      "phone": "05226-04112",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Elkadri Mustapha (Dentiste)",
-      "phone": "05226-12527",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Docteur Asri Taïeb (Chirurgien Dentiste)",
-      "phone": "05226-04118",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Elkinani Benmedian Souâd (Dentiste)",
-      "phone": "05226-19851",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire Dr. CHIBRAOUI",
-      "phone": "0764-377835",
-      "website": "",
-      "emails": [],
-      "location": "Centre Dentaire Dr. CHIBRAOUI, Bloc 106, N 101 La Grande Ceinture Koudia, Casablanca"
-    },
-    {
-      "name": "Chaoui Souad (Dentiste)",
-      "phone": "05226-23463",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Azimdentalclinic",
-      "phone": "05226-19095",
-      "website": "",
-      "emails": [],
-      "location": "Azimdentalclinic, Bureau 105. J1 office center. Angle Bd Moulay Ismail et, Av. Pommier, Casablanca 20290"
-    },
-    {
-      "name": "Bendourou Kamal",
-      "phone": "05226-23463",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "مصحة الأسنان شكور سناء، الحي المحمدي.",
-      "phone": "05226-05870",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dahani Saïd (Dentiste)",
-      "phone": "05226-36491",
-      "website": "",
-      "emails": [],
-      "location": "Etg 1 Appt 1, 4 Bd du Fouarat, rue26, Casablanca 20670"
-    },
-    {
-      "name": "Cabinet Dentaire Bassma",
-      "phone": "05224-08734",
-      "website": "",
-      "emails": [],
-      "location": "1er étage, appartement 4, 55 Bd Ba Hmad, Casablanca 20250"
-    },
-    {
-      "name": "Oracare Dental Clinic (Dr. Lahmamssi)",
-      "phone": "05229-90430",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet dentaire Dr Salma EL FADIL",
-      "phone": "0660-219460",
-      "website": "",
-      "emails": [],
-      "location": "A. Appt16, résidence Nasr, Bd de Khouribga, Casablanca 20250"
-    },
-    {
-      "name": "Dr ELHISSEN Meriam - Cabinet dentaire a Maarif",
-      "phone": "0663-446800",
-      "website": "https://centredentaire-afifi.com",
+      "name": "Clinique Dentaire Alkamar - Urgence Dentaire Marrakech | 24h/24 7j/7 | Dentiste en urgence - Soins Dentaires Immédiats",
+      "phone": "0664-600026",
+      "website": "https://dentairealkamar.com",
       "emails": [
-        "contact@centredentaire-afifi.com"
+        "contact@alkamarclinic.com"
       ],
-      "location": "30, Rue Du Marché, Maarif, 3 Résidence BenSaid"
+      "location": "N 42, Al Bek, Rue Rouda, Marrakesh 40000"
     },
     {
-      "name": "Centre Dentaire Abdelmoumen",
-      "phone": "05228-63700",
-      "website": "https://cda.ma",
-      "emails": [
-        "Contact@cda.ma"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire Dr. Ibtissem Belaziz - Maarif Casablanca",
-      "phone": "0660-353020",
-      "website": "https://centredentairebelaziz.com",
-      "emails": [
-        "Dribtissembelaziz@gmail.com"
-      ],
-      "location": "etg 2, espace Massena, 59 Rue Aziz BELLAL, Casablanca 20330"
-    },
-    {
-      "name": "Dental Studio Valfleuri, Casablanca Maarif.",
-      "phone": "0600-612299",
-      "website": "https://dentalstudiovalfleuri.com",
-      "emails": [],
-      "location": "Rue Bachir Laalej, Quartier Valfleuri, Résidence Les iris, appartement2"
-    },
-    {
-      "name": "Centre Dentaire ODEP/ MarsaMaroc",
-      "phone": "05229-49173",
+      "name": "Dr. Lhadbi Lalla Hassania Dentiste Tanger",
+      "phone": "0699-428083",
       "website": "",
       "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Docteur Tazi Bouchra-Romandie-Bir anzarane -Casablanca- Implants-Chirurgie- Prothèse -Esthétique",
-      "phone": "05223-99899",
-      "website": "https://mondentiste.ma/bouchra-tazi-1665.htm",
-      "emails": [
-        "contact@mondentiste.ma",
-        "tazi_bouchra@hotmail.com"
-      ],
-      "location": "Romandie 2, tour 2, Appartement 2 Rez de chaussée, Biranzaran"
-    },
-    {
-      "name": "Cabinet d'Orthodontie et d'Esthétique dentaire | Dr. NAJI",
-      "phone": "05229-49000",
-      "website": "https://www.cabinetortho.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire le M smile",
-      "phone": "05223-44434",
-      "website": "https://msmiledentalcentercasa.com/rdv-mouad-assakkach",
-      "emails": [],
-      "location": "appt 18 4éme étage, residence robert, Bd Chefchaouni, Casablanca 20450"
-    },
-    {
-      "name": "Dr Farhat Habib",
-      "phone": "05229-87601",
-      "website": "https://www.ksdental.ma",
-      "emails": [
-        "ksdental2024@gmail.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Benslimane Siham Cabinet Dentaire Prosmile (Dentiste)",
-      "phone": "05223-50507",
-      "website": "http://prosmile.ma",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Amor Soumia (Dentiste)",
-      "phone": "05222-62002",
-      "website": "https://www.mondentiste.ma",
-      "emails": [
-        "contact@mondentiste.ma"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire Gauthier",
-      "phone": "0694-437195",
-      "website": "",
-      "emails": [],
-      "location": "Centre Dentaire Gauthier, 4 rue Badr Assayab, Angle Moussa Ibn Noussair, Casablanca 20600"
-    },
-    {
-      "name": "Dr Benmerzouq Ghita",
-      "phone": "05222-86004",
-      "website": "",
-      "emails": [],
-      "location": "Dr Benmerzouq Ghita, 225, Bd El Fida, 20550 Quartier"
-    },
-    {
-      "name": "Centre Dentaire, Dr Benjelloun Saad, El Fida.",
-      "phone": "0520-085757",
-      "website": "",
-      "emails": [],
-      "location": "Centre Dentaire, Dr Benjelloun Saad, El Fida., El Foukara"
-    },
-    {
-      "name": "Centre Dentaire Oulgid Abderrahim",
-      "phone": "05228-21937",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr BENDAMOU Hind",
-      "phone": "05228-21496",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire Dr DANNOUN Hanane",
-      "phone": "05228-06028",
-      "website": "",
-      "emails": [],
-      "location": "numéro 112, Derb el foukara, Rue 5, Casablanca 20550"
-    },
-    {
-      "name": "Centre Dentaire Family Smile - Dr Oussama El Kacemi",
-      "phone": "05222-80028",
-      "website": "",
-      "emails": [],
-      "location": "Hay Drissia, Rés. Rama Business, Bd Abou Chouaib Doukkali, Casablanca"
-    },
-    {
-      "name": "Lambara Fatiha",
-      "phone": "05229-33656",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Masloumi Lamia",
-      "phone": "",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Benali Najat (Dentiste)",
-      "phone": "0662-123707",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Clinic Dr. Hamid Faten Dental",
-      "phone": "05229-02292",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre dentaire debbarh - Dr debbarh kenza -مركز الدباغ لطب الأسنان",
-      "phone": "0677-781014",
-      "website": "",
-      "emails": [],
-      "location": "1er étage, immeuble chifae, Sidi maarouf lotissement nabil, Casablanca 20280"
-    },
-    {
-      "name": "Centre Dentaire Dr. Bouayad Hajar - مركز طب الاسنان، الدكتورة بوعياد هاجر",
-      "phone": "0520-933959",
-      "website": "",
-      "emails": [],
-      "location": "Immeuble A1, Appartement 14 1er étage, Résidence Mawlid 11, Casablanca 20280"
-    },
-    {
-      "name": "Centre Dentaire Fatih DentalCare",
-      "phone": "0764-886789",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Docteur Nouzha Ouaziz",
-      "phone": "05229-89882",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Bennani Hanae (Dentiste)",
-      "phone": "05229-82388",
-      "website": "https://centredentairedrhanaebennani.com",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Bengelloun Touria",
-      "phone": "05229-80807",
-      "website": "",
-      "emails": [],
-      "location": "Dr Bengelloun Touria, Clinique dentaire, 12 boulevard mohamed abdou quartier palmiers, Casablanca 20100"
-    },
-    {
-      "name": "Cabinet dentaire Dr Benjelloun Sofia",
-      "phone": "05229-88020",
-      "website": "",
-      "emails": [],
-      "location": "Cabinet dentaire Dr Benjelloun Sofia, C32 rue Abbas, ibnou farnass, Casablanca 20103"
-    },
-    {
-      "name": "Service des Urgences Dentaires",
-      "phone": "05224-85050",
-      "website": "",
-      "emails": [],
-      "location": "3ème étage, Hay As salam, Residence EL Wifaque, 268 Bd Yacoub El Mansour"
+      "location": "maroc"
     },
     {
       "name": "Clinique Dentaire Internationale Casablanca",
       "phone": "05228-25151",
       "website": "https://www.dentaire-maroc.com",
       "emails": [],
-      "location": "casablanca"
+      "location": "International dental clinic tangier, Av. Imam Ibn Taymya, Tangier 90060, Morocco"
     },
     {
-      "name": "DENTISTE DE GARDE CASABLANCA - URGENCES DENTAIRES - OUVERT 24/24 7/7 - Week end et jours fériés",
-      "phone": "0606-919195",
+      "name": "Clinique Dentaire Elite",
+      "phone": "05393-25596",
       "website": "",
       "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "CENTRE DENTAIRE SMILES & BEYOND ( Dr. Baji Oussama )- Dentiste Abdelmoumen - Facettes dentaires - Implant - Invisalign",
-      "phone": "0520-191963",
-      "website": "https://www.dabadoc.com/ma/dentiste/casablanca/oussama-baji",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire Hsaine",
-      "phone": "05229-91317",
+      "name": "CLINIC DENTAIRE NIETO",
+      "phone": "0707-021134",
       "website": "",
       "emails": [],
-      "location": "Centre Dentaire Hsaine, 10 rue Zaid Ibn Rifaa, Quartier Maarif, Casablanca 20000"
+      "location": "1ER ETAGE, RESIDENCE AL FERDAOUS, N4 Av. Marrakech, Tanger 90000"
     },
     {
-      "name": "Dr Zarkik Meriem ( CENTRE DENTAIRE ANOUAL)",
+      "name": "Esthetica Polyclinique Medico",
+      "phone": "05393-00230",
+      "website": "http://esthetica-pmd.com",
+      "emails": [
+        "esthetica.tanger@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "CLINIQUE DENTAIRE TINGIS Dr. Benchekroun",
+      "phone": "05393-25325",
+      "website": "http://cliniquedentairetingis.com",
+      "emails": [
+        "cliniquedentaire2013@gmail.com",
+        "cliniquedentaire2013@gmail.Com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Younes EL FATIHI – Dentiste à Tanger | Chirurgien-Dentiste & Soins Dentaires",
+      "phone": "05399-46574",
+      "website": "https://cabinetdryouneselfatihi.com",
+      "emails": [
+        "contact@cabinetdryouneselfatihi.com"
+      ],
+      "location": "Appt 42 , 3éme étage, Nejma, résidence Lina"
+    },
+    {
+      "name": "Dentiste Tanger|Cabinet dentaire Dentego-Dr.Khayyati Ouiam",
+      "phone": "05399-46953",
+      "website": "",
+      "emails": [],
+      "location": "Amine Office Center, ètage 2 Rue Ibn Okail, Tangier 90060, Morocco"
+    },
+    {
+      "name": "Dr SERGHINI Louay Dentiste Fès, Centre Dentaire la Fontaine",
+      "phone": "05357-61878",
+      "website": "http://centredentairefes.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique dentaire Cartier",
+      "phone": "0532-065565",
+      "website": "",
+      "emails": [],
+      "location": "Clinique dentaire Cartier, côté du cafe Lost, Bd Allal ben abdallah residence el youbia 5 eme étage à, Fes"
+    },
+    {
+      "name": "Clinique Dentaire Achchak",
+      "phone": "05356-51068",
+      "website": "",
+      "emails": [],
+      "location": "Clinique Dentaire Achchak, 26, Rue Abessalem Serghini, Fès"
+    },
+    {
+      "name": "Centre Dentaire Abdellaoui dr Abdellaoui Salmane El Khair",
+      "phone": "0660-456444",
+      "website": "",
+      "emails": [],
+      "location": "Appartement 2, Lot Soufiane 117, Boulevard IKAMAT CHAIMAA, 1 er ETAGE"
+    },
+    {
+      "name": "Centre Dentaire Agdal Smile Rabat - Professeur Berrada Fathi Idriss",
+      "phone": "05376-82468",
+      "website": "https://orthodontiste-rabat.com",
+      "emails": [
+        "cda.dentiste.rabat@gmail.com",
+        "contact@centre-dentaire-agdal.com"
+      ],
+      "location": "3eme étage, appartement, 59 Av. Fal Ould Oumeir, Rabat"
+    },
+    {
+      "name": "Centre Dentaire Benslimane",
+      "phone": "05356-24287",
+      "website": "https://dentistefes.com",
+      "emails": [],
+      "location": "4ème Etage, sur la devanture du café Paul, Espace officex, Immeuble Café Maison H"
+    },
+    {
+      "name": "Dental center meknes مركز طب الأسنان",
+      "phone": "05355-02344",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Mutualiste Forces Des Auxiliaires Meknès",
+      "phone": "05355-23902",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "The One Dental Clinic",
+      "phone": "05355-23818",
+      "website": "",
+      "emails": [],
+      "location": "V.N, villa N 8, Hay ennasser rue 15, Meknès 50000"
+    },
+    {
+      "name": "Clinique Dentaire D'Agadir",
+      "phone": "05288-48866",
+      "website": "https://dentiste-agadir.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique Dentaire Internationale Agadir",
+      "phone": "05282-17504",
+      "website": "https://cdia.ma",
+      "emails": [
+        "cdi.agadr@gmail.com"
+      ],
+      "location": "Clinique Dentaire Internationale Agadir, En Face du Complexe Culturel Jamal Addorra, Bd 11 Janvier, Agadir 80000"
+    },
+    {
+      "name": "Centre Dentaire Pierre Fauchard (Dr.Mounir YOUSSOUFINE)",
+      "phone": "05288-20910",
+      "website": "https://www.pierrefauchard.ma",
+      "emails": [
+        "contact@pierrefauchard.ma"
+      ],
+      "location": "2ème étage - App.27, Sonaba, Cité Founty, Immeuble Agadir Office Center"
+    },
+    {
+      "name": "Centre Dentaire Lina",
+      "phone": "05288-42711",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire OUSAID مركز طب الاسنان أوسعيد",
+      "phone": "",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr ACHACH Safae",
+      "phone": "05366-82605",
+      "website": "https://docachach.com",
+      "emails": [
+        "info@docachach.com"
+      ],
+      "location": "N 12, immeuble saidi, Rue Jakarta, Oujda 60000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Oussama Benali Chirurgien Dentiste",
+      "phone": "05366-83032",
+      "website": "",
+      "emails": [],
+      "location": "appt 10, Cabinet Dentaire Dr. Oussama Benali Chirurgien Dentiste, Residence Rania, 4 Rue Ibn Rochd"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Adel Berrissoul Chirurgien Dentiste",
+      "phone": "05367-02214",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet Dentaire Dr. Adel Berrissoul Chirurgien Dentiste, 4 Boulevard Lakhdar Ghilane, Oujda, Oujda 60000"
+    },
+    {
+      "name": "Cabinet Dentaire Spécialisé Dr. Akram Lefrarni Chirurgien Dentiste",
+      "phone": "05366-88939",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Benziane Ihsane, Dr.Benziane Imane",
+      "phone": "05399-95769",
+      "website": "",
+      "emails": [],
+      "location": "apprt 1, Résidence Essekka1, Av. des FAR, Tétouan 93000"
+    },
+    {
+      "name": "CENTRE DENTAIRE - Dr Boudour El Bakkali",
+      "phone": "05397-11098",
+      "website": "",
+      "emails": [],
+      "location": "Immeuble 10, étage 1, num, 3 Av. Moulay Abdesalam"
+    },
+    {
+      "name": "Cabinet Dentaire Dr.Ahmed El Harrak",
+      "phone": "0531-166730",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Wilaya Dental Clinic (DR MOUDDEN Ahmed)",
+      "phone": "05397-26711",
+      "website": "https://wilayadentalclinic.com",
+      "emails": [
+        "contact@wilayadentalclinic.com"
+      ],
+      "location": "E7, Avenue des FAR, residence Dar Essalam, Tétouan 93000"
+    },
+    {
+      "name": "Cabinet dentaire Dr Cheikh Fatima",
+      "phone": "05397-03476",
+      "website": "",
+      "emails": [],
+      "location": "appt 4, Cabinet dentaire Dr Cheikh Fatima, 16 Av. El Ouahda, Tétouan"
+    },
+    {
+      "name": "DDC Dellero Dental clinic",
+      "phone": "05399-93725",
+      "website": "https://ddcdentalclinic.com",
+      "emails": [
+        "info@ddcdentalclinic.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre dentaire Bakraoui",
+      "phone": "05399-62362",
+      "website": "https://www.centre-dentaire-bakraoui.com",
+      "emails": [],
+      "location": "bâtiment 5, Centre dentaire Bakraoui, Rue Allal Ben Abdellah, Tétouan 93000"
+    },
+    {
+      "name": "دكتور بن يعيش سعيد - طبيب أسنان",
+      "phone": "05399-60181",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Youssef Oulad Ram",
+      "phone": "05397-15391",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Docteur Chirurgien Dentiste Rouahi Hassan (Cabinet)",
+      "phone": "05397-12191",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "El kadaoui Nisrine (Dentiste)",
+      "phone": "05399-62895",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr Bouchikhi Fatima Ezzahrae (Dentiste Kenitra)",
+      "phone": "0530-214466",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "ZR Dental Clinic",
+      "phone": "0530-444448",
+      "website": "",
+      "emails": [],
+      "location": "ZR Dental Clinic, 14000 Avenue Imam Ali, immeuble 175 bureau N 1, Kénitra"
+    },
+    {
+      "name": "Centre Dentaire Ouled Oujih",
+      "phone": "0771-646566",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr. Ibrahim El ouali chirurgien dentiste à Kénitra",
+      "phone": "0530-848484",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Abouakil - Dentiste Casablanca Oulfa",
       "phone": "0520-845474",
-      "website": "",
-      "emails": [],
-      "location": "N 6 2 éme etage plateau N 9, 2JI Office, Avenue Mohamed Taieb Naciri, Casablanca 20220"
-    },
-    {
-      "name": "𝗖𝗲𝗻𝘁𝗿𝗲 𝗗𝗲𝗻𝘁𝗮𝗶𝗿𝗲 𝗖𝗔𝗟𝗜 𝗦𝗠𝗜𝗟𝗘 -𝗗𝗲𝗻𝘁𝗶𝘀𝘁𝗲𝘀 𝗖𝗮𝘀𝗮𝗯𝗹𝗮𝗻𝗰𝗮 -𝗖𝗮𝗹𝗶𝗳𝗼𝗿𝗻𝗶𝗲-𝗕𝘆 𝗗𝗿 𝗕𝗮𝗱𝗿 𝗦𝗮𝗹𝗵𝗶-𝗨𝗿𝗴𝗲𝗻𝗰𝗲 𝗗𝗲𝗻𝘁𝗮𝗶𝗿𝗲-𝗶𝗺𝗽𝗹𝗮𝗻𝘁𝗼𝗹𝗼𝗴𝗶𝗲-𝗢𝗿𝘁𝗵𝗼𝗱𝗼𝗻𝘁𝗶𝗲-,",
-      "phone": "0651-515456",
-      "website": "https://calismile-casablanca.com",
-      "emails": [],
-      "location": "Rés.Smart Business Center NR 47 Jnane Californie Bd Haifa Etg 1 à Californie et à proxilité de sidi maarouf , Bd alqods , Ain chock Bouskoura, Casablanca 20153"
-    },
-    {
-      "name": "Centre Dentaire Oxford Casablanca | Implant Dentaire, Facette , Blanchiment | Orthodontiste Casablanca",
-      "phone": "05223-61196",
-      "website": "https://centredentaireoxford.ma",
+      "website": "https://drabouakilchaimae.com",
       "emails": [
-        "info@mediax.com",
-        "contact@centredentaireoxford.ma"
+        "chaimaeabouakil@gmail.com"
       ],
-      "location": "casablanca"
+      "location": "N 6 2 éme etage plateau N 9, 2JI Office, Ave Mohamed Taieb Naciri, Casablanca 20220"
     },
     {
-      "name": "SWISS DENTAL CLINIC MOROCCO - CLINIQUE DENTAIRE SUISSE",
-      "phone": "05229-96775",
-      "website": "https://swissdentalclinic.ma",
-      "emails": [
-        "contact.swissdentalclinic@gmail.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Clinique Longchamps Casablanca",
-      "phone": "05229-79494",
-      "website": "https://cliniquelongchamps.ma",
-      "emails": [
-        "infotech@prohealth.com",
-        "example@email.com",
-        "direction@cliniquelongchamps.ma"
-      ],
-      "location": "Clinique Longchamps Casablanca, 4 Boulevard ghandi, Bd Ghandi, Casablanca 20250"
-    },
-    {
-      "name": "Clinique dentaire Vitalya à Casablanca",
-      "phone": "05229-15811",
-      "website": "",
-      "emails": [],
-      "location": "appt 3, Cité des Jeunes, 1 rue Jbel Saghrou, Casablanca 20250"
-    },
-    {
-      "name": "Cabinet Dentaire Rim Ghellab",
-      "phone": "05223-60190",
-      "website": "https://dr-rimghellab.com",
-      "emails": [
-        "rim.ghellab@gmail.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr Bennani Dounia",
-      "phone": "05222-24788",
-      "website": "",
-      "emails": [],
-      "location": "Dr Bennani Dounia, 7, Rue Taoufik El Hakim -Ex Constantine, Casablanca 20100"
-    },
-    {
-      "name": "DR. ABASSI CHRAIBI CHAKIB",
-      "phone": "05224-92611",
-      "website": "",
-      "emails": [],
-      "location": "Ex- Rosiers, 7 rue Moutanabi, Bd Moulay Youssef, Casablanca 20060"
-    },
-    {
-      "name": "Benchimol Alain (Dentiste)",
-      "phone": "05222-72753",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr BERRADA Mouhsine - Centre Dentaire Berrada",
-      "phone": "0672-400405",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Driss Drissi Touzani",
-      "phone": "05222-02824",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Berrada Lamia",
-      "phone": "05224-76410",
-      "website": "",
-      "emails": [],
-      "location": "Berrada Lamia, Place Bel Air, Rue Abou Adil Allaf, Casablanca 20100"
-    },
-    {
-      "name": "Dentiste Jaafar Mouhyi",
-      "phone": "05223-64333",
-      "website": "",
-      "emails": [],
-      "location": "Dentiste Jaafar Mouhyi, Bd. Abou Al Waqt, Residence Ar-Rajaa Imm G7 - Bourgogne, Casablanca 20000"
-    },
-    {
-      "name": "dentiste Casablanca maarif Dr Wiaam Sbihi - Orthodontie - Esthétique dentaire - Bd Zerktouni- Maarif-Casablanca",
-      "phone": "0520-555999",
-      "website": "https://casablanca-dentiste.com/prendre-un-rendez-vous",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Clinique dentaire Casablanca - Zenith Dentistry Center | Dentiste Sidi Maarouf | Orthodontiste | Implant dentaire",
-      "phone": "0520-506160",
-      "website": "http://zenithdentaire.com",
-      "emails": [
-        "contact@zenithdentaire.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "Dr TALHAOUI Mohamed Amine Centre Dentaire Sidi Maarouf Nassim",
-      "phone": "05228-98052",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Conseil Régional Sud Ordre des Médecins Dentistes Maroc",
-      "phone": "05223-01201",
-      "website": "http://crsoft.ma",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Medico-Dentaire Dakir",
-      "phone": "05228-31269",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre De Consultation Et De Traitement Dentaire Ibn Rochd",
-      "phone": "05224-85050",
-      "website": "",
-      "emails": [],
-      "location": "Centre De Consultation Et De Traitement Dentaire Ibn Rochd, Rue Abou Al Alaa Zahar, Quartier des Hôpitaux, Casablanca"
-    },
-    {
-      "name": "Docteur Chirurgien Dentiste Saden Aicha (Cabinet)",
-      "phone": "05228-33979",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Centre Dentaire ARRIAD Docteur MABROUK Idriss مركز طب و جراحة الأسنان الرياض",
-      "phone": "05226-90410",
-      "website": "",
-      "emails": [],
-      "location": "Quartier OULFA, au dessus du Restaurant AFOOD, Alia 2, Bd Oued Addaoura"
-    },
-    {
-      "name": "Dr Imane Sif ( Sky Dental Center )",
-      "phone": "0666-753133",
-      "website": "https://www.dabadoc.com/ma/dentiste/casablanca/imane-lahlou-2",
-      "emails": [],
-      "location": "Gh9.1 appt 2, Jnane el Alia, 113 Rte Moulay Thami, Casablanca 20230"
-    },
-    {
-      "name": "Polyclinique CNSS Mere Et Enfant",
-      "phone": "05229-08363",
-      "website": "https://cnss.ma",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Docteur Joubair Mohamed",
-      "phone": "05229-01895",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Cabinet Dentaire Dr.Assafa Mourad",
-      "phone": "05229-00102",
-      "website": "http://dr-assafa-mourad.doctoclic.ma",
-      "emails": [],
-      "location": "Imm 7, Bd Oued Oum Rabie, Resid. Alferdaous Gh14, Casablanca 20100"
-    },
-    {
-      "name": "Cabinet dentaire Dr. Fennass redouane",
-      "phone": "05229-13558",
-      "website": "",
-      "emails": [],
-      "location": "casablanca"
-    },
-    {
-      "name": "Casa Anfa Smile",
-      "phone": "05229-41094",
-      "website": "https://dentistecasaanfa.ma",
-      "emails": [
-        "contact@dentistecasaanfa.ma",
-        "casaanfasmile@gmail.com"
-      ],
-      "location": "casablanca"
-    },
-    {
-      "name": "𝐂𝐚𝐛𝐢𝐧𝐞𝐭 𝐃𝐞𝐧𝐭𝐚𝐢𝐫𝐞 -𝐃𝐫 𝐋𝐚𝐢𝐥𝐚 𝐁𝐞𝐫𝐫𝐚𝐝𝐚-𝐁𝐝 𝐓𝐚𝐧𝐭𝐚𝐧 -𝐁𝐨𝐮𝐫𝐠𝐨𝐠𝐧𝐞-𝐂𝐚𝐬𝐚𝐛𝐥𝐚𝐧𝐜𝐚-𝐎𝐫𝐭𝐡𝐨𝐝𝐨𝐧𝐭𝐢𝐞- 𝐈𝐦𝐩𝐥𝐚𝐧𝐭𝐨𝐥𝐨𝐠𝐢𝐞 - 𝐞𝐧𝐝𝐨𝐝𝐨𝐧𝐭𝐢𝐞 -𝐔𝐫𝐠𝐞𝐧𝐜𝐞 𝐝𝐞𝐧𝐭𝐚𝐢𝐫𝐞",
+      "name": "Centre Dentaire Ville Verte - Les Iris",
       "phone": "0663-446800",
-      "website": "https://dr-lailaberrada.ma",
-      "emails": [
-        "info@dr-lailaberrada.ma"
-      ],
-      "location": "180 Angle Bd Sijlmassi Et Bd. Tantan-Bourgone- appt 2, Au dessus de, Little Mama et a proximité de Anfa - Racine, La corniche - Ziraoui"
+      "website": "https://dentiste-bouskoura-ville-verte.ma",
+      "emails": [],
+      "location": "Centre Dentaire Ville Verte - Les Iris, Ville Verte, Res One Hill Iris-E, Imm 15 N"
     },
     {
-      "name": "Centre Dentaire Anfa Park",
-      "phone": "0520-845474",
-      "website": "https://dentistecasaanfa.ma",
-      "emails": [
-        "contact@dentistecasaanfa.ma",
-        "casaanfasmile@gmail.com"
-      ],
-      "location": "N 6 2 éme etage plateau N 9, 2JI Office, Avenue Mohamed Taieb Naciri, Casablanca 20220"
+      "name": "Dentiste Maarif - My Smile Dental Center",
+      "phone": "05222-36437",
+      "website": "https://my-smile.ma",
+      "emails": [],
+      "location": "Angle Rue Cadi Iass et Rue Saad Bnou Zarara, Imm EL WASSIA, étg 2, n3 Au dessus de McDonald's"
     },
     {
-      "name": "Clinique Val d'Anfa",
-      "phone": "05223-68787",
+      "name": "Centre Dentaire Maarif - Docteur Wafaa MAANANI & Dr Mly Ismail AFIF -Yacoub Mansour-Casablanca",
+      "phone": "0663-446800",
+      "website": "https://www.mondentiste.ma/moulay-ismail-afif-2536.htm",
+      "emails": [
+        "contact@mondentiste.ma",
+        "moulayismailafif@gmail.com"
+      ],
+      "location": "etg 2, espace Massena, 59 Rue Aziz BELLAL, Casablanca 20330"
+    },
+    {
+      "name": "Cabinet Dentaire les Fleurs à Casablanca .Docteur Barich Meryem",
+      "phone": "05228-63931",
+      "website": "https://lesfleursdental.wixsite.com/acceuil",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Casablanca - Dr Benchekroun Salma | Dentiste Maarif",
+      "phone": "0663-449278",
+      "website": "http://benchekroundentalclinic.com",
+      "emails": [
+        "cabinetdrsalmabenchekroun@gmail.com",
+        "medizco@gmail.com"
+      ],
+      "location": "4 ème étage, Appt 8, Résidence Ghita, Boulevard Bir Anzarane"
+    },
+    {
+      "name": "Centre Dentaire Maarif - Docteur Wafaa MAANANI & Dr Mly Ismail AFIF -Yacoub Mansour-Casablanca",
+      "phone": "0663-449278",
+      "website": "https://www.mondentiste.ma/moulay-ismail-afif-2536.htm",
+      "emails": [
+        "contact@mondentiste.ma",
+        "moulayismailafif@gmail.com"
+      ],
+      "location": "etg 2, espace Massena, 59 Rue Aziz BELLAL, Casablanca 20330"
+    },
+    {
+      "name": "Clinique Dentaire Ghandi Casablanca - Maroc",
+      "phone": "05229-83333",
+      "website": "https://dentairemaroc.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire - Dr Adil Guelzim",
+      "phone": "05377-31383",
+      "website": "https://orthodontiste-rabat.com",
+      "emails": [
+        "contact@centre-dentaire-agdal.com",
+        "cda.dentiste.rabat@gmail.com"
+      ],
+      "location": "ll appartement 32, 4ème étage, avenue hassan, rabat 10060"
+    },
+    {
+      "name": "Clinique dentaire arribat / Urgence",
+      "phone": "0666-622971",
+      "website": "https://cliniquedentairearribat.com",
+      "emails": [
+        "john@doe.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Spécialisé | Orthodontie, Implantologie , esthétique du sourire| Dr BENDOURO MOHAMED KAMAL",
+      "phone": "05376-86457",
+      "website": "https://drkamalbenmansour.com",
+      "emails": [
+        "drkamalbenmansour@gmail.com",
+        "carrefourdentaire.cd@gmail.com"
+      ],
+      "location": "V.N, IMMEUBLE SEMLALI APPT SOUS SOL, AV MOHAMED 6, Taza 35000"
+    },
+    {
+      "name": "dentiste marrakech (Dr. CHAD Younes)",
+      "phone": "05244-21962",
       "website": "",
       "emails": [],
-      "location": "casablanca"
+      "location": "maroc"
     },
     {
-      "name": "Centre Dental Beauty Care Casablanca - Docteurs Asma Ouazzani Tnacheri et Younes Bennani-Maarif.",
-      "phone": "05223-63777",
-      "website": "https://dentalbc.ma",
-      "emails": [],
-      "location": "3eme etage, Centre Dental Beauty Care Casablanca - Docteurs Asma Ouazzani Tnacheri et Younes Bennani-Maarif., 231 Boulevard Bir Anzarane, Casablanca 20100"
-    },
-    {
-      "name": "مصحة جرادة الوازيس",
-      "phone": "05222-38181",
-      "website": "https://cliniquejerrada.ma",
+      "name": "Cabinet dentaire Benyaich",
+      "phone": "05244-46533",
+      "website": "https://dr-salem-benyaich.com",
       "emails": [
-        "communication@akdital.ma"
+        "cabinetdentairebenyaich@gmail.com"
       ],
-      "location": "casablanca"
+      "location": "2 , 3 eme étage app, au dessus de café la Marlette, résidence Nour"
     },
     {
-      "name": "Dr. Mohammed EL MAHIR | Implantologie & Dentisterie Esthétique Casablanca",
-      "phone": "05229-88551",
+      "name": "Centre Dentaire Benjelloun",
+      "phone": "0664-028273",
+      "website": "http://benjeloun.weebly.com",
+      "emails": [],
+      "location": "14, Avenue Sidi Amar, rue Ibn Bajja, Tangier 90000"
+    },
+    {
+      "name": "Boss dental center",
+      "phone": "0669-156002",
+      "website": "https://bossdentalcenter.com",
+      "emails": [
+        "info@yourdomain.com"
+      ],
+      "location": "B N IMM, Boss dental center, 27 Rue Tariq Bnou Ziad, Marrakech 40000"
+    },
+    {
+      "name": "Cabinet dentaire Dr. Bennani Doubli Samia",
+      "phone": "05244-49103",
+      "website": "http://marrakech-dental.com",
+      "emails": [
+        "Dr.bennanidoublisamia@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre dentaire Dar Tounsi (Dr. Walid Tadlaoui)",
+      "phone": "05399-55578",
       "website": "",
       "emails": [],
-      "location": "casablanca"
+      "location": "Appt. 4, Au-dessus Umnia Bank, 11, Lot. Nahda"
+    },
+    {
+      "name": "Cabinet Dentaire Dr Arabi Amine",
+      "phone": "05384-65583",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Docteur SQUALLI HOUSSAINI KAMAL",
+      "phone": "05356-51659",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet dentaire Docteur SQUALLI HOUSSAINI KAMAL, 1 Avenue De Palestine Immeuble Krikech Ville Nouvelle, Fes, Fès 30000"
+    },
+    {
+      "name": "Cabinet dentaire mutualiste MGEN / CNOPS",
+      "phone": "05227-24010",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, Cabinet Dentaire de La Mutuelle Générale de l'Education Nationale.CNOPS-MGEN, 524 Bd Palestine, Khouribga"
+    },
+    {
+      "name": "Centre Dentaire Chifaa Meknes-CDC",
+      "phone": "05355-16924",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr OUALI Ilham",
+      "phone": "05355-17114",
+      "website": "",
+      "emails": [],
+      "location": "Bureau 12, immeuble Atlas B, rue Houssine Ben Ali, avenue Med 5"
+    },
+    {
+      "name": "Denial Dental Center",
+      "phone": "05282-92029",
+      "website": "",
+      "emails": [],
+      "location": "402, 4e étage, Immeuble Timitar, Bd Hassan II"
+    },
+    {
+      "name": "Cabinet Dentaire Dr Wissal Qafli - Agadir",
+      "phone": "05283-83837",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr Smile Oujda",
+      "phone": "05366-88721",
+      "website": "",
+      "emails": [],
+      "location": "1 ère étage, 70 Boulevard Oum Rabia, Rue Massa, Oujda 60000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr Hajar El Hachimi",
+      "phone": "05397-04090",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr.El Barkouki Mouna",
+      "phone": "05399-65060",
+      "website": "",
+      "emails": [],
+      "location": "n125, 3ème étage, bureau n08, Av. Mohamed V"
+    },
+    {
+      "name": "Docteur SOLAIMAN ZOHAIR (Cabinet dentaire)",
+      "phone": "05399-61630",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "CABINET DENTAIRE ROMMANA - Dr Mohamed Amine El Kamhi",
+      "phone": "05399-64035",
+      "website": "",
+      "emails": [],
+      "location": "Bureau 9, Immeuble Granada A, Av Moulay Bel Mehdi, Tetouan 93000"
+    },
+    {
+      "name": "Cabinet dentaire al basma",
+      "phone": "05399-98496",
+      "website": "https://cliniquedentairemarrakech.com",
+      "emails": [
+        "cliniquedentairebasma@gmail.com"
+      ],
+      "location": "Apt AE5, Résidence Al Ismailia à l'entre-sol, 33 Av. des FAR, Tétouan"
+    },
+    {
+      "name": "Cabinet Dentaire Dr Hasnae MOUSSA",
+      "phone": "05397-11194",
+      "website": "",
+      "emails": [],
+      "location": "2ème étage, Im. 17, N 4 Av. Mohamed V, Tetouan 93000"
+    },
+    {
+      "name": "Centre dentaire Dr. Khaoula JABRANE",
+      "phone": "05373-72595",
+      "website": "https://hichamelmaroud2014.wixsite.com/centre-dentaire-dr",
+      "emails": [
+        "info@mysite.com"
+      ],
+      "location": "1 .bureau n 7, résidence belkhayat, val fleury, rue T"
+    },
+    {
+      "name": "Cabinet dentaire docteur labib kaoutar",
+      "phone": "05373-73376",
+      "website": "",
+      "emails": [],
+      "location": "3ème étage, Angle Jamil Sedki Zouhaoui et Abou Baker Sedik, Residence La Ville Haute Bloc A, Bureau 25"
+    },
+    {
+      "name": "Dr Idriss Cherkaoui (dentiste rabat)",
+      "phone": "05377-31383",
+      "website": "https://cabinetdentairecherkaoui.com",
+      "emails": [
+        "dr.idrisscherkaoui@gmail.com",
+        "info@email.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Agdal Dental Clinic",
+      "phone": "05377-74646",
+      "website": "https://orthodontiste-rabat.com",
+      "emails": [
+        "contact@centre-dentaire-agdal.com",
+        "cda.dentiste.rabat@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Montblanc Dental Center | Hollywood Smile, Implants, Invisalign, Ortho, Facettes, Blanchiment Dentaire, Dentiste Marrakech",
+      "phone": "05244-32942",
+      "website": "https://www.mbdental.ma",
+      "emails": [
+        "contact@mbdental.ma"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Tanger Ville | Dr. Adil ABBASSAT",
+      "phone": "05 39 42 12 12",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Centre Dentaire Hay Mohammedi - Dr Issam Chihrar - dentiste agadir",
+      "phone": "0525-134115",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr EZZINE Amine",
+      "phone": "",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr. Amal SABIA",
+      "phone": "05365-07173",
+      "website": "",
+      "emails": [],
+      "location": "1er étage App 2, Imm Farah, Boulevard Al Maqdis, Oujda 60000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Jalal Azzimani Chirurgien Dentiste",
+      "phone": "05365-37455",
+      "website": "http://oujdadentiste.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Fadoua Yahyaoui Chirurgien Dentiste",
+      "phone": "05366-97469",
+      "website": "",
+      "emails": [],
+      "location": "Cabinet Dentaire Dr. Fadoua Yahyaoui Chirurgien Dentiste, Bd Mohammed ben lakhdar, n41, Oujda 60000"
+    },
+    {
+      "name": "Centre Dentaire - Dr. Omar Basraoui",
+      "phone": "05366-83939",
+      "website": "",
+      "emails": [],
+      "location": "2 étage, Immeuble El Baraka, P1, Oujda 60000"
+    },
+    {
+      "name": "Cabinet Dentaire Dr.Boutaina Bouhaouita",
+      "phone": "0667-766771",
+      "website": "",
+      "emails": [],
+      "location": "Bureau n 3, Résidence Cielo Azul, Av. Sidi Mohamed Al Kharaz, Tétouan"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Imad Louazir",
+      "phone": "05397-25555",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "cabinet dentaire Loukach",
+      "phone": "0666-481610",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet dentaire Dr Najib Aktaou",
+      "phone": "05399-98800",
+      "website": "",
+      "emails": [],
+      "location": "1er étage, Cabinet dentaire Dr Najib Aktaou, Avenue des Far res Ennour, n"
+    },
+    {
+      "name": "Cabinet dentaire Dr. Chrif Hiba",
+      "phone": "",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dr Kziber Idris - Dentiste à mohammedia",
+      "phone": "0521-051833",
+      "website": "https://drkziber.com",
+      "emails": [
+        "Idris@drkziber.com"
+      ],
+      "location": "2ème étage, Plateau Bureau n 5, Parc plaza, Immeuble 2"
+    },
+    {
+      "name": "Centre Dentaire Mohammedia by Dr Boukdir-Dentiste Mohammedia- blanchiment/implant/couronne/Hollywood smile/ orthodontiste",
+      "phone": "05232-80028",
+      "website": "https://www.dentiste-mohammedia.com",
+      "emails": [
+        "Contact@dentiste-mohammedia.com",
+        "f.odontology@gmail.com"
+      ],
+      "location": "FB20 1er étage num 3, au dessus pharmacie Majorelle, Bd Mohamed VI, Mohammédia"
+    },
+    {
+      "name": "Cabinet Dentaire mohammedia by Dr Toulout Amine, implant, Bridge, facette, couronne, blanchiment, chirurgie dent de sagesse",
+      "phone": "0698-282979",
+      "website": "http://dentistetoulout-mohammedamine.ma",
+      "emails": [
+        "Dr.toulout.amine@gmail.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique Dentaire Parc Center - Dr khazzar issam",
+      "phone": "05233-14151",
+      "website": "https://cliniquedentaireparc.com",
+      "emails": [],
+      "location": "Immeuble A 1er Étage, Residence Kamal, Parc Center, Bd Mohamed Zerktouni"
+    },
+    {
+      "name": "Cabinet Dentaire Dr. Abou El Qassime houda Chirurgienne Dentiste",
+      "phone": "05233-13913",
+      "website": "",
+      "emails": [],
+      "location": "1er Etage Appart 2, IMMEUBLE ESSAFI, Bd des Forces Armées Royales, Mohammédia 28500"
+    },
+    {
+      "name": "Centre dentaire sourire du parc - centre dentaire mohammadia",
+      "phone": "05232-72313",
+      "website": "",
+      "emails": [],
+      "location": "Centre dentaire sourire du parc - centre dentaire mohammadia, Kamal parc business center, Imm M, n"
+    },
+    {
+      "name": "Cabinet Dentaire Multidisciplinaire Dr. Asmaa Mansouri Chirurgienne Dentiste",
+      "phone": "05233-04400",
+      "website": "http://dentiste-mohammedia-asmaa-mansouri.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Cabinet De Chirurgie Dentaire Et D'orthodontie Dr.khadir",
+      "phone": "05233-08175",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique Dentaire Fdala",
+      "phone": "05233-10231",
+      "website": "https://cliniquedentairefdala.com",
+      "emails": [],
+      "location": "2ème etg, Clinique Dentaire Fdala, Place med V fdala center N8, Mohammédia 28810"
+    },
+    {
+      "name": "Cabinet Dentaire Chaimae Souilhi Chirurgien Dentiste",
+      "phone": "05233-20171",
+      "website": "",
+      "emails": [],
+      "location": "Appt 4, 2ème étage, Parc Plaza1, Immeuble i2"
+    },
+    {
+      "name": "CENTRE DENTAIRE EL ALIA Dr Mouad Alaoui Balghiti et Dr Kaoutar Houmir",
+      "phone": "05232-85379",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Clinique Dentaire Centrale de Mohammedia Dr. Abdellatif Ouassim Chirurgien Dentiste",
+      "phone": "0520-506025",
+      "website": "",
+      "emails": [],
+      "location": "Clinique Dentaire Centrale de Mohammedia Dr. Abdellatif Ouassim Chirurgien Dentiste, immeuble Bouargane, Bd des Forces Armées Royales, Mohammédia 28810"
+    },
+    {
+      "name": "Dr Zineb BELLAMLIH - dentiste Mohammedia",
+      "phone": "0720-741149",
+      "website": "https://drbellamlih.com",
+      "emails": [
+        "Info@drbellamlih.com"
+      ],
+      "location": "maroc"
+    },
+    {
+      "name": "Docteur Chirurgien Dentiste Faik Meriem (Cabinet)",
+      "phone": "05233-29117",
+      "website": "https://www.mondentiste.ma/meriem-faik-4579.htm",
+      "emails": [
+        "contact@mondentiste.ma"
+      ],
+      "location": "C, Db Chabab, 647 Bd de Palestine, Mohammedia 20650"
+    },
+    {
+      "name": "CENTRE DENTAIRE JEDDI",
+      "phone": "05232-73610",
+      "website": "https://centredentairejeddi.com",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dentiste Mohammédia orthodontiste centre dentaire spécialisé Dr Loubna Wahdani",
+      "phone": "05232-71227",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Dentiste & Médecine Esthétique à Mohammedia — Dr. Lalla Achouak Benlaghlid",
+      "phone": "05233-27373",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
+    },
+    {
+      "name": "Smilera Dental Clinic By Dr. Mohammed Amine ELAMRI",
+      "phone": "0660-602513",
+      "website": "",
+      "emails": [],
+      "location": "2ème étage, Lot Al Massira, N 187 Bd Mohamed VI, Mohammédia 28820"
+    },
+    {
+      "name": "centre dentaire nhairy",
+      "phone": "05232-86868",
+      "website": "",
+      "emails": [],
+      "location": "1 er etage, 599 bis, bd abdelkrim el khatabi, Mohammédia"
+    },
+    {
+      "name": "Centre dentaire Palestine Dr. ADNANE Mariyama",
+      "phone": "0521-009755",
+      "website": "",
+      "emails": [],
+      "location": "maroc"
     }
   ]
 }

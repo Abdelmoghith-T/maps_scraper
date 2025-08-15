@@ -625,35 +625,21 @@ class FlexibleBusinessScraper {
 
 // Parse query to extract business type and location
 function parseQuery(query) {
-  // Split the query into words
-  const words = query.toLowerCase().split(/\s+/);
+  const words = query.toLowerCase().split(/\s+/).filter(Boolean); // Filter Boolean to remove empty strings from split
 
-  // Common location indicators for Morocco
-  const moroccanCities = [
-    'casablanca', 'rabat', 'fes', 'fez', 'marrakech', 'marrakesh', 'agadir',
-    'tangier', 'tanger', 'meknes', 'oujda', 'kenitra', 'tetouan', 'safi',
-    'mohammedia', 'khouribga', 'beni mellal', 'el jadida', 'taza', 'nador',
-    'settat', 'larache', 'ksar el kebir', 'sale', 'berrechid', 'khemisset',
-    'inezgane', 'ouarzazate', 'tiznit', 'taroudant'
-  ];
+  let location = '';
+  let businessType = '';
 
-  // Find location in the query
-  let location = 'fes'; // default
-  let businessType = query;
-
-  for (const city of moroccanCities) {
-    if (words.includes(city)) {
-      location = city;
-      // Remove the city from business type
-      businessType = query.replace(new RegExp(`\\b${city}\\b`, 'gi'), '').trim();
-      break;
-    }
+  if (words.length > 0) {
+    location = words[words.length - 1]; // Last word is the location
+    businessType = words.slice(0, -1).join(' '); // Rest are business type
+  } else {
+    // Fallback if query is empty
+    location = 'maroc'; 
+    businessType = '';
   }
-
-  // Clean up business type (remove extra spaces)
-  businessType = businessType.replace(/\s+/g, ' ').trim();
-
-  return { businessType, location };
+  
+  return { businessType: businessType.trim(), location: location.trim() };
 }
 
 // Main execution function
