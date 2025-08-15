@@ -29,7 +29,7 @@ class MapsScraper {
         try {
           const response = await axios.get(url, {
             headers: {
-              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+              'User-Agent': config.requestSettings.userAgent,
               'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
               'Accept-Language': 'en-US,en;q=0.5',
               'Accept-Encoding': 'gzip, deflate, br',
@@ -39,19 +39,29 @@ class MapsScraper {
             httpsAgent: new (require('https').Agent)({
               rejectUnauthorized: false
             }),
-            timeout: 15000
+            timeout: config.requestSettings.timeout
           });
 
           const data = response.data;
 
           // Check if we got useful data (look for business patterns)
-          if (data.includes('[7,[[') || data.includes('dentiste') || data.includes('phone')) {
+          // A more robust check might involve looking for specific HTML elements/classes
+          // related to business listings, e.g., if (data.includes('window.APP_INITIALIZATION_STATE') || data.includes('"place_id"'))
+          if (data.includes('[7,[[') || data.includes('data-section-id="ol"') || data.includes('data-section-id="lu"')) {
             console.log(`Success with approach ${i + 1}`);
             return data;
           }
 
         } catch (error) {
           console.log(`Approach ${i + 1} failed: ${error.message}`);
+          if (error.response) {
+            console.log(`  Status: ${error.response.status}`);
+            console.log(`  Headers: ${JSON.stringify(error.response.headers)}`);
+          } else if (error.request) {
+            console.log(`  No response received. Request made but no response.`);
+          } else {
+            console.log(`  Error setting up request: ${error.message}`);
+          }
         }
       }
 
@@ -70,9 +80,9 @@ class MapsScraper {
       console.log(`Scraping website: ${website}`);
 
       const response = await axios.get(website, {
-        timeout: 10000,
+        timeout: config.requestSettings.timeout,
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+          'User-Agent': config.requestSettings.userAgent
         }
       });
 

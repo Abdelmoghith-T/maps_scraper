@@ -1,3 +1,4 @@
+const config = require('./config');
 /**
  * Utility functions for data extraction and processing
  */
@@ -8,7 +9,7 @@
  * @returns {string[]} Array of phone numbers
  */
 function extractPhoneNumbers(text) {
-  const regex = /\b(?:\+212[\s\-]?|0)(5|6|7)(?:[\s\-]?\d){8}\b/g;
+  const regex = config.phoneRegex.morocco; // Use regex from config
   return text.match(regex) || [];
 }
 
@@ -234,15 +235,7 @@ function extractEmails(data) {
   const emails = data.match(regex) || [];
   
   // Filter out blacklisted and fake emails
-  const blacklist = [
-    'no-reply', 'sentry', 'moofin',
-    'example.com', 'example.org', 'example.net',
-    'test@', 'demo@', 'sample@', 'placeholder@',
-    'your-email@', 'youremail@', 'email@example',
-    'admin@example', 'info@example', 'contact@example',
-    'support@example', 'hello@example', 'mail@example',
-    'noreply@', 'donotreply@', 'no_reply@'
-  ];
+  const blacklist = config.emailBlacklist; // Use blacklist from config
 
   const filtered = Array.from(new Set(emails)).filter(email => {
     const emailLower = email.toLowerCase();
@@ -357,12 +350,11 @@ function filterAddressCandidates(candidates, city = '') {
  * @returns {string[]} Filtered array of parts
  */
 function filterSocialMediaParts(parts) {
+  const socialMediaFilters = config.socialMediaFilters; // Use filters from config
   return parts.filter(part => {
-    return !part.includes('instagram') &&
-           !part.includes('wa.me') &&
-           !part.includes('facebook') &&
-           !part.includes('whatsapp') &&
-           part.endsWith('",');
+    // Check if any social media filter is included in the part
+    const isSocialMedia = socialMediaFilters.some(filter => part.includes(filter));
+    return !isSocialMedia && part.endsWith('",');
   });
 }
 

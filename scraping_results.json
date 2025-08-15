@@ -1,50 +1,155 @@
 {
   "metadata": {
-    "businessType": "dentiste",
+    "businessType": "Concepteur de sites web",
     "location": "fes",
-    "totalResults": 5,
-    "scrapedAt": "2025-08-14T17:18:19.359Z",
-    "scrapedAtLocal": "8/14/2025, 6:18:19 PM"
+    "totalResults": 19,
+    "scrapedAt": "2025-08-15T02:24:39.712Z",
+    "scrapedAtLocal": "8/15/2025, 3:24:39 AM"
   },
   "results": [
     {
-      "name": "Dr. Serroukh Khalid, Chirurgien Dentiste Fes Dentiste Fès Pedodontiste & implantologie Fes",
-      "phone": "05356-03678",
-      "website": "",
+      "name": "Metagroup création site web fés",
+      "phone": "0708-023048",
+      "website": "https://metagroup.ma",
       "emails": [],
-      "location": "Saada En dessus de carly, 24 avenue saint louis bureau meftaha, n13, Fès 31000"
+      "location": "fes"
     },
     {
-      "name": "Cabinet d'orthodontie Dr. Said TLEMCANI",
-      "phone": "05356-52080",
+      "name": "Appbox",
+      "phone": "0690-402020",
+      "website": "",
+      "emails": [],
+      "location": "30050, Maroc, Rue de Libye, Fes 30000"
+    },
+    {
+      "name": "Création site web Maroc fés",
+      "phone": "0708-023048",
+      "website": "https://metagroup.ma",
+      "emails": [],
+      "location": "fes"
+    },
+    {
+      "name": "Webmarko",
+      "phone": "0661-511183",
       "website": "",
       "emails": [],
       "location": "fes"
     },
     {
-      "name": "Cabinet dentaire Dr. kadri badr",
-      "phone": "0666-686646",
-      "website": "https://drbadrkadri.com",
+      "name": "NassimSEO Création Site Web",
+      "phone": "0669-947515",
+      "website": "https://nassimseo.com/creation-site-web-maroc",
       "emails": [
-        "drkadribadr@gmail.com"
+        "contact@nassimseo.com"
+      ],
+      "location": "NR 411, TGHAT, LOTS RIAD LAYMOUN, Fes 30100"
+    },
+    {
+      "name": "isweb",
+      "phone": "0532-042566",
+      "website": "",
+      "emails": [],
+      "location": "Bureau 4, 420 RUE LAIMOUNE, ETG 2, Fes 30000"
+    },
+    {
+      "name": "Fesweb",
+      "phone": "05356-51358",
+      "website": "https://www.fesweb.net",
+      "emails": [],
+      "location": "fes"
+    },
+    {
+      "name": "Webeasy",
+      "phone": "",
+      "website": "",
+      "emails": [],
+      "location": "fes"
+    },
+    {
+      "name": "Inventis",
+      "phone": "05356-21314",
+      "website": "http://inventis.ma",
+      "emails": [
+        "contact@inventis.ma"
+      ],
+      "location": "Inventis, 12 Rue Tunisie, Fes 30000, Morocco"
+    },
+    {
+      "name": "Screenday",
+      "phone": "0532-001024",
+      "website": "https://screenday.ma",
+      "emails": [],
+      "location": "6EM ÉTAGE , BUREAU N 35, RÉSIDENCE LYOUBIA, ALLAL BEN ABDELLAH"
+    },
+    {
+      "name": "MyDigi",
+      "phone": "0663-446461",
+      "website": "",
+      "emails": [],
+      "location": "fes"
+    },
+    {
+      "name": "Agence web fes appbox",
+      "phone": "0690-402020",
+      "website": "",
+      "emails": [],
+      "location": "30050, Maroc, Rue de Libye, Fes 30000"
+    },
+    {
+      "name": "Rythme Media Fes - Création site web Fes - Agence web Fes",
+      "phone": "0605-462993",
+      "website": "https://www.rythmedia.com/agence-web-fes",
+      "emails": [
+        "contact@rythmedia.com"
+      ],
+      "location": "Rythme Media Fes - Création site web Fes - Agence web Fes, résidence salma 2, Av. Mohammed V, Fès 30000"
+    },
+    {
+      "name": "Marweb",
+      "phone": "0646-166236",
+      "website": "https://marweb.com",
+      "emails": [],
+      "location": "Marweb, bureaux zineb, Rue Allal Loudiyi, Fès 30000"
+    },
+    {
+      "name": "Cabinet ABIsoft",
+      "phone": "0660-972646",
+      "website": "https://www.abisoft.ma",
+      "emails": [],
+      "location": "Cabinet ABIsoft, Rue Abdelkhalek Tores, Printemps bureau, 1ère Étage Bureau N"
+    },
+    {
+      "name": "MAROCRANK",
+      "phone": "0664-817088",
+      "website": "https://www.marocrank.com",
+      "emails": [
+        "contact@marocrank.com",
+        "support@marocrank.com"
       ],
       "location": "fes"
     },
     {
-      "name": "Dr Saad Debbagh Orthodontiste Fès",
-      "phone": "05359-60296",
-      "website": "https://debbaghdentalsmile.com",
-      "emails": [
-        "contact@debbagh-dental.com"
-      ],
-      "location": "fes"
-    },
-    {
-      "name": "Cabinet dentaire Dr. Meriem Dahhou",
-      "phone": "05387-27341",
+      "name": "FUTUR DEVELOPPEMENT",
+      "phone": "05359-31973",
       "website": "",
       "emails": [],
       "location": "fes"
+    },
+    {
+      "name": "Kreazin MEDIA",
+      "phone": "05356-24041",
+      "website": "",
+      "emails": [],
+      "location": "fes"
+    },
+    {
+      "name": "YKSolutions.ma",
+      "phone": "0613-638731",
+      "website": "https://www.yksolutions.ma",
+      "emails": [
+        "contact@yksolutions.ma"
+      ],
+      "location": "APPT 9, YKSolutions.ma, 1 Rue de l'Algerie, Fès 30000"
     }
   ]
 }

@@ -14,7 +14,14 @@ module.exports = {
   },
   
   // Email filtering blacklist
-  emailBlacklist: ['no-reply', 'sentry', 'moofin', 'noreply', 'donotreply'],
+  emailBlacklist: [
+    'no-reply', 'sentry', 'moofin',
+    'example.com', 'example.org', 'example.net',
+    'test@', 'demo@', 'sample@', 'placeholder@',
+    'your-email@', 'youremail@', 'email@example',
+    'admin@example', 'info@example', 'contact@example',
+    'support@example', 'hello@example', 'mail@example',
+    'noreply@', 'donotreply@', 'no_reply@'],
   
   // Social media platforms to filter out
   socialMediaFilters: ['instagram', 'wa.me', 'facebook', 'whatsapp', 'twitter', 'linkedin'],
